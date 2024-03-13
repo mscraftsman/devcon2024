@@ -22,7 +22,7 @@
                         <svg role="img" class="h-6 w-6" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>LinkedIn</title><path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/></svg>
                     </a>
                     <a class="ml-4 p-2 bg-[#E83F3B] transition duration-700 hover:bg-[#BF1F2E] hover:ease-in-out rounded-md uppercase text-sm font-bold font-button font-pixel text-gray-50" href="/doc/DevCon24-Partnership-Proposal.pdf" target="_blank">Sponsorship Proposal</a>
-                    <a class="ml-1 p-2 bg-[#FAEA48] transition duration-700 hover:bg-[#FAB71F] hover:ease-in-out rounded-md uppercase text-[#BF1F2E] text-sm font-bold font-button font-pixel" href="">Register</a>
+                    <a class="hidden ml-1 p-2 bg-[#FAEA48] transition duration-700 hover:bg-[#FAB71F] hover:ease-in-out rounded-md uppercase text-[#BF1F2E] text-sm font-bold font-button font-pixel" href="">Register</a>
                 </div>
 
                 <!-- Mobile Menu Button -->
@@ -48,7 +48,7 @@
                     </div>
                     <div class="mt-4 pb-4 flex flex-col gap-2">
                         <a class="p-2 bg-[#E83F3B] transition duration-700 hover:bg-[#BF1F2E] hover:ease-in-out rounded-md uppercase text-sm font-bold font-button font-pixel text-gray-50 text-center" href="/doc/DevCon24-Partnership-Proposal.pdf" target="_blank">Sponsorship Proposal</a>
-                        <a class="p-2 bg-[#FAEA48] transition duration-700 hover:bg-[#FAB71F] hover:ease-in-out rounded-md uppercase text-[#BF1F2E] text-sm font-bold font-button font-pixel text-center" href="">Register</a>
+                        <a class="hidden p-2 bg-[#FAEA48] transition duration-700 hover:bg-[#FAB71F] hover:ease-in-out rounded-md uppercase text-[#BF1F2E] text-sm font-bold font-button font-pixel text-center" href="">Register</a>
 
                         <div class="mt-4 mx-auto flex flex-row gap-3 items-center fill-gray-50 hover:fill-gray-200">
                             <a href="https://twitter.com/MSCraftsman">
