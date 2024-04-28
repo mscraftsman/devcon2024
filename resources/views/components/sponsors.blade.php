@@ -47,7 +47,7 @@
             <img src="/images/sponsor-tiers/gold.svg" class="h-8 lg:h-10" />
         </div>
         <div class="mt-8 lg:mt-16 max-w-4xl mx-auto grid place-items-center">
-            <div class="flex flex-col lg:flex-row gap-10 items-center">
+            <div class="flex flex-col lg:flex-row gap-16 items-center">
                 <a href="https://careers.elca.mu/" target="_blank">
                     <img src="/images/sponsors/elca.png" class="h-8 lg:h-10" />
                 </a>
@@ -61,12 +61,12 @@
                     <img src="/images/sponsors/iqera.png" class="h-20 lg:h-26" />
                 </a>
             </div>
-            <div class="mt-10 flex flex-col lg:flex-row gap-10 items-center">
+            <div class="mt-10 flex flex-col lg:flex-row gap-16 items-center">
                 <a href="https://www.publicisgroupe.com" target="_blank">
                     <img src="/images/sponsors/publicis.png" class="h-20 lg:h-24" />
                 </a>
                 <a href="https://www.klanik.com/" target="_blank">
-                    <img src="/images/sponsors/klanik.png" class="h-20 lg:h-24" />
+                    <img src="/images/sponsors/klanik.png" class="h-20 lg:h-32" />
                 </a>
             </div>
         </div>
@@ -78,7 +78,7 @@
             <img src="/images/sponsor-tiers/silver.svg" class="h-8 lg:h-10" />
         </div>
         <div class="mt-8 lg:mt-16 max-w-4xl mx-auto grid place-items-center">
-            <div class="flex flex-col lg:flex-row gap-10 items-center">
+            <div class="flex flex-col lg:flex-row gap-16 items-center">
                 <a href="https://www.rapp.com/" target="_blank">
                     <img src="/images/sponsors/rapp.png" class="h-6 lg:h-8" />
                 </a>

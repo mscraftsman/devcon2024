@@ -9,8 +9,8 @@
         </div>
     </div>
     <div class="flex flex-row justify-between">
-        <img src="/images/tree-left.svg"  class="h-12 lg:h-36" />
-        <img src="/images/tree-right.svg" class="h-12 lg:h-36"  />
+        <img src="/images/tree-left.svg"  class="h-12 lg:h-60" />
+        <img src="/images/tree-right.svg" class="h-12 lg:h-60"  />
     </div>
     <img src="/images/footer-grass.svg" />
 </div>
