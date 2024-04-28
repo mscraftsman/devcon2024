@@ -5,7 +5,7 @@
             Sponsors & Partners
         </div>
 
-        <div class="mt-8 lg:mt-16 max-w-md mx-auto flex flex-row justify-between gap-4">
+        <div class="hidden mt-8 lg:mt-16 max-w-md mx-auto flex flex-row justify-between gap-4">
             <!-- Diamond Tier -->
             <img src="/images/sponsor-tiers/diamond.svg" class="h-8 lg:h-10" />
             <h3 class="text-lg lg:text-2xl font-pixel font-bold">Diamond Tier</h3>
@@ -20,7 +20,9 @@
         </div>
         <div class="mt-8 lg:mt-16 max-w-4xl mx-auto grid place-items-center">
             <div class="flex flex-col lg:flex-row gap-6">
-                <img src="/images/sponsors/swan.png" class="h-8 lg:h-12" />
+                <a href="https://www.swanforlife.com/" target="_blank">
+                    <img src="/images/sponsors/swan.png" class="h-8 lg:h-12" />
+                </a>
             </div>
         </div>
 
@@ -29,6 +31,13 @@
             <img src="/images/sponsor-tiers/platinum.svg" class="h-8 lg:h-10" />
             <h3 class="text-lg lg:text-2xl font-pixel font-bold">Platinum Tier</h3>
             <img src="/images/sponsor-tiers/platinum.svg" class="h-8 lg:h-10" />
+        </div>
+        <div class="mt-8 lg:mt-16 max-w-4xl mx-auto grid place-items-center">
+            <div class="flex flex-col lg:flex-row gap-6">
+                <a href="https://mcb.mu/" target="_blank">
+                    <img src="/images/sponsors/mcb.png" class="h-16 lg:h-20" />
+                </a>
+            </div>
         </div>
 
         <div class="mt-8 lg:mt-16 max-w-md mx-auto flex flex-row justify-between gap-4">
@@ -39,14 +48,26 @@
         </div>
         <div class="mt-8 lg:mt-16 max-w-4xl mx-auto grid place-items-center">
             <div class="flex flex-col lg:flex-row gap-10 items-center">
-                <img src="/images/sponsors/elca.png" class="h-8 lg:h-12" />
-                <img src="/images/sponsors/astek.png" class="h-24 lg:h-30" />
-                <img src="/images/sponsors/eventstore.svg" class="h-12 lg:h-16" />
-                <img src="/images/sponsors/iqera.png" class="h-20 lg:h-26" />
+                <a href="https://careers.elca.mu/" target="_blank">
+                    <img src="/images/sponsors/elca.png" class="h-8 lg:h-10" />
+                </a>
+                <a href="https://www.astek.mu" target="_blank">
+                    <img src="/images/sponsors/astek.png" class="h-24 lg:h-30" />
+                </a>
+                <a href="https://www.eventstore.com/" target="_blank">
+                    <img src="/images/sponsors/eventstore.svg" class="h-12 lg:h-16" />
+                </a>
+                <a href="https://www.iqera.com/" target="_blank">
+                    <img src="/images/sponsors/iqera.png" class="h-20 lg:h-26" />
+                </a>
             </div>
             <div class="mt-10 flex flex-col lg:flex-row gap-10 items-center">
-                <img src="/images/sponsors/publicis.png" class="h-20 lg:h-24" />
-                <img src="/images/sponsors/klanik.png" class="h-20 lg:h-24" />
+                <a href="https://www.publicisgroupe.com" target="_blank">
+                    <img src="/images/sponsors/publicis.png" class="h-20 lg:h-24" />
+                </a>
+                <a href="https://www.klanik.com/" target="_blank">
+                    <img src="/images/sponsors/klanik.png" class="h-20 lg:h-24" />
+                </a>
             </div>
         </div>
 
@@ -58,8 +79,12 @@
         </div>
         <div class="mt-8 lg:mt-16 max-w-4xl mx-auto grid place-items-center">
             <div class="flex flex-col lg:flex-row gap-10 items-center">
-                <img src="/images/sponsors/rapp.png" class="h-6 lg:h-8" />
-                <img src="/images/sponsors/novity.png" class="h-12 lg:h-16" />
+                <a href="https://www.rapp.com/" target="_blank">
+                    <img src="/images/sponsors/rapp.png" class="h-6 lg:h-8" />
+                </a>
+                <a href="https://novity.io/" target="_blank">
+                    <img src="/images/sponsors/novity.png" class="h-12 lg:h-16" />
+                </a>
             </div>
         </div>
 
@@ -81,7 +106,9 @@
         </div>
         <div class="mt-8 lg:mt-16 max-w-4xl mx-auto grid place-items-center">
             <div class="flex flex-col lg:flex-row gap-10 items-center">
-                <img src="/images/sponsors/ringier.png" class="h-10 lg:h-12" />
+                <a href="https://www.ringier.com/" target="_blank">
+                    <img src="/images/sponsors/ringier.png" class="h-10 lg:h-12" />
+                </a>
             </div>
         </div>
 
@@ -91,7 +118,9 @@
         </div>
         <div class="mt-8 lg:mt-16 max-w-4xl mx-auto grid place-items-center">
             <div class="flex flex-col lg:flex-row gap-10 items-center">
-                <img src="/images/sponsors/spoonconsulting.png" class="h-16 lg:h-20" />
+                <a href="https://www.spoonconsulting.com/" target="_blank">
+                    <img src="/images/sponsors/spoonconsulting.png" class="h-16 lg:h-20" />
+                </a>
             </div>
         </div>
 
@@ -101,7 +130,9 @@
         </div>
         <div class="mt-8 lg:mt-16 max-w-4xl mx-auto grid place-items-center">
             <div class="flex flex-col lg:flex-row gap-10 items-center">
-                <img src="/images/sponsors/kaldera.png" class="h-10 lg:h-12" />
+                <a href="https://www.kaldera.mu/" target="_blank">
+                    <img src="/images/sponsors/kaldera.png" class="h-10 lg:h-12" />
+                </a>
             </div>
         </div>
 
@@ -111,7 +142,9 @@
         </div>
         <div class="mt-8 lg:mt-16 max-w-4xl mx-auto grid place-items-center">
             <div class="flex flex-col lg:flex-row gap-10 items-center">
-                <img src="/images/sponsors/lasentinelle.svg" class="h-8 lg:h-10" />
+                <a href="https://lasentinelle.mu" target="_blank">
+                    <img src="/images/sponsors/lasentinelle.svg" class="h-8 lg:h-10" />
+                </a>
             </div>
         </div>
 
@@ -121,7 +154,9 @@
         </div>
         <div class="mt-8 lg:mt-16 max-w-4xl mx-auto grid place-items-center">
             <div class="flex flex-col lg:flex-row gap-10 items-center">
-                <img src="/images/sponsors/cloud-mu.png" class="h-10 lg:h-12" />
+                <a href="https://cloud.mu" target="_blank">
+                    <img src="/images/sponsors/cloud-mu.png" class="h-10 lg:h-12" />
+                </a>
             </div>
         </div>
 
