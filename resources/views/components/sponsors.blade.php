@@ -49,13 +49,13 @@
         <div class="mt-8 lg:mt-16 max-w-4xl mx-auto grid place-items-center">
             <div class="flex flex-col lg:flex-row gap-8 lg:gap-16 items-center">
                 <a href="https://careers.elca.mu/" target="_blank">
-                    <img src="/images/sponsors/elca.png" class="h-8 lg:h-10" />
+                    <img src="/images/sponsors/elca.png" class="h-8 lg:h-[2.25rem]" />
                 </a>
                 <a href="https://www.astek.mu" target="_blank">
-                    <img src="/images/sponsors/astek.png" class="h-24 lg:h-30" />
+                    <img src="/images/sponsors/astek.png" class="h-24 lg:h-[6.25rem]" />
                 </a>
                 <a href="https://www.eventstore.com/" target="_blank">
-                    <img src="/images/sponsors/eventstore.svg" class="h-12 lg:h-16" />
+                    <img src="/images/sponsors/eventstore.svg" class="h-12 lg:h-[3.5rem]" />
                 </a>
                 <a href="https://www.iqera.com/" target="_blank">
                     <img src="/images/sponsors/iqera.png" class="h-20 lg:h-26" />
@@ -86,7 +86,7 @@
                     <img src="/images/sponsors/rapp.png" class="h-6 lg:h-8" />
                 </a>
                 <a href="https://novity.io/" target="_blank">
-                    <img src="/images/sponsors/novity.png" class="h-12 lg:h-16" />
+                    <img src="/images/sponsors/novity.png" class="h-[3.5rem] lg:h-[4.5rem]" />
                 </a>
             </div>
         </div>
@@ -98,8 +98,11 @@
             <img src="/images/sponsor-tiers/bronze.svg" class="h-8 lg:h-10" />
         </div>
         <div class="mt-8 lg:mt-16 max-w-4xl mx-auto grid place-items-center">
-            <div class="flex flex-col lg:flex-row gap-6">
+            <div class="flex flex-col lg:flex-row gap-8 lg:gap-16">
                 <img src="/images/sponsors/ios.png" class="h-16 lg:h-20" />
+                <a href="http://www.infomil.mu/" target="_blank">
+                    <img src="/images/sponsors/infomil.png" class="h-12 lg:h-16" />
+                </a>
             </div>
         </div>
 
