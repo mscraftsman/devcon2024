@@ -81,7 +81,7 @@
             <img src="/images/sponsor-tiers/silver.svg" class="h-8 lg:h-10" />
         </div>
         <div class="mt-8 lg:mt-16 max-w-4xl mx-auto grid place-items-center">
-            <div class="flex flex-col lg:flex-row gap-8 lg:gap-16 items-center">
+            <div class="flex flex-col lg:flex-row gap-8 lg:gap-20 items-center">
                 <a href="https://www.rapp.com/" target="_blank">
                     <img src="/images/sponsors/rapp.png" class="h-6 lg:h-8" />
                 </a>
