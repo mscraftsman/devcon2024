@@ -7,7 +7,7 @@
         </div>
     </div>
 
-    <div class="mt-4 lg:mt-24 text-sm lg:text-2xl text-center font-pixel font-bold text-yellow-400">
+    <div class="px-4 lg:px-0 mt-4 lg:mt-24 text-xs lg:text-2xl text-center font-pixel font-bold text-yellow-400">
         Innovation · Technology · Community
     </div>
 
