@@ -115,6 +115,9 @@
                 <a href="https://www.ringier.com/" target="_blank">
                     <img src="/images/sponsors/ringier.png" class="h-10 lg:h-12" />
                 </a>
+                <a href="https://www.publicisgroupe.com" target="_blank">
+                    <img src="/images/sponsors/publicis.png" class="h-20 lg:h-24" />
+                </a>
             </div>
         </div>
 
