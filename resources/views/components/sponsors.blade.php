@@ -5,11 +5,18 @@
             Sponsors & Partners
         </div>
 
-        <div class="hidden mt-8 lg:mt-16 max-w-md mx-auto flex flex-row justify-between gap-4">
+        <div class="mt-8 lg:mt-16 max-w-md mx-auto flex flex-row justify-between gap-4">
             <!-- Diamond Tier -->
             <img src="/images/sponsor-tiers/diamond.svg" class="h-8 lg:h-10" />
             <h3 class="text-lg lg:text-2xl font-pixel font-bold">Diamond Tier</h3>
             <img src="/images/sponsor-tiers/diamond.svg" class="h-8 lg:h-10" />
+        </div>
+        <div class="mt-8 lg:mt-16 max-w-4xl mx-auto grid place-items-center">
+            <div class="flex flex-col lg:flex-row gap-6">
+                <a href="https://www.suse.com/" target="_blank">
+                    <img src="/images/sponsors/suse.svg" class="h-28 lg:h-36" />
+                </a>
+            </div>
         </div>
 
         <div class="mt-8 lg:mt-16 max-w-md mx-auto flex flex-row justify-between gap-4">
@@ -145,11 +152,11 @@
             </div>
         </div>
 
-        <div class="hidden mt-8 lg:mt-16 max-w-md mx-auto grid place-items-center">
+        <div class="mt-8 lg:mt-16 max-w-md mx-auto grid place-items-center">
             <!-- Media Partner -->
             <h3 class="text-lg lg:text-2xl font-pixel font-bold">Media Partner</h3>
         </div>
-        <div class="hidden mt-8 lg:mt-16 max-w-4xl mx-auto grid place-items-center">
+        <div class="mt-8 lg:mt-16 max-w-4xl mx-auto grid place-items-center">
             <div class="flex flex-col lg:flex-row gap-10 items-center">
                 <a href="https://lasentinelle.mu" target="_blank">
                     <img src="/images/sponsors/lasentinelle.svg" class="h-8 lg:h-10" />
