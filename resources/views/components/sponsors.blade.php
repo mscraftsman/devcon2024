@@ -16,7 +16,7 @@
         <div class="mt-8 lg:mt-16 max-w-4xl mx-auto grid place-items-center">
             <div class="flex flex-col lg:flex-row gap-6">
                 <a href="https://www.suse.com/" target="_blank">
-                    <img src="/images/sponsors/suse.svg" class="h-28 lg:h-36" />
+                    <img src="/images/sponsors/suse.svg" class="h-28 lg:h-36 hover:scale-105 transition-all duration-500" />
                 </a>
             </div>
         </div>
@@ -30,7 +30,7 @@
         <div class="mt-8 lg:mt-16 max-w-4xl mx-auto grid place-items-center">
             <div class="flex flex-col lg:flex-row gap-6">
                 <a href="https://www.swanforlife.com/" target="_blank">
-                    <img src="/images/sponsors/swan.png" class="h-10 lg:h-12" />
+                    <img src="/images/sponsors/swan.png" class="h-10 lg:h-12 hover:scale-105 transition-all duration-500" />
                 </a>
             </div>
         </div>
@@ -46,7 +46,7 @@
         <div class="mt-8 lg:mt-16 max-w-4xl mx-auto grid place-items-center">
             <div class="flex flex-col lg:flex-row gap-6">
                 <a href="https://mcb.mu/" target="_blank">
-                    <img src="/images/sponsors/mcb.png" class="h-16 lg:h-20" />
+                    <img src="/images/sponsors/mcb.png" class="h-16 lg:h-20 hover:scale-105 transition-all duration-500" />
                 </a>
             </div>
         </div>
@@ -60,27 +60,27 @@
         <div class="mt-8 lg:mt-16 max-w-4xl mx-auto grid place-items-center">
             <div class="flex flex-col lg:flex-row gap-8 lg:gap-16 items-center">
                 <a href="https://careers.elca.mu/" target="_blank">
-                    <img src="/images/sponsors/elca.png" class="h-8 lg:h-[2.25rem]" />
+                    <img src="/images/sponsors/elca.png" class="h-8 lg:h-[2.25rem] hover:scale-105 transition-all duration-500" />
                 </a>
                 <a href="https://www.astek.mu" target="_blank">
-                    <img src="/images/sponsors/astek.png" class="h-24 lg:h-[6.25rem]" />
+                    <img src="/images/sponsors/astek.png" class="h-24 lg:h-[6.25rem] hover:scale-105 transition-all duration-500" />
                 </a>
                 <a href="https://www.eventstore.com/" target="_blank">
-                    <img src="/images/sponsors/eventstore.svg" class="h-12 lg:h-[3.5rem]" />
+                    <img src="/images/sponsors/eventstore.svg" class="h-12 lg:h-[3.5rem] hover:scale-105 transition-all duration-500" />
                 </a>
                 <a href="https://www.iqera.com/" target="_blank">
-                    <img src="/images/sponsors/iqera.png" class="h-20 lg:h-26" />
+                    <img src="/images/sponsors/iqera.png" class="h-20 lg:h-26 hover:scale-105 transition-all duration-500" />
                 </a>
             </div>
             <div class="mt-10 flex flex-col lg:flex-row gap-8 lg:gap-16 items-center">
                 <a href="https://www.publicisgroupe.com" target="_blank">
-                    <img src="/images/sponsors/publicis.png" class="h-20 lg:h-24" />
+                    <img src="/images/sponsors/publicis.png" class="h-20 lg:h-24 hover:scale-105 transition-all duration-500" />
                 </a>
                 <a class="hidden" href="https://www.klanik.com/" target="_blank">
-                    <img src="/images/sponsors/klanik.png" class="h-20 lg:h-32" />
+                    <img src="/images/sponsors/klanik.png" class="h-20 lg:h-32 hover:scale-105 transition-all duration-500" />
                 </a>
                 <a href="https://www.teamengine.com/" target="_blank">
-                    <img src="/images/sponsors/team-engine.png" class="h-12 lg:h-16" />
+                    <img src="/images/sponsors/team-engine.png" class="h-12 lg:h-16 hover:scale-105 transition-all duration-500" />
                 </a>
             </div>
         </div>
@@ -96,10 +96,10 @@
         <div class="mt-8 lg:mt-16 max-w-4xl mx-auto grid place-items-center">
             <div class="flex flex-col lg:flex-row gap-8 lg:gap-20 items-center">
                 <a href="https://www.rapp.com/" target="_blank">
-                    <img src="/images/sponsors/rapp.png" class="h-6 lg:h-8" />
+                    <img src="/images/sponsors/rapp.png" class="h-6 lg:h-8 hover:scale-105 transition-all duration-500" />
                 </a>
                 <a href="https://novity.io/" target="_blank">
-                    <img src="/images/sponsors/novity.png" class="h-[3.5rem] lg:h-[4.5rem]" />
+                    <img src="/images/sponsors/novity.png" class="h-[3.5rem] lg:h-[4.5rem] hover:scale-105 transition-all duration-500" />
                 </a>
             </div>
         </div>
@@ -112,9 +112,9 @@
         </div>
         <div class="mt-8 lg:mt-16 max-w-4xl mx-auto grid place-items-center">
             <div class="flex flex-col lg:flex-row gap-8 lg:gap-16">
-                <img src="/images/sponsors/ios.png" class="h-16 lg:h-20" />
+                <img src="/images/sponsors/ios.png" class="h-16 lg:h-20 hover:scale-105 transition-all duration-500" />
                 <a href="http://www.infomil.mu/" target="_blank">
-                    <img src="/images/sponsors/infomil.png" class="h-12 lg:h-16" />
+                    <img src="/images/sponsors/infomil.png" class="h-12 lg:h-16 hover:scale-105 transition-all duration-500" />
                 </a>
             </div>
         </div>
@@ -128,10 +128,10 @@
         <div class="mt-8 lg:mt-16 max-w-4xl mx-auto grid place-items-center">
             <div class="flex flex-col lg:flex-row gap-10 items-center">
                 <a href="https://www.ringier.com/" target="_blank">
-                    <img src="/images/sponsors/ringier.png" class="h-10 lg:h-12" />
+                    <img src="/images/sponsors/ringier.png" class="h-10 lg:h-12 hover:scale-105 transition-all duration-500" />
                 </a>
                 <a href="https://www.publicisgroupe.com" target="_blank">
-                    <img src="/images/sponsors/publicis.png" class="h-20 lg:h-24" />
+                    <img src="/images/sponsors/publicis.png" class="h-20 lg:h-24 hover:scale-105 transition-all duration-500" />
                 </a>
             </div>
         </div>
@@ -143,7 +143,7 @@
         <div class="mt-8 lg:mt-16 max-w-4xl mx-auto grid place-items-center">
             <div class="flex flex-col lg:flex-row gap-10 items-center">
                 <a href="https://www.spoonconsulting.com/" target="_blank">
-                    <img src="/images/sponsors/spoonconsulting.png" class="h-16 lg:h-20" />
+                    <img src="/images/sponsors/spoonconsulting.png" class="h-16 lg:h-20 hover:scale-105 transition-all duration-500" />
                 </a>
             </div>
         </div>
@@ -155,7 +155,7 @@
         <div class="mt-8 lg:mt-16 max-w-4xl mx-auto grid place-items-center">
             <div class="flex flex-col lg:flex-row gap-10 items-center">
                 <a href="https://www.kaldera.mu/" target="_blank">
-                    <img src="/images/sponsors/kaldera.png" class="h-10 lg:h-12" />
+                    <img src="/images/sponsors/kaldera.png" class="h-10 lg:h-12 hover:scale-105 transition-all duration-500" />
                 </a>
             </div>
         </div>
@@ -169,7 +169,7 @@
         <div class="mt-8 lg:mt-16 max-w-4xl mx-auto grid place-items-center">
             <div class="flex flex-col lg:flex-row gap-10 items-center">
                 <a href="https://lasentinelle.mu" target="_blank">
-                    <img src="/images/sponsors/lasentinelle.svg" class="h-8 lg:h-10" />
+                    <img src="/images/sponsors/lasentinelle.svg" class="h-8 lg:h-10 hover:scale-105 transition-all duration-500" />
                 </a>
             </div>
         </div>
@@ -181,7 +181,7 @@
         <div class="mt-8 lg:mt-16 max-w-4xl mx-auto grid place-items-center">
             <div class="flex flex-col lg:flex-row gap-10 items-center">
                 <a href="https://cloud.mu" target="_blank">
-                    <img src="/images/sponsors/cloud-mu.png" class="h-10 lg:h-12" />
+                    <img src="/images/sponsors/cloud-mu.png" class="h-10 lg:h-12 hover:scale-105 transition-all duration-500" />
                 </a>
             </div>
         </div>
