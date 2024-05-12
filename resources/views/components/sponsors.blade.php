@@ -1,10 +1,12 @@
-<div class="mt-4 lg:mt-10 px-4 lg:px-0">
+<div class="mt-4 lg:mt-10 px-4 lg:px-0 relative">
     <div class="text-center mb-24">
         <h2 class="text-md lg:text-3xl font-pixel">We're backed by some big players</h2>
         <div class="mt-2 lg:mt-4 text-mg lg:text-xl lg:text-2xl text-center font-pixel font-bold text-yellow-400">
             Sponsors & Partners
         </div>
 
+        <img src="/images/star.svg" class="absolute ml-16 mt-20 h-64 opacity-60" />
+        <img src="/images/cloud.svg" class="absolute right-0 h-20 -mt-20" />
         <div class="mt-8 lg:mt-16 max-w-md mx-auto flex flex-row justify-between gap-4">
             <!-- Diamond Tier -->
             <img src="/images/sponsor-tiers/diamond.svg" class="h-8 lg:h-10" />
@@ -33,6 +35,8 @@
             </div>
         </div>
 
+        <img src="/images/gold-coin.svg" class="absolute right-0 mr-16 h-36 opacity-60" />
+        <img src="/images/cloud-1.svg" class="absolute h-24 mt-28" />
         <div class="mt-8 lg:mt-16 max-w-md mx-auto flex flex-row justify-between gap-4">
             <!-- Platinum Tier -->
             <img src="/images/sponsor-tiers/platinum.svg" class="h-8 lg:h-10" />
@@ -81,6 +85,8 @@
             </div>
         </div>
 
+        <img src="/images/gold-coin.svg" class="absolute ml-16 h-36 opacity-60" />
+        <img src="/images/cloud-2.svg" class="absolute right-0 -mt-20 h-36" />
         <div class="mt-8 lg:mt-16 max-w-md mx-auto flex flex-row justify-between gap-4">
             <!-- Silver Tier -->
             <img src="/images/sponsor-tiers/silver.svg" class="h-8 lg:h-10" />
@@ -113,6 +119,8 @@
             </div>
         </div>
 
+        <img src="/images/mushroom.svg" class="absolute right-0 mr-16 h-36 opacity-60" />
+        <img src="/images/cloud-3.svg" class="absolute h-28 mt-20" />
         <div class="mt-8 lg:mt-16 max-w-md mx-auto grid place-items-center">
             <!-- Speaker Sponsor -->
             <h3 class="text-lg lg:text-2xl font-pixel font-bold">Speaker Sponsor</h3>
@@ -152,6 +160,8 @@
             </div>
         </div>
 
+        <img src="/images/discover.svg" class="absolute ml-16 h-36 opacity-60" />
+        <img src="/images/cloud-4.svg" class="absolute right-0 h-16 -mt-28" />
         <div class="mt-8 lg:mt-16 max-w-md mx-auto grid place-items-center">
             <!-- Media Partner -->
             <h3 class="text-lg lg:text-2xl font-pixel font-bold">Media Partner</h3>
