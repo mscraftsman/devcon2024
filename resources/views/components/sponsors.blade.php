@@ -5,13 +5,13 @@
             Sponsors & Partners
         </div>
 
-        <img src="/images/star.svg" class="absolute ml-16 mt-20 h-64 opacity-60 hidden lg:block" />
-        <img src="/images/cloud.svg" class="absolute right-0 h-20 -mt-20 hidden lg:block" />
+        <img src="/images/star.svg" class="animate-makecloudscoolagain absolute ml-16 mt-20 h-64 opacity-60 hidden lg:block" />
+        <img src="/images/cloud.svg" class="animate-float-vertical absolute right-0 h-20 -mt-20 hidden lg:block" />
         <div class="mt-8 lg:mt-16 max-w-md mx-auto flex flex-row justify-between gap-4">
             <!-- Diamond Tier -->
-            <img src="/images/sponsor-tiers/diamond.svg" class="h-8 lg:h-10" />
+            <img src="/images/sponsor-tiers/diamond.svg" class="animate-flip-horizontal h-8 lg:h-10" />
             <h3 class="text-lg lg:text-2xl font-pixel font-bold">Diamond Tier</h3>
-            <img src="/images/sponsor-tiers/diamond.svg" class="h-8 lg:h-10" />
+            <img src="/images/sponsor-tiers/diamond.svg" class="animate-flip-horizontal h-8 lg:h-10" />
         </div>
         <div class="mt-8 lg:mt-16 max-w-4xl mx-auto grid place-items-center">
             <div class="flex flex-col lg:flex-row gap-6">
@@ -23,9 +23,9 @@
 
         <div class="mt-8 lg:mt-16 max-w-md mx-auto flex flex-row justify-between gap-4">
             <!-- Titanium Tier -->
-            <img src="/images/sponsor-tiers/titanium.svg" class="h-8 lg:h-10" />
+            <img src="/images/sponsor-tiers/titanium.svg" class="animate-flip-horizontal h-8 lg:h-10" />
             <h3 class="text-lg lg:text-2xl font-pixel font-bold">Titanium Tier</h3>
-            <img src="/images/sponsor-tiers/titanium.svg" class="h-8 lg:h-10" />
+            <img src="/images/sponsor-tiers/titanium.svg" class="animate-flip-horizontal h-8 lg:h-10" />
         </div>
         <div class="mt-8 lg:mt-16 max-w-4xl mx-auto grid place-items-center">
             <div class="flex flex-col lg:flex-row gap-6">
@@ -35,13 +35,13 @@
             </div>
         </div>
 
-        <img src="/images/gold-coin.svg" class="absolute right-0 mr-16 h-36 opacity-60 hidden lg:block" />
-        <img src="/images/cloud-1.svg" class="absolute h-24 mt-28 hidden lg:block" />
+        <img src="/images/gold-coin.svg" class="animate-bounce absolute right-0 mr-16 h-36 opacity-60 hidden lg:block" />
+        <img src="/images/cloud-1.svg" class="animate-float-vertical absolute h-24 mt-28 hidden lg:block" />
         <div class="mt-8 lg:mt-16 max-w-md mx-auto flex flex-row justify-between gap-4">
             <!-- Platinum Tier -->
-            <img src="/images/sponsor-tiers/platinum.svg" class="h-8 lg:h-10" />
+            <img src="/images/sponsor-tiers/platinum.svg" class="animate-flip-horizontal h-8 lg:h-10" />
             <h3 class="text-lg lg:text-2xl font-pixel font-bold">Platinum Tier</h3>
-            <img src="/images/sponsor-tiers/platinum.svg" class="h-8 lg:h-10" />
+            <img src="/images/sponsor-tiers/platinum.svg" class="animate-flip-horizontal h-8 lg:h-10" />
         </div>
         <div class="mt-8 lg:mt-16 max-w-4xl mx-auto grid place-items-center">
             <div class="flex flex-col lg:flex-row gap-6">
@@ -53,9 +53,9 @@
 
         <div class="mt-8 lg:mt-16 max-w-md mx-auto flex flex-row justify-between gap-4">
             <!-- Gold Tier -->
-            <img src="/images/sponsor-tiers/gold.svg" class="h-8 lg:h-10" />
+            <img src="/images/sponsor-tiers/gold.svg" class="animate-flip-horizontal h-8 lg:h-10" />
             <h3 class="text-lg lg:text-2xl font-pixel font-bold">Gold Tier</h3>
-            <img src="/images/sponsor-tiers/gold.svg" class="h-8 lg:h-10" />
+            <img src="/images/sponsor-tiers/gold.svg" class="animate-flip-horizontal h-8 lg:h-10" />
         </div>
         <div class="mt-8 lg:mt-16 max-w-4xl mx-auto grid place-items-center">
             <div class="flex flex-col lg:flex-row gap-8 lg:gap-16 items-center">
@@ -85,13 +85,13 @@
             </div>
         </div>
 
-        <img src="/images/gold-coin.svg" class="absolute ml-16 h-36 opacity-60 hidden lg:block" />
-        <img src="/images/cloud-2.svg" class="absolute right-0 -mt-20 h-36 hidden lg:block" />
+        <img src="/images/gold-coin.svg" class="animate-bounce absolute ml-16 h-36 opacity-60 hidden lg:block" />
+        <img src="/images/cloud-2.svg" class="animate-float-vertical absolute right-0 -mt-20 h-36 hidden lg:block" />
         <div class="mt-8 lg:mt-16 max-w-md mx-auto flex flex-row justify-between gap-4">
             <!-- Silver Tier -->
-            <img src="/images/sponsor-tiers/silver.svg" class="h-8 lg:h-10" />
+            <img src="/images/sponsor-tiers/silver.svg" class="animate-flip-horizontal h-8 lg:h-10" />
             <h3 class="text-lg lg:text-2xl font-pixel font-bold">Silver Tier</h3>
-            <img src="/images/sponsor-tiers/silver.svg" class="h-8 lg:h-10" />
+            <img src="/images/sponsor-tiers/silver.svg" class="animate-flip-horizontal h-8 lg:h-10" />
         </div>
         <div class="mt-8 lg:mt-16 max-w-4xl mx-auto grid place-items-center">
             <div class="flex flex-col lg:flex-row gap-8 lg:gap-20 items-center">
@@ -106,9 +106,9 @@
 
         <div class="mt-8 lg:mt-16 max-w-md mx-auto flex flex-row justify-between gap-4">
             <!-- Bronze Tier -->
-            <img src="/images/sponsor-tiers/bronze.svg" class="h-8 lg:h-10" />
+            <img src="/images/sponsor-tiers/bronze.svg" class="animate-flip-horizontal h-8 lg:h-10" />
             <h3 class="text-lg lg:text-2xl font-pixel font-bold">Bronze Tier</h3>
-            <img src="/images/sponsor-tiers/bronze.svg" class="h-8 lg:h-10" />
+            <img src="/images/sponsor-tiers/bronze.svg" class="animate-flip-horizontal h-8 lg:h-10" />
         </div>
         <div class="mt-8 lg:mt-16 max-w-4xl mx-auto grid place-items-center">
             <div class="flex flex-col lg:flex-row gap-8 lg:gap-16">
@@ -119,8 +119,8 @@
             </div>
         </div>
 
-        <img src="/images/mushroom.svg" class="absolute right-0 mr-16 h-36 opacity-60 hidden lg:block" />
-        <img src="/images/cloud-3.svg" class="absolute h-28 mt-20 hidden lg:block" />
+        <img src="/images/mushroom.svg" class="animate-makecloudscoolagain absolute right-0 mr-16 h-36 opacity-60 hidden lg:block" />
+        <img src="/images/cloud-3.svg" class="animate-float-vertical absolute h-28 mt-20 hidden lg:block" />
         <div class="mt-8 lg:mt-16 max-w-md mx-auto grid place-items-center">
             <!-- Speaker Sponsor -->
             <h3 class="text-lg lg:text-2xl font-pixel font-bold">Speaker Sponsor</h3>
@@ -160,8 +160,8 @@
             </div>
         </div>
 
-        <img src="/images/discover.svg" class="absolute ml-16 h-36 opacity-60 hidden lg:block" />
-        <img src="/images/cloud-4.svg" class="absolute right-0 h-16 -mt-28 hidden lg:block" />
+        <img src="/images/discover.svg" class="animate-bounce absolute ml-16 h-36 opacity-60 hidden lg:block" />
+        <img src="/images/cloud-4.svg" class="animate-float-vertical pulse absolute right-0 h-16 -mt-28 hidden lg:block" />
         <div class="mt-8 lg:mt-16 max-w-md mx-auto grid place-items-center">
             <!-- Media Partner -->
             <h3 class="text-lg lg:text-2xl font-pixel font-bold">Media Partner</h3>
