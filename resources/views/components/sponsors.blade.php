@@ -76,11 +76,11 @@
                 <a href="https://www.publicisgroupe.com" target="_blank">
                     <img src="/images/sponsors/publicis.png" class="h-20 lg:h-24 hover:scale-105 transition-all duration-500" />
                 </a>
-                <a href="https://www.klanik.com/" target="_blank">
-                    <img src="/images/sponsors/klanik.png" class="h-20 lg:h-32 hover:scale-105 transition-all duration-500" />
-                </a>
                 <a href="https://www.teamengine.com/" target="_blank">
                     <img src="/images/sponsors/team-engine.png" class="h-12 lg:h-16 hover:scale-105 transition-all duration-500" />
+                </a>
+                <a href="https://www.klanik.com/" target="_blank">
+                    <img src="/images/sponsors/klanik.png" class="h-20 lg:h-32 hover:scale-105 transition-all duration-500" />
                 </a>
             </div>
         </div>
