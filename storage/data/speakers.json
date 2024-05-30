@@ -1,0 +1,1463 @@
+[
+    {
+        "id": "931baa84-0c5f-43c9-95dd-6896e0455080",
+        "firstName": "Abdallah",
+        "lastName": "Ramsing",
+        "fullName": "Abdallah Ramsing",
+        "bio": "Hi, my name is Abdallah Yashir Ramsing. I've been a Software Developer for a decade now.\r\n\r\nA fun fact about me is that I learned coding when 11 years, from Turbo Pascal to experimenting with Fox Pro, Microsoft Access, and Visual Basic.\r\n\r\nSince then, I've had the opportunity of working in different systems such as ERP Systems, Stock Management, Payroll, Attendance & eCommerce.\r\n\r\nI've also worked in different roles including SQL, Web & Mobile App Dev, Test Automation and Data Integration.\r\n\r\nEven after all these years coding, I'm still passionate in mastering my craft but also contributing back esp. to the local community.\r\n",
+        "tagLine": "Expert Software Developer, Productivity Enthusiast, Writer, Blogger, Public Speaker",
+        "profilePicture": "0629-400o400o1-E1KAv173oDG9BrZDsNFcVH.jpg",
+        "sessions": [
+            {
+                "id": 640824,
+                "name": "How I use Obsidian as a programmer, problem solver, writer, tech enthusiast, podcast editor"
+            }
+        ],
+        "isTopSpeaker": false,
+        "links": [],
+        "questionAnswers": [],
+        "categories": []
+    },
+    {
+        "id": "dde46c59-2d2b-4840-b7a1-131c373e556d",
+        "firstName": "Aditya",
+        "lastName": "Bholah",
+        "fullName": "Aditya Bholah",
+        "bio": "Data Science, AI and Python enthusiast. Currently active in local open source communities (LUGM, Ubuntu Mauritius, PyData MU) and a contributing member in PSF.",
+        "tagLine": "Currently swimming in Data and orchestrating BI solutions for data-driven decisions.",
+        "profilePicture": "65a9-400o400o1-KUqThaZDSSNDEM5WbiQ1yx.jpg",
+        "sessions": [
+            {
+                "id": 626057,
+                "name": "Getting a career in Data Science"
+            }
+        ],
+        "isTopSpeaker": false,
+        "links": [],
+        "questionAnswers": [],
+        "categories": []
+    },
+    {
+        "id": "80c8f586-0d9c-45a7-ae05-037cc1dce4e7",
+        "firstName": "Alex",
+        "lastName": "Bissessur",
+        "fullName": "Alex Bissessur",
+        "bio": "I am Alexandre Bissessur, although I go most commonly by Alex. I have just left secondary school, and am now diving deep into the world of IT. I am an avid tech enthusiast, and love getting my hands dirty in new technologies. I am experienced in Kubernetes and related technologies which I will talk about for hours non-stop.\r\n\r\nMy journey in the technological field has just started but I am enthusiastic to share all my acquired knowledge and skills with others!",
+        "tagLine": "You'll love IT | Cosplaying as a Sysadmin",
+        "profilePicture": "ccf8-400o400o1-WWLeasdjCjzB3CZbEsEwxu.png",
+        "sessions": [
+            {
+                "id": 640138,
+                "name": "Quantity over Quality: A Kubernetes Tale"
+            }
+        ],
+        "isTopSpeaker": false,
+        "links": [],
+        "questionAnswers": [],
+        "categories": []
+    },
+    {
+        "id": "d25f4dc0-78ff-4486-adcb-83c5f7631708",
+        "firstName": "Ankshita",
+        "lastName": "Maunthrooa",
+        "fullName": "Ankshita Maunthrooa",
+        "bio": "Ankshita is currently working as a cybersecurity consultant in the paradise island of Mauritius, helping the biggest firms around the world implement strategic cybersecurity best practices and comply with the required standards. Previously she has worked in cybersecurity for approximately two years as a SOC analyst, thus gathering a rich hands-on experience on blue teaming tools and practices. \r\n\r\nAnkshita has presented her cyber blue teaming skills at the DevCon2023, the biggest developers' conference of Mauritius organized by the MSCC and GDG Mauritius. She recently also spoke at the DevFest 2023 about introducing Golang to students. \r\n\r\nComing from a diverse background in Information Technology, Ankshita is familiar with development and programming in Java, Python, Javascript and Solidity. Her latest passion for learning narrows down to Golang which can be very effectively implemented in the field of cybersecurity as well. \r\n\r\nDuring university years, Ankshita has also represented the Google Developers Student Clubs on her campus at the University of Mauritius and she had also been elected as the Huawei Campus Ambassador. ",
+        "tagLine": "Security Engineer, ex-Cybersecurity Consultant, ex-SOC Analyst, GDSC Lead and Huawei Campus Ambassador",
+        "profilePicture": "a6c5-400o400o1-Wnq1VPsDKKj2oELo5D1KRY.jpg",
+        "sessions": [
+            {
+                "id": 618340,
+                "name": "Securing the Fast Lane: Accelerating SOC Defenses with DevSecOps Magic"
+            }
+        ],
+        "isTopSpeaker": false,
+        "links": [],
+        "questionAnswers": [],
+        "categories": []
+    },
+    {
+        "id": "025a8660-e271-48a2-89a5-de9b638cf994",
+        "firstName": "Ashesh",
+        "lastName": "Ramjeeawon",
+        "fullName": "Ashesh Ramjeeawon",
+        "bio": "Forms part of the Microsoft Solutions team of ELCA, which is a Gold Partner delivering solutions in Switzerland. My technical proficiency spans a range of Microsoft tools, including Canvas App, Model-Driven Apps, Dataverse, Power Automate, Power BI, AI Builder, and Dynamics 365 Sales & Marketing Module configuration. ",
+        "tagLine": "Associate Power Platform Expert",
+        "profilePicture": "54bb-400o400o1-Wo6XAnNos927hKBLsirmHt.jpg",
+        "sessions": [
+            {
+                "id": 629028,
+                "name": "Let's Build a Low-Code\/No-Code Mobile App and Desktop App using Microsoft's Power Platform"
+            }
+        ],
+        "isTopSpeaker": false,
+        "links": [],
+        "questionAnswers": [],
+        "categories": []
+    },
+    {
+        "id": "cfe6968c-e225-430a-8975-0466f2abbd04",
+        "firstName": "Ashna",
+        "lastName": "Abeeluck-Unnuth",
+        "fullName": "Ashna Abeeluck-Unnuth",
+        "bio": "I have 19+ years in the IT industry in different roles.\r\n\r\nFor the past 15 years, I have been managed projects and teams, to deliver software solutions across different domains (logistics, HR, manufacturing, e-commerce, banking, transportation and pharmaceutical) for a wide range of customers. I have led project teams ranging from 5 to up to 80 team members across different geographies with portfolio of > EUR4.5million per year.  \r\n\r\nI have hands on experience in end-to-end software project delivery (Agile, DevOps and Waterfall) methodologies based on different customer organisations and needs. As project director, I lead programs, chair steering committees for various customers and consulted upon for RFPs. I provide coaching to project managers, and called upon to intervene on projects under escalation, for guidance and direction.\r\n",
+        "tagLine": "Astek Mauritius Ltd, Project Director",
+        "profilePicture": "16f4-400o400o1-DvsiqdkTRDXuEPmSM9WNGL.jpg",
+        "sessions": [
+            {
+                "id": 640940,
+                "name": "What makes software project management different?"
+            }
+        ],
+        "isTopSpeaker": false,
+        "links": [],
+        "questionAnswers": [],
+        "categories": []
+    },
+    {
+        "id": "57733e53-dbb9-42c8-8668-4fac68b8e7d8",
+        "firstName": "Atish",
+        "lastName": "Dhunnoo",
+        "fullName": "Atish Dhunnoo",
+        "bio": "Atish is a dynamic software developer at Spoon Consulting, with a rich background that spans graphic design and full stack software development. Holding a Bachelor\u2019s degree in Software Engineering, Atish has transitioned from a career in graphic design to engineering robust software solutions. Specializing in Ruby on Rails and Ember.js, Atish brings a unique perspective to software development, blending aesthetic design with functional programming.\r\n\r\nOutside of work, Atish is passionate about UI\/UX design, constantly exploring new ways to enhance user interactions through innovative design solutions.\r\n\r\nAt DevCon, Atish will deliver an engaging session titled \u201cHarnessing Reactivity: Intro to Ember.js\u201d aimed at unpacking the capabilities and features of the Ember.js framework to newcomers and seasoned developers alike.",
+        "tagLine": "Software Developer",
+        "profilePicture": "d5dd-400o400o1-a1MJmsrqLKHPDu1LbRaDmP.jpg",
+        "sessions": [
+            {
+                "id": 689640,
+                "name": "Harnessing Reactivity: Intro to Ember.js"
+            }
+        ],
+        "isTopSpeaker": false,
+        "links": [],
+        "questionAnswers": [],
+        "categories": []
+    },
+    {
+        "id": "dd3a76fa-fceb-4f62-81a1-b8c4f087d7d2",
+        "firstName": "Avish",
+        "lastName": "Cheetaram",
+        "fullName": "Avish Cheetaram",
+        "bio": "Avish Cheetaram is a passionate software engineer, with a strong interest in distributed systems, open source software, system design, data structures and algorithms.\r\n",
+        "tagLine": "Full Stack Software Engineer",
+        "profilePicture": "1f3f-400o400o1-VCbsa2z2EDv632DTvMkNn7.jpg",
+        "sessions": [
+            {
+                "id": 639063,
+                "name": "Building Robust and Scalable RESTful APIs with Laravel 11"
+            }
+        ],
+        "isTopSpeaker": false,
+        "links": [],
+        "questionAnswers": [],
+        "categories": []
+    },
+    {
+        "id": "dd89c2df-2cc3-43cb-8904-f127c18d4d57",
+        "firstName": "Avishai ",
+        "lastName": "Poorun",
+        "fullName": "Avishai Poorun",
+        "bio": "Avishai Poorun has a passion for cloud computing focusing on cloud security architecture, governance and finops. ",
+        "tagLine": "Cloud Security, Governance and Finops",
+        "profilePicture": "5ce8-400o400o1-DiH3Brbty9WTiN9geT23Vh.jpg",
+        "sessions": [
+            {
+                "id": 635962,
+                "name": "An intro to Finops"
+            }
+        ],
+        "isTopSpeaker": false,
+        "links": [],
+        "questionAnswers": [],
+        "categories": []
+    },
+    {
+        "id": "02271301-87de-4dca-9838-dd9de6bc9a31",
+        "firstName": "Beatrice",
+        "lastName": "Kinya",
+        "fullName": "Beatrice Kinya",
+        "bio": "Beatrice Kinya is an Android Engineer and Google Developer Expert for Android. My favorite part of Android is App architecture. I enjoy experimenting with different architectural design patterns. I\u2019m passionate about learning and sharing knowledge with others. I write technical blogs, create Android courses as well as speak at tech meet-ups and conferences. In my spare time, you'd find me in the mountains hiking or just knitting",
+        "tagLine": "Android Engineer | Google Developer Expert for Android",
+        "profilePicture": "b191-400o400o1-aDGk6ei4sdFq5TWtUmLuVz.jpg",
+        "sessions": [
+            {
+                "id": 621619,
+                "name": "Java or Kotlin. May the Best Bytecode win"
+            },
+            {
+                "id": 632935,
+                "name": "Event driven approach:  Make your app more predictable, maintainable and easier to debug"
+            }
+        ],
+        "isTopSpeaker": false,
+        "links": [],
+        "questionAnswers": [],
+        "categories": []
+    },
+    {
+        "id": "ad52feeb-b072-4185-973f-0a02857ae497",
+        "firstName": "Cedric",
+        "lastName": "Poottaren",
+        "fullName": "Cedric Poottaren",
+        "bio": "Cedric has acquired more than 9 years of professional experience in IT with skills in various areas such as Software Engineering, Monitoring, Infrastructure Administration, and Cloud Computing.\r\n\r\nHe specializes in System Administration of Linux & Windows systems and infrastructure and cloud monitoring. He gained experience with various PaaS such as Microsoft Azure, AWS, GCP, and Aliyun Cloud. He is also a keen advocate of Zabbix and Datadog and an avid scripter; using Bash, PowerShell, and Python.",
+        "tagLine": "TeamWork Corporate, Cloud Consultant",
+        "profilePicture": "24b3-400o400o1-JBJpekzwpHsKF7bafu8PHb.png",
+        "sessions": [
+            {
+                "id": 619960,
+                "name": "What's up AWS?"
+            }
+        ],
+        "isTopSpeaker": false,
+        "links": [],
+        "questionAnswers": [],
+        "categories": []
+    },
+    {
+        "id": "1fd572bd-a45d-497a-99ea-f2cec9d9b9ab",
+        "firstName": "Chervine",
+        "lastName": "Bhiwoo",
+        "fullName": "Chervine Bhiwoo",
+        "bio": "Chervine drives the strategy and implementation of web and mobile solutions across 3 countries for several lines of business. He enjoys building motivated engineering teams with a technical style of leadership and helps the teams to continuously improve on their engineering and DevOps practices to achieve higher scale and provide a better service to MCB\u2019s customers. Chervine also enjoys sharing his passion with other people, thus actively contributing to the technical communities, meetups, and technical conferences.",
+        "tagLine": "Engineering Lead, MCB Group",
+        "profilePicture": "7484-400o400o1-w98eXhXHa1joRtaddkh5gu.png",
+        "sessions": [
+            {
+                "id": 619936,
+                "name": "Achieving Zero downtime Deployment in Banking Applications"
+            }
+        ],
+        "isTopSpeaker": false,
+        "links": [],
+        "questionAnswers": [],
+        "categories": []
+    },
+    {
+        "id": "c20fc843-508e-4278-b4ca-1ce58f16bbd4",
+        "firstName": "Christiane",
+        "lastName": "Adone",
+        "fullName": "Christiane Adone",
+        "bio": "As a Data Governance Lead with over two decades of experience in IT and data management, I am deeply passionate about leveraging data to ensure its value for the entire organization.  By fostering a culture where data guides every aspect of our work, I contribute to an organization that makes informed decisions based on reliable data. ",
+        "tagLine": "Data Governance Lead at MCB Ltd",
+        "profilePicture": "9f58-400o400o1-ABcuFV1XCGTR6vhzPrhvh.png",
+        "sessions": [
+            {
+                "id": 641096,
+                "name": "Navigating the Ethical Terrain: A Journey into Responsible AI"
+            }
+        ],
+        "isTopSpeaker": false,
+        "links": [],
+        "questionAnswers": [],
+        "categories": []
+    },
+    {
+        "id": "3ef14414-a80a-4093-b5f7-1a838bcc9288",
+        "firstName": "Christopher",
+        "lastName": "Pitt",
+        "fullName": "Christopher Pitt",
+        "bio": "I am a developer and writer, working at ringier.co.za. I usually work on application architecture, though sometimes I build compilers or robots.",
+        "tagLine": "Developer at ringier.co.za",
+        "profilePicture": "4418-400o400o1-14-a80a-4093-b5f7-1a838bcc9288.c688c90f-f50a-41ae-88b7-5f9fa4b98231.jpg",
+        "sessions": [
+            {
+                "id": 641008,
+                "name": "Building and coding robots"
+            },
+            {
+                "id": 641002,
+                "name": "Zombies and Binary"
+            }
+        ],
+        "isTopSpeaker": false,
+        "links": [],
+        "questionAnswers": [],
+        "categories": []
+    },
+    {
+        "id": "6b55524c-69b8-453d-8fe8-5337f8841ffd",
+        "firstName": "Dawid van der",
+        "lastName": "Merwe",
+        "fullName": "Dawid van der Merwe",
+        "bio": "Dawid has been in the IT industry for 20+ years. His primary focus at SUSE is that of a Solutions Architect where he leverages his deep understanding of the business technology to help articulate, drive and promote SUSE's technology vision.",
+        "tagLine": "Solutions Architect, SUSE",
+        "profilePicture": "4c84-400o400o1-TLUA4ezeQVDMCYxpsXstCd.jpg",
+        "sessions": [
+            {
+                "id": 691700,
+                "name": "SUSE Bootcamp \u2014 Enterprise Container Management (ECM) and Enterprise Container Security (ECS)"
+            },
+            {
+                "id": 691703,
+                "name": "Business Critical Linux "
+            }
+        ],
+        "isTopSpeaker": false,
+        "links": [],
+        "questionAnswers": [],
+        "categories": []
+    },
+    {
+        "id": "6f812782-5310-4bf6-9ecb-ebc31759b2a0",
+        "firstName": "Dereck",
+        "lastName": "Lam Hon Wah",
+        "fullName": "Dereck Lam Hon Wah",
+        "bio": "Linux enthusiast (''> ",
+        "tagLine": "Software Engineer",
+        "profilePicture": "1356-400o400o1-W16fyFazBmjsfap8RCvRKw.jpg",
+        "sessions": [
+            {
+                "id": 641129,
+                "name": "Kickstart Your Cloud Journey by conquering the AWS Cloud Resume Challenge"
+            }
+        ],
+        "isTopSpeaker": false,
+        "links": [],
+        "questionAnswers": [],
+        "categories": []
+    },
+    {
+        "id": "f6916ad9-528a-437e-9de7-87259105c837",
+        "firstName": "Dhananjay",
+        "lastName": "Kumar",
+        "fullName": "Dhananjay Kumar",
+        "bio": "Dhananjay Kumar is a Consultant and Trainer from India and organizer of one of the world's largest Angular conferences, ng-India.\r\n\r\nHe is a published Book Author, International Speaker, and Founder of geek97, which provides full enterprise-level training and consulting to various clients worldwide.\r\n\r\nCurrently, he is focusing on Angular, .NET Core, Azure, and GraphQL.  He lives in Gurgaon, India, and is writing his second Angular book and training for his first half marathon.",
+        "tagLine": "Founder ng-India ",
+        "profilePicture": "52c6-400o400o1-Lf8XBUx7csFvNgbjC3aKWK.jpg",
+        "sessions": [
+            {
+                "id": 640849,
+                "name": "You do not know about JavaScript Objects"
+            },
+            {
+                "id": 640847,
+                "name": "Signals \u2013 Fine-Grained Reactivity in Angular"
+            }
+        ],
+        "isTopSpeaker": false,
+        "links": [],
+        "questionAnswers": [],
+        "categories": []
+    },
+    {
+        "id": "9435c1a8-6d1a-4e39-b32e-c5e3549f1ca4",
+        "firstName": "Dinesh",
+        "lastName": "Maulloo",
+        "fullName": "Dinesh Maulloo",
+        "bio": "Passion for building solutions to resolve real-world business issues.",
+        "tagLine": "Chief Product Officer (Zoho)",
+        "profilePicture": "cdcc-400o400o1-V6VJdGkw4ygE8HU88quqZA.jpg",
+        "sessions": [
+            {
+                "id": 640914,
+                "name": "Democratizing AI: Simplifying Solution Development for Non-Technical Users"
+            }
+        ],
+        "isTopSpeaker": false,
+        "links": [],
+        "questionAnswers": [],
+        "categories": []
+    },
+    {
+        "id": "6661274d-3550-469e-a5e5-50c77a435c04",
+        "firstName": "Eddy",
+        "lastName": "Lareine",
+        "fullName": "Eddy Lareine",
+        "bio": "Project management with 15+ years of experience in the IT field with proven ability to leverage technology to develop and implement core project plans, based on initial work orders. Experienced in performing risk management activities to minimize project risks.\r\n\r\nAdept at making key decisions and working with other professionals to achieve goals and solve problems. A strong leader who works well under pressure, and exudes positivity. Excellent time management skills.\r\n\r\nHighly experienced in web hosting architecture and management as well as in Web Analytics, AdWords, Social Media Optimisation (SMP), and Search Engine Optimization (SEO).",
+        "tagLine": "La Sentinelle Ltd, IT Director",
+        "profilePicture": "5947-400o400o1-nSkrENWyrq7CQ9bvwQYKLx.jpg",
+        "sessions": [
+            {
+                "id": 640893,
+                "name": "Introduction to Google Analytics 4 (GA4)"
+            }
+        ],
+        "isTopSpeaker": false,
+        "links": [],
+        "questionAnswers": [],
+        "categories": []
+    },
+    {
+        "id": "29aebc70-2cd9-4387-8ad6-bd08a0269f94",
+        "firstName": "Emmanuel",
+        "lastName": "Murairi",
+        "fullName": "Emmanuel Murairi",
+        "bio": "With my passion for technology and entrepreneurship, I have developed skills in Software Development and Data analysis, and currently exploring Artificial Intelligence. I am driven to apply my knowledge of technology to solve challenging problems, automate business processes, and explore insight from data. I am currently in my final year of Undergrad in Computing and had completed an intensive project-based Software Engineering program by ALX-Holberton.\r\n\r\nOutside tech, I am a violinist, playing with Ensemble 415, a vibrant chamber orchestra in Mauritius. ",
+        "tagLine": "Data & DevOps Engineer",
+        "profilePicture": "a857-400o400o1-S1AzrtQ9eZaHcyBuWegdiR.jpg",
+        "sessions": [
+            {
+                "id": 637031,
+                "name": "Is your website safe? \u2014 Exploring vulnerabilities on live websites."
+            }
+        ],
+        "isTopSpeaker": false,
+        "links": [],
+        "questionAnswers": [],
+        "categories": []
+    },
+    {
+        "id": "81b098bc-f1ec-4319-ba88-b1db7a2c64d3",
+        "firstName": "Fabien",
+        "lastName": "Noellette",
+        "fullName": "Fabien Noellette",
+        "bio": "Certified Google Associate Android Developer with 4 years of experience as a team member designing, implementing, and maintaining Banking android applications, as well as expansions to existing applications. \r\n\r\nWrote and updated code in java and Kotlin to participate in the development of the first SME Banking application in Mauritius Island and functional expansions to 3 different affiliates\u2019 applications.\r\n\r\nTalented Software Developer equipped with great coding, debugging, and project management abilities. Accomplishes project goals consistently with elegant, scalable code. Works great with team members under Agile and Scrum frameworks.",
+        "tagLine": "Senior Software Engineer @ MCB Group LTD",
+        "profilePicture": "9ff4-400o400o1-LHkoaZrFrTFAtkrnKNGXgN.jpg",
+        "sessions": [
+            {
+                "id": 610888,
+                "name": "Build a design system with Android Jetpack Compose"
+            }
+        ],
+        "isTopSpeaker": false,
+        "links": [],
+        "questionAnswers": [],
+        "categories": []
+    },
+    {
+        "id": "4d30981f-69b9-40bb-a00d-6a741b200d91",
+        "firstName": "Fawwaaz",
+        "lastName": "Koodruth",
+        "fullName": "Fawwaaz Koodruth",
+        "bio": "As a seasoned cloud developer, specializing in all things Azure with a knack for turning clouds into code. I'm on a perpetual quest for tech adventures, diving headfirst into new technologies like Godot Engine and C#, where creativity knows no bounds. Join me on a journey of innovation and exploration as we navigate the ever-changing landscape of technology together!",
+        "tagLine": "SD Worx Mauritius",
+        "profilePicture": "b5b4-400o400o1-HHoPp11Z7jvaCQKiY8Dofe.jpg",
+        "sessions": [
+            {
+                "id": 642178,
+                "name": "Godot: Let's make a game in C#"
+            }
+        ],
+        "isTopSpeaker": false,
+        "links": [],
+        "questionAnswers": [],
+        "categories": []
+    },
+    {
+        "id": "ba3958ec-7d08-4845-bcb5-2e1774318932",
+        "firstName": "Girish",
+        "lastName": "Mahabir",
+        "fullName": "Girish Mahabir",
+        "bio": "Girish Mahabir is a System and Security Engineer at OceanDBA, with a specialization in Linux systems and security. His commitment to continuous learning and problem-solving drives him to tackle challenges that contribute to technological advancements and security enhancements within his company. Girish is a staunch advocate for open source, consistently contributing his expertise and projects to platforms like GitLab and GitHub, fostering community growth and technological advancement.\r\n\r\nCurrently in his final year at Middlesex University Mauritius, studying Computer Science Systems Engineering, Girish has shifted his focus from organizing to supporting IT-related events and workshops. This effort aims to bridge the gap between academic learning and industry demands. With expanded responsibilities at work, where he plays a pivotal role in navigating security challenges and mentoring his team, Girish's passion for advancing in the security field continues unabated. His technical proficiency spans Linux, Bash, Python, the Elastic Stack (Elasticsearch, Logstash, Kibana, Beats), Docker, Ansible, Wazuh, LDAP, and more, underpinning his versatile skill set and deep understanding of various technologies.\r\n\r\nEager to connect and share insights, Girish looks forward to engaging with fellow professionals at the conference to explore collaborative opportunities and advance our collective knowledge.",
+        "tagLine": "System & Security Engineer at OceanDBA",
+        "profilePicture": "4210-400o400o1-JuhPTSEmZeyaewxvA3RnCG.png",
+        "sessions": [
+            {
+                "id": 637076,
+                "name": "Securing MariaDB: Essentials of Encryption, Protection, and Access"
+            }
+        ],
+        "isTopSpeaker": false,
+        "links": [],
+        "questionAnswers": [],
+        "categories": []
+    },
+    {
+        "id": "4f5c532a-b69f-4d47-8b15-da28742f3f83",
+        "firstName": "Hastika",
+        "lastName": "Cheddy",
+        "fullName": "Hastika Cheddy",
+        "bio": "Meet Hastika Cheddy, a seasoned Machine Learning Engineer who has been pivotal in simplifying AI complexities for businesses. With a diverse background in software engineering, machine learning, and penetration testing, Hastika brings a unique blend of technical expertise and strategic insight.\r\n\r\nNoteworthy achievements include Hastika's leadership in creating a comprehensive dashboard, utilizing advanced data analysis techniques and incorporating Matplotlib, Seaborn, and WordCloud for impactful data visualization. In workflow orchestration, she demonstrates proficiency by employing Apache Airflow, Docker, and Spark X, ensuring seamless deployment across diverse environments.",
+        "tagLine": "Machine Learning Engineer",
+        "profilePicture": "033a-400o400o1-SWwWvHY1JFPM412hsD44Uf.png",
+        "sessions": [
+            {
+                "id": 624149,
+                "name": "Introduction to Machine Learning Engineering for Production (MLOps)"
+            }
+        ],
+        "isTopSpeaker": false,
+        "links": [],
+        "questionAnswers": [],
+        "categories": []
+    },
+    {
+        "id": "1db43fea-f640-4067-8a2b-94b4539743f4",
+        "firstName": "Heema Luxmee Devi",
+        "lastName": "Jhugroo",
+        "fullName": "Heema Luxmee Devi Jhugroo",
+        "bio": "https:\/\/www.linkedin.com\/in\/heemajhugroo",
+        "tagLine": "Product Owner - iQera",
+        "profilePicture": "2b88-400o400o1-BXHf3q5xmcLbs7WvWBCxo7.jpg",
+        "sessions": [
+            {
+                "id": 641070,
+                "name": "Shift Left approach at iQera"
+            }
+        ],
+        "isTopSpeaker": false,
+        "links": [],
+        "questionAnswers": [],
+        "categories": []
+    },
+    {
+        "id": "ef7633d0-46b2-4045-bbc3-3dc1fcd55596",
+        "firstName": "Ish",
+        "lastName": "Sookun",
+        "fullName": "Ish Sookun",
+        "bio": "I am a Systems Architect at La Sentinelle Ltd. I contribute to the openSUSE Project in my free time and I maintain Linux mirrors in Mauritius. I also follow policy discussions within the AFRINIC community.",
+        "tagLine": "Systems Architect \/ La Sentinelle Ltd \/ openSUSE Contributor",
+        "profilePicture": "8f26-400o400o1-sBe5Dwfeq6uDXqZZyY2yJS.jpg",
+        "sessions": [
+            {
+                "id": 636837,
+                "name": "Panel Discussion: Cloud Native Strategies for Digital Business, Speed and Automation"
+            },
+            {
+                "id": 636834,
+                "name": "Kubernetes Bootcamp"
+            }
+        ],
+        "isTopSpeaker": false,
+        "links": [],
+        "questionAnswers": [],
+        "categories": []
+    },
+    {
+        "id": "ce743e20-9e95-4205-b3e9-e7f9a4899783",
+        "firstName": "Jain",
+        "lastName": "Ramchurn",
+        "fullName": "Jain Ramchurn",
+        "bio": "Linux and Open-source enthusiast\r\n",
+        "tagLine": "Platform Engineer ",
+        "profilePicture": "879f-400o400o1-nzKkE6J8AMr5cFcHW9vR1U.jpg",
+        "sessions": [
+            {
+                "id": 641129,
+                "name": "Kickstart Your Cloud Journey by conquering the AWS Cloud Resume Challenge"
+            }
+        ],
+        "isTopSpeaker": false,
+        "links": [],
+        "questionAnswers": [],
+        "categories": []
+    },
+    {
+        "id": "a5d83aec-96f5-45f7-8c92-9abc92eed69a",
+        "firstName": "Jean Bernard",
+        "lastName": "Levaillant",
+        "fullName": "Jean Bernard Levaillant",
+        "bio": "9 years of experience in the tech industry, mainly automation and integration. Currently expressing keen interest in machine learning (ML) and artificial intelligence (AI).",
+        "tagLine": "Mauritius Commercial Bank, Senior Software Engineer, Tech SBU",
+        "profilePicture": "6906-400o400o1-No1t2BSVXt5JM4XN7gbXc9.png",
+        "sessions": [
+            {
+                "id": 641025,
+                "name": "Control-M - a managed File transfer solution"
+            }
+        ],
+        "isTopSpeaker": false,
+        "links": [],
+        "questionAnswers": [],
+        "categories": []
+    },
+    {
+        "id": "49af17a2-5b86-4b9b-aadc-07b99b08cc5d",
+        "firstName": "Jeshta",
+        "lastName": "Bhoyedhur",
+        "fullName": "Jeshta Bhoyedhur",
+        "bio": "Senior Software Engineer at  Publicis Global Delivery. I work both with Php frameworks and Golang.\r\n",
+        "tagLine": "Senior Software Engineer, Publicis Global Delivery",
+        "profilePicture": "b60b-400o400o1-9A3twxACFewT9bTBrBJYhg.jpg",
+        "sessions": [
+            {
+                "id": 630650,
+                "name": "Golang WebAssembly: Unlocking the Full Potential with Advanced Techniques and Applications"
+            }
+        ],
+        "isTopSpeaker": false,
+        "links": [],
+        "questionAnswers": [],
+        "categories": []
+    },
+    {
+        "id": "4c563acb-7ae8-4b4d-9ddf-11c19a02b813",
+        "firstName": "Jochen",
+        "lastName": "Kirst\u00e4tter",
+        "fullName": "Jochen Kirst\u00e4tter",
+        "bio": "Although living on a tropical island, Jochen Kirst\u00e4tter is a business owner and entrepreneur in different industry sectors. Mainly operating in the development of tailor-made software solutions since more than 20 years, he is also venturing into the world of cloud computing. You can either meet him at the weekly Code & Coffee meetups of the Mauritius Software Craftsmanship Community or reach him on Twitter: @JKirstaetter.\r\n\r\nJochen is a Google Developer Expert (GDE) for Google Cloud and used to be Microsoft MVP for Developer Technologies for several years. He founded the now largest IT community in Mauritius, and organises the annual Developers Conference. Following his interest in cross-platform technologies he is also an organiser of the Google Developer Group (GDG) Mauritius.",
+        "tagLine": "The only frontiers are in your mind | GDE Cloud | Microsoft MVP alumni",
+        "profilePicture": "33e1-400o400o1-nE5kFbqy2kxEBu5KG8q4rT.png",
+        "sessions": [
+            {
+                "id": 664064,
+                "name": "Integrate Gemini into Your .NET Applications: Unleash the Power of Generative AI"
+            }
+        ],
+        "isTopSpeaker": false,
+        "links": [],
+        "questionAnswers": [],
+        "categories": []
+    },
+    {
+        "id": "51310b7d-44e1-4025-bec8-5d9aebb90da6",
+        "firstName": "Joel",
+        "lastName": "Ramirez",
+        "fullName": "Joel Ramirez",
+        "bio": "I am a Director of Technology at Digitas Germany, a leading digital agency that creates innovative solutions for global brands. With over 15 years of experience in web development and an MBA in finance, I have a robust background in delivering digital projects that meet the highest standards of quality, performance, and user experience.\r\n\r\nMy strength lies in leading and empowering multidisciplinary teams that cater to a diverse range of clients, such as Disney+, Ferrero, General Motors, Bosch, Siemens, and Philip Morris. I have successfully managed projects across various regions, languages, and technologies, collaborating with both internal and offshore teams. I have also leveraged my Professional Scrum Master certification and agile expertise to optimize workflows, automate processes, and streamline communication. ",
+        "tagLine": "Director of Technology at Digitas Germany | MBA, Scrum Master, Digital Transformation",
+        "profilePicture": "088c-400o400o1-BKczTwSiDn5vMaUbZPk1Dn.jpg",
+        "sessions": [
+            {
+                "id": 636547,
+                "name": "From Code to Command: Nurturing Leadership in Development"
+            },
+            {
+                "id": 636549,
+                "name": "From Command to Collaborate: Cultivating Team Synergy in Development"
+            }
+        ],
+        "isTopSpeaker": false,
+        "links": [],
+        "questionAnswers": [],
+        "categories": []
+    },
+    {
+        "id": "608599c6-0472-4a70-b24b-38b0b7d74c90",
+        "firstName": "Kaneez Fatima",
+        "lastName": "Jowaheer",
+        "fullName": "Kaneez Fatima Jowaheer",
+        "bio": "I'm Kaneez Fatima Jowaheer, juggling roles in the tech world. At Spoon Consulting Ltd., I contribute as a Consultant. Also, I guide the Google Developer Student Clubs and represent Mauritius as one of the Ambassador for Google Women Techmakers. Excited to explore the tech landscape with you!",
+        "tagLine": "Consultant at Spoon Consulting Ltd, Women Techmakers Mauritius Ambassador, Google Developer Student Club Mentor",
+        "profilePicture": "f416-400o400o1-QjhJEoYY2s5hB4Cna1m6Rk.jpg",
+        "sessions": [
+            {
+                "id": 619730,
+                "name": "Unleashing the Power of Conversational AI"
+            }
+        ],
+        "isTopSpeaker": false,
+        "links": [],
+        "questionAnswers": [],
+        "categories": []
+    },
+    {
+        "id": "43f66e40-f651-42b7-b7fd-159d9caeae4a",
+        "firstName": "Kavish",
+        "lastName": "Seechurn",
+        "fullName": "Kavish Seechurn",
+        "bio": "I am Kavish, a seasoned technical lead specializing in data engineering. I have extensive experience in constructing and managing data pipelines and utilizing various data visualization tools. I'm passionate about exploring vast datasets to uncover valuable insights, earning me the nickname \"datanaut\". With a diverse background spanning multiple industries, including finance, I bring a wealth of knowledge and expertise to the table. My leadership skills enable me to effectively lead teams of data engineers, and my commitment to leveraging data for informed decision-making and driving business growth sets me apart. Feel free to reach out to me to learn more about how I can elevate your data engineering strategy.",
+        "tagLine": "I'm a  datanaut who navigates through large datasets with ease and surfs data to uncover valuable insight",
+        "profilePicture": "d64c-400o400o1-ShSzPfcP8Mzi4T1PxP6DWb.jpg",
+        "sessions": [
+            {
+                "id": 641096,
+                "name": "Navigating the Ethical Terrain: A Journey into Responsible AI"
+            }
+        ],
+        "isTopSpeaker": false,
+        "links": [],
+        "questionAnswers": [],
+        "categories": []
+    },
+    {
+        "id": "1b125e8e-6f6f-41e2-a123-1d1f5fbd9c4a",
+        "firstName": "Kelly",
+        "lastName": "Quirin",
+        "fullName": "Kelly Quirin",
+        "bio": "Passionate software engineer with over 14 years of experience, I have honed my skills across the complete project life cycle, from requirements analysis to design, development, and testing. My dedication to crafting efficient, scalable, and innovative solutions has driven my career trajectory, allowing me to thrive in dynamic and challenging environments. With a steadfast commitment to excellence, I continuously seek to push the boundaries of technology and deliver impactful software solutions.",
+        "tagLine": "Lead Software Engineer Consultant at Klanik Mauritius ",
+        "profilePicture": "3d85-400o400o1-WWR8rT5QkoxTnB9CMffsJP.png",
+        "sessions": [
+            {
+                "id": 632706,
+                "name": "Exploring the Power of Minimal APIs in .NET 8"
+            }
+        ],
+        "isTopSpeaker": false,
+        "links": [],
+        "questionAnswers": [],
+        "categories": []
+    },
+    {
+        "id": "c852a4d0-7359-4e19-88d2-dcff43bc576f",
+        "firstName": "Keshav",
+        "lastName": "Caleechurn",
+        "fullName": "Keshav Caleechurn",
+        "bio": "Keshav Caleechurn is a Software Engineer at Spoon Consulting LTD with three years of experience specializing in Ember.js, Salesforce, and Ruby on Rails. He holds a BSc (Hons) in Applied Computing from the University of Mauritius, graduating in 2021. Keshav is known for his technical expertise, collaborative spirit, and innovative problem-solving skills, making him a valuable asset to his team and a driving force behind successful projects.",
+        "tagLine": "Spoon Consulting LTD, Software Engineer ",
+        "profilePicture": "460f-400o400o1-DNrfc6HBhAco4SMFJVfBjw.jpg",
+        "sessions": [
+            {
+                "id": 689649,
+                "name": "Embracing the Power of Automated Testing with Ember.js"
+            }
+        ],
+        "isTopSpeaker": false,
+        "links": [],
+        "questionAnswers": [],
+        "categories": []
+    },
+    {
+        "id": "477c56a0-d60c-42c6-beef-fc009a020fb8",
+        "firstName": "Kherin",
+        "lastName": "Bundhoo",
+        "fullName": "Kherin Bundhoo",
+        "bio": "I type on a keyboard and make magic happen !",
+        "tagLine": "Software Engineer at Telesio France",
+        "profilePicture": "cd29-400o400o1-sz9KayHxyPLFrQLcTurZT8.jpg",
+        "sessions": [
+            {
+                "id": 631049,
+                "name": "Celery Served Fresh: A Deep Dive into Asynchronous Task Processing with Python Celery"
+            }
+        ],
+        "isTopSpeaker": false,
+        "links": [],
+        "questionAnswers": [],
+        "categories": []
+    },
+    {
+        "id": "301a08e3-c1f4-4093-a902-2e397e6a0fda",
+        "firstName": "Krishna",
+        "lastName": "Humath",
+        "fullName": "Krishna Humath",
+        "bio": "Consultant at Spoon Consulting and passionate with development",
+        "tagLine": "Software Engineer",
+        "profilePicture": "da2e-400o400o1-10b12cf9-45af-4fe4-905b-c6eac24c2676.jpg",
+        "sessions": [
+            {
+                "id": 640207,
+                "name": "Introduction to flutter"
+            }
+        ],
+        "isTopSpeaker": false,
+        "links": [],
+        "questionAnswers": [],
+        "categories": []
+    },
+    {
+        "id": "79196cc1-32fa-4ce8-8204-7aba4c84e9ce",
+        "firstName": "Kushul",
+        "lastName": "Soomaree",
+        "fullName": "Kushul Soomaree",
+        "bio": "Senior Front End Engineer @ Dayforce | Web Accessibility Consultant | UI\/UX expert | Vuejs | Reactjs | Certified Trainer @ upcode.mu | frontend.mu Organizer",
+        "tagLine": "Senior Front End Engineer, Dayforce",
+        "profilePicture": "a015-400o400o1-sR7SzSsdQX25E3tVeQBwfw.jpg",
+        "sessions": [
+            {
+                "id": 638167,
+                "name": "Navigating the Web Accessibility Landscape"
+            }
+        ],
+        "isTopSpeaker": false,
+        "links": [],
+        "questionAnswers": [],
+        "categories": []
+    },
+    {
+        "id": "a52fead5-fedc-48da-94bf-192f1c171681",
+        "firstName": "Loic",
+        "lastName": "Forget",
+        "fullName": "Loic Forget",
+        "bio": "The biggest geek in Mauritius (literally)!! Lo\u00efc goes against the evil forces of traditionalists to save the island & protect nerd-castle La Sentinelle.",
+        "tagLine": "LSL Digital",
+        "profilePicture": "39c2-400o400o1-YXPDouUnf3dcxkYJRdTYSZ.jpg",
+        "sessions": [
+            {
+                "id": 630087,
+                "name": "The rise of the GAMER \ud83c\udfae"
+            }
+        ],
+        "isTopSpeaker": false,
+        "links": [],
+        "questionAnswers": [],
+        "categories": []
+    },
+    {
+        "id": "336671e4-3f17-4dbe-ab1c-20a8b38cc1a5",
+        "firstName": "Lovelesh",
+        "lastName": "Beeharry",
+        "fullName": "Lovelesh Beeharry",
+        "bio": "- Founder and President of MSTQB\r\n- ISTQB\u00ae Marketing Working Group Chair\r\n- CEO of GESL and Certilog MRU\r\n- International Conference Speaker and Moderator\r\n- 14 years of experience in software testing\r\n- Experienced in manual testing, automation testing & performance testing.\r\n- Experienced in development of automation test framework.\r\n- ISTQB\u00ae Trainer\r\n- CommonWealth Executive MBA\r\n- Bachelor of Engineering (Computer Science)",
+        "tagLine": "President of Mauritian Software Testing Qualifications Board (MSTQB)",
+        "profilePicture": "d204-400o400o1-an7y5jyUeXiR2LYUPSCJcC.png",
+        "sessions": [
+            {
+                "id": 640804,
+                "name": "The chess play of software testing"
+            }
+        ],
+        "isTopSpeaker": false,
+        "links": [],
+        "questionAnswers": [],
+        "categories": []
+    },
+    {
+        "id": "6e50239a-7f75-4ee4-bdb0-1a51cf0d4c91",
+        "firstName": "Maadhav",
+        "lastName": "Koonjul",
+        "fullName": "Maadhav Koonjul",
+        "bio": "Let your creativity go wild with coding !",
+        "tagLine": "Software engineer",
+        "profilePicture": "5f23-400o400o1-UNUWXYxzvz52xfbFbB63sU.jpg",
+        "sessions": [
+            {
+                "id": 640207,
+                "name": "Introduction to flutter"
+            }
+        ],
+        "isTopSpeaker": false,
+        "links": [],
+        "questionAnswers": [],
+        "categories": []
+    },
+    {
+        "id": "4dc79966-a989-45ff-b2e7-6b6f3a5433d0",
+        "firstName": "Mahima",
+        "lastName": "Ramgolam",
+        "fullName": "Mahima Ramgolam",
+        "bio": "A frontend developer who loves to create beautiful and interactive websites with vuejs and TailwindCSS. I'm always eager to learn new things and improve my skills in the frontend. I also enjoy being part of the frontend.mu community and contributing to open source projects that make the web a better place.",
+        "tagLine": "Frontend Developer",
+        "profilePicture": "1592-400o400o1-sGLNhFPp16PyjnmXRes3sj.jpg",
+        "sessions": [
+            {
+                "id": 639225,
+                "name": "Building beautful interfaces with robust ui libraries"
+            }
+        ],
+        "isTopSpeaker": false,
+        "links": [],
+        "questionAnswers": [],
+        "categories": []
+    },
+    {
+        "id": "2cfd825e-9a05-47b9-a7bf-d5c2f4f8b74a",
+        "firstName": "Marius",
+        "lastName": "Rabenarivo",
+        "fullName": "Marius Rabenarivo",
+        "bio": "Software Engineer passionate about Computer Science (Solving Programming Challenges using C++, working on cryptocurrency projects using Clojure) and Software Engineering.",
+        "tagLine": "Software Engineer, Lambda Development Ltd",
+        "profilePicture": "ec5a-400o400o1-nCphc186o8zDcEHDhUM8jT.jpg",
+        "sessions": [
+            {
+                "id": 641428,
+                "name": "Clojure programming language & ecosystem  Language of the Future"
+            }
+        ],
+        "isTopSpeaker": false,
+        "links": [],
+        "questionAnswers": [],
+        "categories": []
+    },
+    {
+        "id": "c6290cf3-c046-41b7-9f5f-d47d05c55baf",
+        "firstName": "Mervyn",
+        "lastName": "Manilall",
+        "fullName": "Mervyn Manilall",
+        "bio": "- Graduated in computer science and started freelance web development  in 2016\r\n\r\n- Data engineer at The Cloud Factory EMEA from 2016 - 2017\r\n\r\n- Specialist in Information System at Orange Business Service 2017- 2019\r\n\r\n- Software engineer at MCB 2019 - present\r\n\r\n- Senior Software engineer at MCB 2021 - present",
+        "tagLine": "Senior Software engineer - MCB",
+        "profilePicture": "bc37-400o400o1-3ZLq7ztRfZp5u16BhWGvv.jpg",
+        "sessions": [
+            {
+                "id": 638642,
+                "name": "Technopreneurship: the next step of many developers?"
+            }
+        ],
+        "isTopSpeaker": false,
+        "links": [],
+        "questionAnswers": [],
+        "categories": []
+    },
+    {
+        "id": "4ed66d71-84b0-4175-afe9-c3eb48b4eb4f",
+        "firstName": "Namita",
+        "lastName": "Sham",
+        "fullName": "Namita Sham",
+        "bio": "Namita Sham is a rising star in the world of cybersecurity, specializing in the art of penetration testing. Namita holds a Bachelor's degree in Computer Science and is a certified Ethical Hacker (CEH). Fuelled by an insatiable curiosity and a passion for problem-solving, Namita embarked on her cybersecurity journey with a mission to outsmart cyber threats and protect the digital infrastructure of organizations worldwide.",
+        "tagLine": "Cyber Analyst",
+        "profilePicture": "c537-400o400o1-PhNVMh2hzSbpsrCSbjWyUt.png",
+        "sessions": [
+            {
+                "id": 641594,
+                "name": "Inside the Mind of a Hacker: Ransomware Attack"
+            }
+        ],
+        "isTopSpeaker": false,
+        "links": [],
+        "questionAnswers": [],
+        "categories": []
+    },
+    {
+        "id": "e4d51ad0-51f7-44bc-ade2-8c7250bb5400",
+        "firstName": "Nathan",
+        "lastName": "Mangar",
+        "fullName": "Nathan Mangar",
+        "bio": "Nathan is a guy that loves anything code and hardware related. His company Thundergear Technologies LTD aka thundergear.io specializes in open hardware, print-on-demand and e-commerce solutions.",
+        "tagLine": "CEO\/Dev at Thundergear Technologies LTD",
+        "profilePicture": "97e2-400o400o1-RhHVt5LARN427gkGneV4WK.jpg",
+        "sessions": [
+            {
+                "id": 639986,
+                "name": "Secure your WordPress installation"
+            }
+        ],
+        "isTopSpeaker": false,
+        "links": [],
+        "questionAnswers": [],
+        "categories": []
+    },
+    {
+        "id": "330d0193-0f5f-4f9a-9df1-741448fa390d",
+        "firstName": "Nayar",
+        "lastName": "Joolfoo",
+        "fullName": "Nayar Joolfoo",
+        "bio": "Who else loves Hiking?",
+        "tagLine": "Freelance Consultant \/ DevOps ",
+        "profilePicture": "9d22-400o400o1-aSd3CkyTUf1vLrtZXV68ZP.jpg",
+        "sessions": [
+            {
+                "id": 640344,
+                "name": "Making E-Commerce chatbot in Creole"
+            }
+        ],
+        "isTopSpeaker": false,
+        "links": [],
+        "questionAnswers": [],
+        "categories": []
+    },
+    {
+        "id": "3a68cb63-d151-41e7-92d7-720bc6a191b7",
+        "firstName": "Nirmala",
+        "lastName": "Saneechur",
+        "fullName": "Nirmala Saneechur",
+        "bio": "Having over 18 years of experience in testing and a real passion for quality, I  enjoy coaching and mentoring others in this discipline. \r\n\r\nDuring my rich career, I have had the opportunity to get involved in functional as well as non functional testing. \r\n\r\nIn the past 7 years, I have been managing test teams. The key is  to keep ourselves up to date with the latest in the testing field and having an indepth knowledge of the business in which we evolve.\r\n\r\nI am also the secretary of MSTQB, the Mauritian chapter for ISTQB (International Software Testing Qualifications Board). Our objective is to grow and connect the software testing community in Mauritius. ",
+        "tagLine": "Test Manager at iQera IO",
+        "profilePicture": "84e5-400o400o1-DXJrr12vSEYcBhJ25PqKBj.jpg",
+        "sessions": [
+            {
+                "id": 641070,
+                "name": "Shift Left approach at iQera"
+            }
+        ],
+        "isTopSpeaker": false,
+        "links": [],
+        "questionAnswers": [],
+        "categories": []
+    },
+    {
+        "id": "f72d6333-ba68-43df-be79-0e42c7162631",
+        "firstName": "Om",
+        "lastName": "Gokhool",
+        "fullName": "Om Gokhool",
+        "bio": "Experienced Solution Architect with a demonstrated history of working in the information technology and services industry. Skilled in Communication, Time Management, Teamwork, Research and Development (R&D), and Creative Problem Solving. Strong engineering professional with a Master's degree focused in Software Project Management from University of Mauritius. Currently working at Harel Mallac Technologies as a Solution Architect, developing digital solutions and managing projects.",
+        "tagLine": "Harel Mallac Technologies, Solution Architect",
+        "profilePicture": "64d9-400o400o1-EbaqaeQUqXs8cBrNHTfABJ.jpg",
+        "sessions": [
+            {
+                "id": 641393,
+                "name": "Deploying a Personal Cloud with Ubuntu and OpenStack"
+            }
+        ],
+        "isTopSpeaker": false,
+        "links": [],
+        "questionAnswers": [],
+        "categories": []
+    },
+    {
+        "id": "9b89ccdf-9738-43c1-a682-e3eb0f0db338",
+        "firstName": "Payal",
+        "lastName": "Ghoorhoo ",
+        "fullName": "Payal Ghoorhoo",
+        "bio": "Passionate bug hunter",
+        "tagLine": "Senior software test engineer",
+        "profilePicture": "eee2-400o400o1-3XAYuaV46WYNCPw7X1Md9n.jpg",
+        "sessions": [
+            {
+                "id": 641446,
+                "name": "Beyond Bugs: The Overlooked Aspects of Software Testing"
+            }
+        ],
+        "isTopSpeaker": false,
+        "links": [],
+        "questionAnswers": [],
+        "categories": []
+    },
+    {
+        "id": "efea1a1f-c90b-4cd0-b180-12a5e706178b",
+        "firstName": "Pranav Gupta",
+        "lastName": "Chummun",
+        "fullName": "Pranav Gupta Chummun",
+        "bio": "Pranav Gupta Chummun is a Software Developer at Ceridian Dayforce, and a University of Technology, Mauritius graduate. He is a pioneer Google Developer Students Club lead and he's been immersed in the world of software development, AI, and machine learning. \r\n\r\nWith a deep love for technology, Pranav's journey has led him to develop games that aim to create awareness about sustainability and also published a paper in the field of AI and Machine Learning, a small effort in a much larger cause.\r\n\r\nPranav is dedicated to contributing to the community. He's humbled by the opportunity to provide digital solutions for NGOs, recognizing the value of technology in making a positive impact on real-world challenges. His exploration of supervised machine learning techniques, including Deep Learning and Transfer Learning, is a reflection of his eagerness to learn and grow in a rapidly evolving field.",
+        "tagLine": "Software Developer at Ceridian Dayforce (with a passion for Machine Learning & AI)",
+        "profilePicture": "88d9-400o400o1-Tfqy31CDT1iz1zi6PKjZsj.jpeg",
+        "sessions": [
+            {
+                "id": 641398,
+                "name": "Supercharge Your Mobile App with Gemini: A Hands-on Guide"
+            }
+        ],
+        "isTopSpeaker": false,
+        "links": [],
+        "questionAnswers": [],
+        "categories": []
+    },
+    {
+        "id": "6720e7b3-9121-4e0a-983d-d8515d756fb1",
+        "firstName": "Pranav Gupta",
+        "lastName": "Chummun",
+        "fullName": "Pranav Gupta Chummun",
+        "bio": "Pranav Gupta Chummun is a Software Developer at Ceridian Dayforce, and a University of Technology, Mauritius graduate. He is a pioneer Google Developer Students Club lead and he's been immersed in the world of software development, AI, and machine learning.\r\n\r\nWith a deep love for technology, Pranav's journey has led him to develop games that aim to create awareness about sustainability and also published a paper in the field of AI and Machine Learning, a small effort in a much larger cause.\r\n\r\nPranav is dedicated to contributing to the community. He's humbled by the opportunity to provide digital solutions for NGOs, recognizing the value of technology in making a positive impact on real-world challenges. His exploration of supervised machine learning techniques, including Deep Learning and Transfer Learning, is a reflection of his eagerness to learn and grow in a rapidly evolving field.",
+        "tagLine": "Software Developer, Ceridian Dayforce",
+        "profilePicture": "f360-400o400o1-PZH98CdCsCEdGKvuDoJde6.jpg",
+        "sessions": [
+            {
+                "id": 641499,
+                "name": "Introduction to Game Development using Construct 3"
+            }
+        ],
+        "isTopSpeaker": false,
+        "links": [],
+        "questionAnswers": [],
+        "categories": []
+    },
+    {
+        "id": "8730e9dc-e914-403b-80ef-87e0df730638",
+        "firstName": "Pritvi",
+        "lastName": "Jheengut",
+        "fullName": "Pritvi Jheengut",
+        "bio": "geek@FLOSS.Slackware\r\n\r\n\r\nExperienced Telecommunications Technician with a demonstrated history of working in the computer hardware industry. Skilled in Linux System Administration, Storage, Bash, and Event Management. Strong professional with a Diploma In Physics from University of Mauritius. ",
+        "tagLine": "Let's get connected | FLOSS Advocate | Jack of all Trades Master of none",
+        "profilePicture": "e3ff-400o400o1-SwAxNBua18Te2zrqSMenyK.jpg",
+        "sessions": [
+            {
+                "id": 614617,
+                "name": "An overview of Gaming in the Free Libre and Open Source System World"
+            }
+        ],
+        "isTopSpeaker": false,
+        "links": [],
+        "questionAnswers": [],
+        "categories": []
+    },
+    {
+        "id": "51f713e3-f67b-4884-aed0-ef782fda8a6c",
+        "firstName": "Purdaseea",
+        "lastName": "Dhaneshwursingh",
+        "fullName": "Purdaseea Dhaneshwursingh",
+        "bio": "Dhanesh is a seasoned DevOps professional recognized for his results-driven approach, cloud integration, and operations expertise. He is solutioning and automating cloud infrastructure solutions to optimize efficiency and streamline deployment processes. With meticulous attention to detail and a vibrant drive for innovation, he consistently delivers impactful solutions.",
+        "tagLine": "Expert DevOps Engineer",
+        "profilePicture": "65f3-400o400o1-7oHbkHhX9hc9oPxmMM6d7S.jpg",
+        "sessions": [
+            {
+                "id": 609194,
+                "name": "The Art of Infrastructure As Code"
+            }
+        ],
+        "isTopSpeaker": false,
+        "links": [],
+        "questionAnswers": [],
+        "categories": []
+    },
+    {
+        "id": "a1afe56d-adc2-40fa-a6f2-7c66ae84a525",
+        "firstName": "Rajendra",
+        "lastName": "Ballgobin",
+        "fullName": "Rajendra Ballgobin",
+        "bio": "10+ year with Angular Eco-system. Always curious about how it works.\r\n#TeamPlayer #Angular #AvidLearner #NodeDeveloper #Blogger\r\n",
+        "tagLine": "Fullstack Developer at Klanik",
+        "profilePicture": "df3c-400o400o1-YVMJLrbWfwxU5mB8PMrAau.jpg",
+        "sessions": [
+            {
+                "id": 628992,
+                "name": "Baby steps into Data Science"
+            }
+        ],
+        "isTopSpeaker": false,
+        "links": [],
+        "questionAnswers": [],
+        "categories": []
+    },
+    {
+        "id": "8fe901cb-3f81-4148-b225-5d02ec1eaa02",
+        "firstName": "Ranveer",
+        "lastName": "Seetaloo",
+        "fullName": "Ranveer Seetaloo",
+        "bio": "As a Senior Network - Professional with more than fifteen years\u2019 international exposure in Exchange point management, core network build outs and leadership position at operator level, I am very much keen to contribute and share my vision for architecting a better and more democratic internet for Mauritius, Africa and for all. As the current Chairman of Mauritius Internet Exchange Point (MIXP), I am very much aware of the immense work which is being carried out by seasoned professionals in advancing the cause for peering and making the Internet more and more democratic, accessible, affordable, and ubiquitous.",
+        "tagLine": "Chairman of MIXP and Director \u2014 Strategy at Kaldera Ltd",
+        "profilePicture": "d2c7-400o400o1-npnZRks8fnVUzNhEaL2Dbh.jpg",
+        "sessions": [
+            {
+                "id": 640180,
+                "name": "Mauritius Internet Exchange Point (MIXP)"
+            }
+        ],
+        "isTopSpeaker": false,
+        "links": [],
+        "questionAnswers": [],
+        "categories": []
+    },
+    {
+        "id": "1dc49320-2609-4e11-9a66-e0f93ff6334e",
+        "firstName": "Richard",
+        "lastName": "Burbaud",
+        "fullName": "Richard Burbaud",
+        "bio": "Richard spent 25 years in digital technologies for retail, manufacturing and servicing companies. He is now the CIO of iQera.",
+        "tagLine": "iQera CIO",
+        "profilePicture": "54ed-400o400o1-WoREhDVYqbJBbZhCuHg4A3.jpg",
+        "sessions": [
+            {
+                "id": 662508,
+                "name": "IA pour les clients et les \u00e9quipes de d\u00e9veloppement"
+            },
+            {
+                "id": 676781,
+                "name": "En route pour le z\u00e9ro d\u00e9faut"
+            }
+        ],
+        "isTopSpeaker": false,
+        "links": [],
+        "questionAnswers": [],
+        "categories": []
+    },
+    {
+        "id": "2e82117a-6798-4e3f-a78d-b547047d02ff",
+        "firstName": "Rishi",
+        "lastName": "Abeeluck",
+        "fullName": "Rishi Abeeluck",
+        "bio": "Rishi is an experienced Software Engineer with a demonstrated history of working in the broadcast media industry, finance industry & retail sector. Skilled in Full Stack Web Development, Software Development and Agile Project Management. Recently delivered a challenging project for the transportation industry, education sector and currently working on a project for taxation.",
+        "tagLine": "ELCA | Project Manager",
+        "profilePicture": "954e-400o400o1-TfiYThRmPwmMNGfQLAMUFA.png",
+        "sessions": [
+            {
+                "id": 641584,
+                "name": "Angular Microfrontends with NX and Module Federation"
+            }
+        ],
+        "isTopSpeaker": false,
+        "links": [],
+        "questionAnswers": [],
+        "categories": []
+    },
+    {
+        "id": "c2576a31-090d-44d0-a425-9064bd27a7a1",
+        "firstName": "Riyad",
+        "lastName": "Dhuny",
+        "fullName": "Riyad Dhuny",
+        "bio": "Riyad is an esteemed academic member of the Department of Creative Arts, Film and Media Technologies (CAFMT) at the University of Technology, Mauritius (UTM). He has imparted his knowledge and expertise in various university modules, including Game Development, Video Editing, Creative Design, Multimedia & Applications, Audio-visual Production, Systems Integration and Web Design.\r\nAs academic background, Riyad holds a postgraduate degree in Software Engineering and is working towards obtaining his PhD. Before his career in academia, Riyad was the Systems Analyst at UTM, during which he earned several certifications from prominent tech corporations such as Microsoft, Adobe, and Linux. His proficiency in these areas garnered him prestigious titles like Microsoft Certified Trainer and Adobe Certified Instructor. He has, however, an affinity for Linux.\r\nVenturing into the realm of research, Riyad undertook a Research Training Fellowship at India's renowned Centre for Development of Advanced Computing (C-DAC). This experience significantly influenced his professional focus, shifting from pursuing certifications to concentrating on academic publishing.\r\nRiyad warmly welcomes intellectual discussions and is eager to expand his professional network. He seeks potential collaborations to bridge the gap between industry and academia and is enthusiastic about exploring opportunities with research funding agencies. Encouraging connection and communication, Riyad invites the reader to reach out to him with any inquiries, prospective partnerships, or exchange ideas.\r\n",
+        "tagLine": "Senior Lecturer, University of Technology,Mauritius",
+        "profilePicture": "f60d-400o400o1-9yAcALUjzq8m2aiHcZWyiK.jpg",
+        "sessions": [
+            {
+                "id": 641499,
+                "name": "Introduction to Game Development using Construct 3"
+            }
+        ],
+        "isTopSpeaker": false,
+        "links": [],
+        "questionAnswers": [],
+        "categories": []
+    },
+    {
+        "id": "a74e488a-4c89-4f94-b1a2-60230c88f3aa",
+        "firstName": "Samanta",
+        "lastName": "Luchoo",
+        "fullName": "Samanta Luchoo",
+        "bio": "24 years old, .NET software engineer with 3 years of work experience in the industry. Throughout my career, I have accumulated practical experience across a variety of software engineering projects, whether working independently or collaboratively within dynamic teams. My good understanding of multiple programming languages is complemented by proficiency in software development tools such as Git, SQL Server, and Visual Studio. My enthusiastic interest in emerging technologies reflects my constant commitment to staying at the forefront of the industry, fueling my strong desire to continue learning and developing in the field of software engineering.\r\nBeyond my proven technical skills, I am recognized for my exemplary work ethic, unwavering teamwork spirit, and profound passion for software development.",
+        "tagLine": "Middle ++ software engineer at Xefi Center Mauritius ",
+        "profilePicture": "89c9-400o400o1-9G6WkqqZgj9HaxPU3F5MPm.jpg",
+        "sessions": [
+            {
+                "id": 632706,
+                "name": "Exploring the Power of Minimal APIs in .NET 8"
+            }
+        ],
+        "isTopSpeaker": false,
+        "links": [],
+        "questionAnswers": [],
+        "categories": []
+    },
+    {
+        "id": "92f5d495-3ed4-4811-a553-6bc556574943",
+        "firstName": "Sambhav",
+        "lastName": "Bholah",
+        "fullName": "Sambhav Bholah",
+        "bio": "23yo tech enthusiast and a musician. \ud83d\udc68\ud83c\udffb\u200d\ud83d\udcbb\ud83c\udfb8\r\nSalesforce Developer at Spoon Consulting.  ",
+        "tagLine": "IT Consultant ",
+        "profilePicture": "354c-400o400o1-EKiHoZR8xep3heH1wLMKxH.jpg",
+        "sessions": [
+            {
+                "id": 689669,
+                "name": "Salesforce: For the Coders and the Non-Coders"
+            }
+        ],
+        "isTopSpeaker": false,
+        "links": [],
+        "questionAnswers": [],
+        "categories": []
+    },
+    {
+        "id": "d802c569-2764-4a8c-ac90-4dec8e3c3f41",
+        "firstName": "Sandeep",
+        "lastName": "Ramgolam",
+        "fullName": "Sandeep Ramgolam",
+        "bio": "Lead Organizer of frontend.mu passionate about technology & education.\r\nI have fun with CSS, Gardenining, Linux and Dota2.\r\n",
+        "tagLine": "Livestorm, Senior Front-End Engineer",
+        "profilePicture": "f39e-400o400o1-pp1182tWpDRfuZ9WKcyScp.png",
+        "sessions": [
+            {
+                "id": 639943,
+                "name": "The Frontend Developer Career Path"
+            },
+            {
+                "id": 639942,
+                "name": "Lightning Talks 2024"
+            }
+        ],
+        "isTopSpeaker": false,
+        "links": [],
+        "questionAnswers": [],
+        "categories": []
+    },
+    {
+        "id": "5cf12aa2-4b42-483d-89ba-13156c274ee3",
+        "firstName": "Sarwadha",
+        "lastName": "Daya",
+        "fullName": "Sarwadha Daya",
+        "bio": "Sarwadha Daya-Ramasamy, 8 years in the IT field, 7 years of experience at Mauritius commercial Bank. Experience in automation and integration tools, fascinated with AI and Data science. Holds a BSc in Computer Science with Electronic and Master in Computer Science with Emerging technologies.",
+        "tagLine": "Mauritius commercial Bank, Tech Lead, Tech SBU",
+        "profilePicture": "be00-400o400o1-aTzgHyFDWaEn6uRcti2kyt.jpg",
+        "sessions": [
+            {
+                "id": 641025,
+                "name": "Control-M - a managed File transfer solution"
+            }
+        ],
+        "isTopSpeaker": false,
+        "links": [],
+        "questionAnswers": [],
+        "categories": []
+    },
+    {
+        "id": "5efddbb2-c158-4f71-aef9-ace00efbc627",
+        "firstName": "Shailendra",
+        "lastName": "Singh",
+        "fullName": "Shailendra Singh",
+        "bio": "Shailendra is Co-Founder of BoticX Labs with 18+ years of rich global experience and has been one of the veterans in Intelligent automation space. He is helping global clients with his consulting experience to develop their digital strategy, RPA and AI based analytics automation, Business-IT Strategy formulation, Change management and Programme\/Performance Management.\r\n",
+        "tagLine": "BoticX Labs, Co-Founder",
+        "profilePicture": "5278-400o400o1-hNPxRm4E75mDk7kUGBeXXx.jpg",
+        "sessions": [
+            {
+                "id": 640232,
+                "name": "Why RPA is still relevant in the AI world"
+            }
+        ],
+        "isTopSpeaker": false,
+        "links": [],
+        "questionAnswers": [],
+        "categories": []
+    },
+    {
+        "id": "bf10aa1c-ed1d-41b4-af9b-580cda23c02f",
+        "firstName": "Shakeel",
+        "lastName": "Mohun",
+        "fullName": "Shakeel Mohun",
+        "bio": "Shakeel Mohun is a dedicated software developer and technology enthusiast, currently working as a full stack developer with expertise in Ruby on Rails and Ember.js. He holds a BSc Hons in Computer Science with First Class Honours and is presently pursuing a Master's degree in Data Science.With a strong command of languages such as JavaScript\/TypeScript, Python, and Ruby, Shakeel has extensive experience in developing robust applications. His proficiency in frameworks like Ruby on Rails and Ember.js allows him to build dynamic and scalable web solutions.Shakeel's passion for technology extends beyond his professional work. As an AI enthusiast, he continually explores the latest advancements in artificial intelligence and integrates these innovations into his projects. Additionally, Shakeel enjoys gaming, which fuels his creativity and problem-solving skills.At DevCon, Shakeel will be sharing his insights on \"Introduction to Ember.js,\" providing attendees with valuable knowledge and practical tips on leveraging this powerful framework.",
+        "tagLine": "Software developer",
+        "profilePicture": "0867-400o400o1-Re7PZ76VtByU6288YKGxf.jpg",
+        "sessions": [
+            {
+                "id": 689640,
+                "name": "Harnessing Reactivity: Intro to Ember.js"
+            }
+        ],
+        "isTopSpeaker": false,
+        "links": [],
+        "questionAnswers": [],
+        "categories": []
+    },
+    {
+        "id": "8db2a5ab-0147-443b-b611-71c2df33eac3",
+        "firstName": "Sid",
+        "lastName": "Bisram",
+        "fullName": "Sid Bisram",
+        "bio": "Programmer with an unconventional career track until the world of data opened up to him and he never looked back since...",
+        "tagLine": "Data Engineer at MCB Ltd",
+        "profilePicture": "ee04-400o400o1-VMfaDN35vtxZXQ19GTc8zc.jpg",
+        "sessions": [
+            {
+                "id": 641494,
+                "name": "Web scraping 101 with Python"
+            }
+        ],
+        "isTopSpeaker": false,
+        "links": [],
+        "questionAnswers": [],
+        "categories": []
+    },
+    {
+        "id": "cd7e4e2f-263b-4608-83bc-6e6e9d90e966",
+        "firstName": "Siven",
+        "lastName": "Sadiyan",
+        "fullName": "Siven Sadiyan",
+        "bio": "Passionate about web development, with over 15 years of experience as a PHP programmer.",
+        "tagLine": "Technical Lead, Extension Interactive",
+        "profilePicture": "7341-400o400o1-hmsxeufxmS5F3p9haAq5C3.jpg",
+        "sessions": [
+            {
+                "id": 610958,
+                "name": "Automated Testing in Symfony: Tools and Strategies for High-Quality Applications"
+            }
+        ],
+        "isTopSpeaker": false,
+        "links": [],
+        "questionAnswers": [],
+        "categories": []
+    },
+    {
+        "id": "78400cf2-1a21-4828-9a7e-db48362701b0",
+        "firstName": "Souhayl",
+        "lastName": "Rosun",
+        "fullName": "Souhayl Rosun",
+        "bio": "Souhayl brings a unique blend of functional and technical expertise, coupled with extensive project management experience. His background makes him exceptionally well-suited to guide clients in the design and development of websites, enterprise applications, and mobile apps. As a former web developer, Souhayl has in-depth technical skills that empower him to tackle the challenges of digital accessibility effectively. His diverse career has equipped him with the ability to understand and address the specific needs of each project, delivering customized solutions that meet contemporary demands.",
+        "tagLine": "Accessibilit\u00e9 num\u00e9rique : notre expertise et notre engagement au service du handicap",
+        "profilePicture": "c2b2-400o400o1-wGhSkkuiSJwVRymss2rWcf.jpg",
+        "sessions": [
+            {
+                "id": 633954,
+                "name": "Digital accessibility"
+            }
+        ],
+        "isTopSpeaker": false,
+        "links": [],
+        "questionAnswers": [],
+        "categories": []
+    },
+    {
+        "id": "ce89c091-04b0-4219-8177-c5c2038dfb98",
+        "firstName": "Surajbali",
+        "lastName": "Bholanathsingh",
+        "fullName": "Surajbali Bholanathsingh",
+        "bio": "Bholanathsingh Surajbali is working as Engineering Lead at Mauritius Commercial Bank. Bholanathsingh is a research enthusiast and a strong passion for integration frameworks and middleware systems. ",
+        "tagLine": "Mauritius Commercial Bank Ltd, Engineering Lead",
+        "profilePicture": "49f7-400o400o1-JLjNHe4rVpQgyPzhn9Lb1o.png",
+        "sessions": [
+            {
+                "id": 641043,
+                "name": "Next-Gen Unleashed: Pioneering Integration Excellence with Open Source Empowerment"
+            }
+        ],
+        "isTopSpeaker": false,
+        "links": [],
+        "questionAnswers": [],
+        "categories": []
+    },
+    {
+        "id": "1ad5cb40-0f33-4b33-ab8d-415a5febf690",
+        "firstName": "Vanessa",
+        "lastName": "V.Chellen ",
+        "fullName": "Vanessa V.Chellen",
+        "bio": "Directeur technique chez Extension Interactive. J\u2019habite l\u2019univers PHP depuis 16 ans et l\u2019ai suivi\/soutenu dans son \u00e9volution de PHP 4 \u00e0 maintenant...  Sp\u00e9cialis\u00e9 sur Symfony, Drupal et Prestashop, j\u2019adore partager ma passion du code autour de moi.",
+        "tagLine": "CTO, Extension Interactive",
+        "profilePicture": "7c64-400o400o1-4x5GhaqUsV39Sd9pLngMzt.jpg",
+        "sessions": [
+            {
+                "id": 637962,
+                "name": "Et si on parlait \"Qualit\u00e9 Web\""
+            }
+        ],
+        "isTopSpeaker": false,
+        "links": [],
+        "questionAnswers": [],
+        "categories": []
+    },
+    {
+        "id": "cf415be6-0558-4411-aa4d-dee4f0648547",
+        "firstName": "Vidush H.",
+        "lastName": "Namah",
+        "fullName": "Vidush H. Namah",
+        "bio": "He is a nomad of the geek world - traveling through various technologies yet never settling. He also writes really dramatic biographies.",
+        "tagLine": "ORION CONSULTING (MAURITIUS)",
+        "profilePicture": "2a64-400o400o1-UqwxMZWx3KYeYgywuhqtnt.png",
+        "sessions": [
+            {
+                "id": 640515,
+                "name": "Hugo + GitHub: Create Your Blog!"
+            },
+            {
+                "id": 641532,
+                "name": ".NET Diagnostics: Do I feel healthy at the moment?"
+            }
+        ],
+        "isTopSpeaker": false,
+        "links": [],
+        "questionAnswers": [],
+        "categories": []
+    },
+    {
+        "id": "80b07936-76ef-4273-9a2f-396ff681dfb4",
+        "firstName": "Vincent",
+        "lastName": "Chu",
+        "fullName": "Vincent Chu",
+        "bio": "Cloud Evangelist | Anime\r\n\r\nWelcome everyone, pleased to meet ya.\r\nMinasan y\u014dkoso, oaidekiteuresh\u012bdesu",
+        "tagLine": "Junior Cloud Engineer @ Maureva - Cloud Evangelist",
+        "profilePicture": "7612-400o400o1-3uCv6nUvF2K7Zju9duHJvN.png",
+        "sessions": [
+            {
+                "id": 624708,
+                "name": "AWS Cloudformation vs Terraform"
+            }
+        ],
+        "isTopSpeaker": false,
+        "links": [],
+        "questionAnswers": [],
+        "categories": []
+    },
+    {
+        "id": "30e0de93-3bda-4254-bc80-56f397df8be9",
+        "firstName": "Yannick",
+        "lastName": "Montalent",
+        "fullName": "Yannick Montalent",
+        "bio": "With a decade's experience as a front-end developer, I have a recognised expertise in the field of digital accessibility, with a particular focus on HTML, CSS and JavaScript. I have also shared my experience as an expert in the field at university conferences on the subject of digital accessibility.",
+        "tagLine": "Ipedis, Digital Accessibility Expert",
+        "profilePicture": "62c1-400o400o1-4jfxPQwGcs9EuyGjDLsfMd.png",
+        "sessions": [
+            {
+                "id": 633954,
+                "name": "Digital accessibility"
+            }
+        ],
+        "isTopSpeaker": false,
+        "links": [],
+        "questionAnswers": [],
+        "categories": []
+    },
+    {
+        "id": "f4f43c8c-bc12-49cc-b681-6be53441bfaa",
+        "firstName": "Yuvraj",
+        "lastName": "Keenoo",
+        "fullName": "Yuvraj Keenoo",
+        "bio": "Currently working at MCB as Tech Lead.",
+        "tagLine": "Tech Lead | Camunda Chapter Lead (Mauritius).",
+        "profilePicture": "c38e-400o400o1-4dB2CxVJC3BaKhUbi4RKgA.jpg",
+        "sessions": [
+            {
+                "id": 615060,
+                "name": "Workflow automation using Camunda"
+            }
+        ],
+        "isTopSpeaker": false,
+        "links": [],
+        "questionAnswers": [],
+        "categories": []
+    },
+    {
+        "id": "1b1fc1f6-6a15-4fd7-940a-7e39f1e15df7",
+        "firstName": "Zafir",
+        "lastName": "Sk Heerah",
+        "fullName": "Zafir Sk Heerah",
+        "bio": "Zafir is a versatile software engineer with expertise in various web technologies and frameworks, including Node.js, Angular, Ember.js, and React. He also specializes in mobile app development across hybrid platforms, Android, and iOS using Objective-C and Swift. With a strong focus on delivering high-quality solutions, Zafir is adept at simplifying complex topics and sharing best practices with the developer community. His experience and passion for technology make him a valuable mentor and speaker.\r\n\r\nFor more information, visit his personal website, zfir.dev.",
+        "tagLine": "Software Engineer at SharinPix | Consultant at Spoon Consulting",
+        "profilePicture": "945c-400o400o1-3LC2RgABmLjRXSudxqZVUt.jpg",
+        "sessions": [
+            {
+                "id": 689649,
+                "name": "Embracing the Power of Automated Testing with Ember.js"
+            }
+        ],
+        "isTopSpeaker": false,
+        "links": [],
+        "questionAnswers": [],
+        "categories": []
+    }
+]
