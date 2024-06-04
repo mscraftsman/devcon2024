@@ -28,7 +28,7 @@ export default {
                 'float-vertical': {
                     '0%, 100%': {transform: 'translateX(10px)'},
                     '50%':{transform:'translateX(0)'}
-                },          
+                },
             },
             animation:{
                 'makecloudscoolagain':'makecloudscoolagain 1.5s ease-in-out infinite',

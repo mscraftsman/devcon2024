@@ -6,7 +6,7 @@
         </div>
 
         <img src="/images/star.svg" class="animate-makecloudscoolagain absolute ml-16 mt-20 h-64 opacity-60 hidden lg:block" />
-        <img src="/images/cloud.svg" class="animate-float-vertical absolute right-0 h-20 -mt-20 hidden lg:block" />
+        <img src="/images/cloud.svg" class="absolute right-0 h-20 -mt-20 hidden lg:block" />
         <div class="mt-8 lg:mt-16 max-w-md mx-auto flex flex-row justify-between gap-4">
             <!-- Diamond Tier -->
             <img src="/images/sponsor-tiers/diamond.svg" class="animate-flip-horizontal h-8 lg:h-10" />
@@ -86,7 +86,7 @@
         </div>
 
         <img src="/images/gold-coin.svg" class="animate-bounce absolute ml-16 h-36 opacity-60 hidden lg:block" />
-        <img src="/images/cloud-2.svg" class="animate-float-vertical absolute right-0 -mt-20 h-36 hidden lg:block" />
+        <img src="/images/cloud-2.svg" class="absolute right-0 -mt-20 h-36 hidden lg:block" />
         <div class="mt-8 lg:mt-16 max-w-md mx-auto flex flex-row justify-between gap-4">
             <!-- Silver Tier -->
             <img src="/images/sponsor-tiers/silver.svg" class="animate-flip-horizontal h-8 lg:h-10" />
@@ -161,7 +161,7 @@
         </div>
 
         <img src="/images/discover.svg" class="animate-bounce absolute ml-16 h-36 opacity-60 hidden lg:block" />
-        <img src="/images/cloud-4.svg" class="animate-float-vertical pulse absolute right-0 h-16 -mt-28 hidden lg:block" />
+        <img src="/images/cloud.svg" class="absolute right-28 h-16 -mt-28 hidden lg:block" />
         <div class="mt-8 lg:mt-16 max-w-md mx-auto grid place-items-center">
             <!-- Media Partner -->
             <h3 class="text-lg lg:text-2xl font-pixel font-bold">Media Partner</h3>
@@ -182,6 +182,18 @@
             <div class="flex flex-col lg:flex-row gap-10 items-center">
                 <a href="https://cloud.mu" target="_blank">
                     <img src="/images/sponsors/cloud-mu.png" class="h-10 lg:h-12 hover:scale-105 transition-all duration-500" />
+                </a>
+            </div>
+        </div>
+
+        <div class="mt-8 lg:mt-16 max-w-md mx-auto grid place-items-center">
+            <!-- Gaming Corner -->
+            <h3 class="text-lg lg:text-2xl font-pixel font-bold">Gaming Corner</h3>
+        </div>
+        <div class="mt-8 lg:mt-16 max-w-4xl mx-auto grid place-items-center">
+            <div class="flex flex-col lg:flex-row gap-10 items-center">
+                <a href="https://cyberroom.mu/" target="_blank">
+                    <img src="/images/sponsors/cyberroom.svg" class="h-12 lg:h-16 hover:scale-105 transition-all duration-500" />
                 </a>
             </div>
         </div>

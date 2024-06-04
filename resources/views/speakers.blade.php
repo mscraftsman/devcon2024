@@ -12,14 +12,14 @@
 		@else
 			<div class="grid xs:grid-cols-2 sm:grid-cols-2 md:grid-cols-4 lg:grid-cols-5 gap-4">
 				@foreach($speakers as $speaker)
-					<a href="{{route('speaker', $speaker['id'])}}" class="p-5 transition-all hover:scale-110 hover:bg-slate-100">
+					<a href="{{route('speaker', $speaker['id'])}}" class="p-5 transition-all bg-blue-100 hover:scale-[105%] hover:bg-blue-200 hover:outline-double outline-4 outline-offset-2 outline-teal-200 rounded-md">
 						<img class="w-28 h-28 rounded-full mx-auto drop-shadow-xl" src="/speaker/{{ $speaker['profilePicture'] }}">
 						<div class="pt-6 text-center space-y-3">
 							<figcaption class="font-medium">
-								<div class="font-astronomus uppercase font-bold text-gray-800 mb-2">
+								<div class="uppercase font-bold text-gray-800 mb-2">
 									{{ $speaker['fullName'] }}
 								</div>
-								<div class="font-dm text-sm font-bold text-gray-400">
+								<div class="font-dm text-sm font-bold text-gray-600">
 									{{ $speaker['tagLine'] }}
 								</div>
 							</figcaption>

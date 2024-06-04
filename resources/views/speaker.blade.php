@@ -1,5 +1,12 @@
 <x-guest-layout>
-    <section class="mt-8 mb-16 max-w-5xl py-5 px-3 mx-auto speaker">
+    @php
+    // Array of outline classes
+    $outlineClasses = ['outline-yellow-300', 'outline-blue-300', 'outline-red-300', 'outline-green-300'];
+    // Select a random outline class
+    $randomOutlineClass = $outlineClasses[array_rand($outlineClasses)];
+    @endphp
+
+    <section class="mt-2 lg:mt-8 mb-16 max-w-5xl py-5 px-3 mx-auto speaker">
         @foreach ($speaker as $s)
 
             <nav class="hidden flex" aria-label="Breadcrumb">
@@ -25,10 +32,11 @@
             </nav>
 
             <div class="speaker__container">
-                <img class="w-64 h-64 rounded-full mx-auto drop-shadow-xl" src="{{ $s['profilePicture'] }}">
-                <div class="pt-6 text-center space-y-3">
+
+                <div class="pt-2 text-center space-y-3">
+                    <img class="w-64 h-64 rounded-full mx-auto outline outline-offset-2 outline-4 @php echo $randomOutlineClass; @endphp drop-shadow-xl" src="{{ $s['profilePicture'] }}">
                     <figcaption class="font-large">
-                        <div class="font-astronomus uppercase text-2xl font-bold text-slate-800 mb-1">
+                        <div class="uppercase text-2xl font-bold text-slate-800 mb-1">
                             {{ $s['fullName'] }}
                         </div>
                         <div class="font-dm text-md font-bold text-slate-500 max-w-2xl mx-auto">
