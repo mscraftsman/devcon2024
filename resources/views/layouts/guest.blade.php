@@ -118,11 +118,13 @@
 
     </head>
     <body class="font-sans text-gray-900 antialiased">
+        <div>
+            @include('layouts.top-navigation')
 
-        @include('layouts.top-navigation')
+            {{ $slot }}
 
-        {{ $slot }}
+            @include('layouts.footer')
 
-        @include('layouts.footer')
+        </div>
     </body>
 </html>

@@ -1,6 +1,6 @@
 <div>
-    <div class="bg-[#2F9ED9] shadow-md">
-        <div class="max-w-7xl mx-auto px-4 lg:px-4" x-data="{ open: false }">
+    <div class="bg-[#2F9ED9] shadow-md" x-data="{ open: false}">
+        <div class="max-w-7xl mx-auto px-4 lg:px-4">
             <div class="flex flex-row justify-between py-4">
                 <div>
                     <a href="/" class="flex flex-row gap-3 lg:gap-4 items-center">
