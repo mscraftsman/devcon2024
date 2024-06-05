@@ -6,7 +6,7 @@
             <div>
 
                 <div class="pt-2 text-center space-y-3">
-                    <img class="w-64 h-64 rounded-full mx-auto outline outline-offset-2 outline-4 outline-yellow-300 drop-shadow-xl" src="{{ $s['profilePicture'] }}">
+                    <img class="w-64 h-64 rounded-full mx-auto outline outline-offset-2 outline-4 outline-yellow-300 drop-shadow-xl" src="/speaker/{{ $s['profilePicture'] }}">
                     <figcaption class="font-large">
                         <div class="uppercase text-2xl font-bold text-slate-800 mb-1">
                             {{ $s['fullName'] }}
