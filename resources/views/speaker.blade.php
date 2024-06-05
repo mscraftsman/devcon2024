@@ -45,7 +45,17 @@
                             {!! nl2br(e($s['bio'])) !!}
                         </div>
 
-                        <div class="mt-4 text-md text-left font-regular leading-normal text-gray-800 flex flex-col gap-1">
+                        @php
+                            $sessionCount = count($s['sessions']);
+                        @endphp
+
+                        @if ($sessionCount > 1)
+                            <div class="mt-4 font-bold text-lg text-left">Sessions:</div>
+                        @else
+                            <div class="mt-4 font-bold text-lg text-left">Session:</div>
+                        @endif
+
+                        <div class="mt-1 text-md text-left font-bold leading-normal text-gray-800 flex flex-col gap-1">
                             @foreach ($s['sessions'] as $session)
                                 <div>{{ $session['name'] }}</div>
                             @endforeach
