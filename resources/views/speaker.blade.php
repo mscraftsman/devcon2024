@@ -44,6 +44,12 @@
                         <div class="font-dm text-md text-left font-regular leading-normal mt-5 text-gray-700">
                             {!! nl2br(e($s['bio'])) !!}
                         </div>
+
+                        <div class="mt-4 text-md text-left font-regular leading-normal text-gray-800 flex flex-col gap-1">
+                            @foreach ($s['sessions'] as $session)
+                                <div>{{ $session['name'] }}</div>
+                            @endforeach
+                        </div>
                     </figcaption>
                 </div>
             </div>
