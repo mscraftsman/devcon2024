@@ -1,0 +1,1853 @@
+[
+    {
+        "groupId": null,
+        "groupName": "All",
+        "sessions": [
+            {
+                "questionAnswers": [],
+                "id": "636837",
+                "title": "Panel Discussion: Cloud Native Strategies for Digital Business, Speed and Automation",
+                "description": "This panel discussion explores the transformative power of cloud-native strategies in driving digital business success. Experts will delve into how adopting cloud-native approaches accelerates development cycles, enhances scalability, and fosters innovation. Key topics include leveraging microservices, containers, and serverless architectures to optimize performance and reduce time-to-market. The discussion will also highlight automation tools and practices that streamline operations, improve efficiency, and support continuous integration and delivery (CI\/CD). Attendees will gain insights into best practices and real-world applications, empowering them to navigate the complexities of digital transformation with agility and precision.\r\n\r\nPanelists \u2014\r\n\r\nDawid van der Merwe, Solutions Architect at SUSE.\r\nAvinash Meetoo, Director at Knowledge7\r\nDr. Viv Padayatchy, Managing Director, Cybernaptics Ltd",
+                "startsAt": "2024-07-18T10:00:00",
+                "endsAt": "2024-07-18T11:45:00",
+                "isServiceSession": false,
+                "isPlenumSession": false,
+                "speakers": [
+                    {
+                        "id": "ef7633d0-46b2-4045-bbc3-3dc1fcd55596",
+                        "name": "Ish Sookun"
+                    }
+                ],
+                "categories": [],
+                "roomId": 43505,
+                "room": "Donkey Kong (Theatre)",
+                "liveUrl": null,
+                "recordingUrl": null,
+                "status": "Accepted",
+                "isInformed": true,
+                "isConfirmed": true
+            },
+            {
+                "questionAnswers": [],
+                "id": "624149",
+                "title": "Introduction to Machine Learning Engineering for Production (MLOps)",
+                "description": "Gain an overview of the machine learning operations (MLOps) life cycle, processes, and capabilities. Understand concrete details about running a continuous training pipeline, deploying a model, and monitoring predictive performance of ML models.\r\n\r\nIn this session, you will learn:\r\n\r\n-The MLOps life cycle and important processes and capabilities for successful ML-based systems\r\n-Orchestrating and automating the execution of continuous training pipelines\r\n-Model deployment and prediction serving\r\n-Dataset and feature management\r\n-Model management and governance\r\n\r\nJoin me for an insightful exploration into building ML-enabled systems, gaining a holistic understanding of the MLOps lifecycle. ",
+                "startsAt": "2024-07-18T10:00:00",
+                "endsAt": "2024-07-18T10:45:00",
+                "isServiceSession": false,
+                "isPlenumSession": false,
+                "speakers": [
+                    {
+                        "id": "4f5c532a-b69f-4d47-8b15-da28742f3f83",
+                        "name": "Hastika Cheddy"
+                    }
+                ],
+                "categories": [],
+                "roomId": 43506,
+                "room": "Tetris (Left Front)",
+                "liveUrl": null,
+                "recordingUrl": null,
+                "status": "Accepted",
+                "isInformed": true,
+                "isConfirmed": true
+            },
+            {
+                "questionAnswers": [],
+                "id": "641428",
+                "title": "Clojure programming language & ecosystem  Language of the Future",
+                "description": "An introductory talk about Clojure programming language and ecosystem followed by a demo of an application demonstrating the power of the language.",
+                "startsAt": "2024-07-18T10:00:00",
+                "endsAt": "2024-07-18T10:45:00",
+                "isServiceSession": false,
+                "isPlenumSession": false,
+                "speakers": [
+                    {
+                        "id": "2cfd825e-9a05-47b9-a7bf-d5c2f4f8b74a",
+                        "name": "Marius Rabenarivo"
+                    }
+                ],
+                "categories": [],
+                "roomId": 48853,
+                "room": "Street Fighter (Left Back)",
+                "liveUrl": null,
+                "recordingUrl": null,
+                "status": "Accepted",
+                "isInformed": true,
+                "isConfirmed": true
+            },
+            {
+                "questionAnswers": [],
+                "id": "641129",
+                "title": "Kickstart Your Cloud Journey by conquering the AWS Cloud Resume Challenge",
+                "description": "The AWS Cloud Resume Challenge is an engaging and practical learning experience for students and young professionals to get their first hand-on experience into cloud computing. \r\n\r\nIt will guide the audience in deploying their own professional resume as a static HTML\/CSS website using AWS S3, ensure its security with HTTPS, and add dynamic functionalities like a visitor counter using Lambda and DynamoDB. Furthermore, the challenge will introduce backend development with Python, infrastructure as code, and the automation processes with CI\/CD practices.\r\n\r\nIdeal for beginners or those seeking to solidify their cloud knowledge, the AWS Cloud Resume Challenge provides a comprehensive platform to learn, apply, and showcase cloud computing skills, preparing the audience for a successful career in the tech industry.",
+                "startsAt": "2024-07-18T10:05:00",
+                "endsAt": "2024-07-18T10:50:00",
+                "isServiceSession": false,
+                "isPlenumSession": false,
+                "speakers": [
+                    {
+                        "id": "ce743e20-9e95-4205-b3e9-e7f9a4899783",
+                        "name": "Jain Ramchurn"
+                    },
+                    {
+                        "id": "6f812782-5310-4bf6-9ecb-ebc31759b2a0",
+                        "name": "Dereck Lam Hon Wah"
+                    }
+                ],
+                "categories": [],
+                "roomId": 43507,
+                "room": "Pac Man (Right: User Group)",
+                "liveUrl": null,
+                "recordingUrl": null,
+                "status": "Accepted",
+                "isInformed": true,
+                "isConfirmed": true
+            },
+            {
+                "questionAnswers": [],
+                "id": "640824",
+                "title": "How I use Obsidian as a programmer, problem solver, writer, tech enthusiast, podcast editor",
+                "description": "Discover the ultimate productivity hack for programmers, writers, and tech enthusiasts alike with Obsidian - your one-stop solution for organizing thoughts, boosting creativity, and streamlining workflows!\r\n\r\nYou can use Obsidian:\r\n- as a work journal\r\n- second brain\r\n- craft compelling stories\r\n- draft your thoughts\r\n- integrate with AI Tools\r\n- as a TODO List\r\n- personal wiki\r\n- programming notes\r\n- draw diagrams with Excalidraw\r\n- Kanban boards\r\n- Slides show\r\n\r\nAll for free.\r\n\r\nBut you know what's best, you have hundreds of free and open-source extensions that boost your productivity.\r\n",
+                "startsAt": "2024-07-18T11:00:00",
+                "endsAt": "2024-07-18T11:45:00",
+                "isServiceSession": false,
+                "isPlenumSession": false,
+                "speakers": [
+                    {
+                        "id": "931baa84-0c5f-43c9-95dd-6896e0455080",
+                        "name": "Abdallah Ramsing"
+                    }
+                ],
+                "categories": [],
+                "roomId": 43506,
+                "room": "Tetris (Left Front)",
+                "liveUrl": null,
+                "recordingUrl": null,
+                "status": "Accepted",
+                "isInformed": true,
+                "isConfirmed": true
+            },
+            {
+                "questionAnswers": [],
+                "id": "615060",
+                "title": "Workflow automation using Camunda",
+                "description": "This session is perfect for developers, architects, and tech enthusiasts seeking practical insights into Camunda's workflow automation capabilities. Join us for an engaging presentation that promises to elevate your understanding and application of Camunda in real-world scenarios.\r\n\r\n\r\nCamunda Architecture Exploration: Understand the core components and functionalities of Camunda's architecture.\r\n\r\nLive Demos: Witness real-time demonstrations showcasing Camunda's efficient process modelling.\r\n\r\nMicroservices Integration: Explore strategies for seamlessly integrating Camunda into microservices architectures.\r\n\r\nDynamic Workflows: Learn how Camunda adapts to changing business requirements, creating flexible and adaptive workflows.",
+                "startsAt": "2024-07-18T11:00:00",
+                "endsAt": "2024-07-18T11:45:00",
+                "isServiceSession": false,
+                "isPlenumSession": false,
+                "speakers": [
+                    {
+                        "id": "f4f43c8c-bc12-49cc-b681-6be53441bfaa",
+                        "name": "Yuvraj Keenoo"
+                    }
+                ],
+                "categories": [],
+                "roomId": 48853,
+                "room": "Street Fighter (Left Back)",
+                "liveUrl": null,
+                "recordingUrl": null,
+                "status": "Accepted",
+                "isInformed": true,
+                "isConfirmed": true
+            },
+            {
+                "questionAnswers": [],
+                "id": "619960",
+                "title": "What's up AWS?",
+                "description": "What's up AWS? takes a look at the latest technologies released by AWS as well as features that have been added to complement existing services.",
+                "startsAt": "2024-07-18T11:05:00",
+                "endsAt": "2024-07-18T11:50:00",
+                "isServiceSession": false,
+                "isPlenumSession": false,
+                "speakers": [
+                    {
+                        "id": "ad52feeb-b072-4185-973f-0a02857ae497",
+                        "name": "Cedric Poottaren"
+                    }
+                ],
+                "categories": [],
+                "roomId": 43507,
+                "room": "Pac Man (Right: User Group)",
+                "liveUrl": null,
+                "recordingUrl": null,
+                "status": "Accepted",
+                "isInformed": true,
+                "isConfirmed": true
+            },
+            {
+                "questionAnswers": [],
+                "id": "624708",
+                "title": "AWS Cloudformation vs Terraform",
+                "description": "Alright, infrastructure enthusiasts, gather around! Today's session is a cloud configuration showdown: CloudFormation versus Terraform!\r\n\r\nFor those of you thinking, \"Been there, done that,\"  think again! We'll be uncovering the superpowers of each tool, their hidden quirks, and maybe even a serverless pun or two so bad they're hilarious.  Whether you're a CloudFormation champion or a Terraform terra-former \u2013 yes, I went there \u2013 this session is your chance to see which tool best suits your infrastructure needs. \r\n\r\nBuckle up and get ready to rumble in the cloud!",
+                "startsAt": "2024-07-18T11:55:00",
+                "endsAt": "2024-07-18T12:40:00",
+                "isServiceSession": false,
+                "isPlenumSession": false,
+                "speakers": [
+                    {
+                        "id": "80b07936-76ef-4273-9a2f-396ff681dfb4",
+                        "name": "Vincent Chu"
+                    }
+                ],
+                "categories": [],
+                "roomId": 43507,
+                "room": "Pac Man (Right: User Group)",
+                "liveUrl": null,
+                "recordingUrl": null,
+                "status": "Accepted",
+                "isInformed": true,
+                "isConfirmed": true
+            },
+            {
+                "questionAnswers": [],
+                "id": "641070",
+                "title": "Shift Left approach at iQera",
+                "description": "Shift Left is not a new concept. Various companies adopt different ways of implementing shift left. The talk will discuss how we are adopting a shift left approach at iQera. \r\nWe will discuss 2 examples where we have started using shift left approaches and we will share some statistics on the quality of the products.\r\nWe will also share how we have implemented quality gates in our CICD pipeline (including security tests)",
+                "startsAt": "2024-07-18T12:00:00",
+                "endsAt": "2024-07-18T12:45:00",
+                "isServiceSession": false,
+                "isPlenumSession": false,
+                "speakers": [
+                    {
+                        "id": "3a68cb63-d151-41e7-92d7-720bc6a191b7",
+                        "name": "Nirmala Saneechur"
+                    },
+                    {
+                        "id": "1db43fea-f640-4067-8a2b-94b4539743f4",
+                        "name": "Heema Luxmee Devi Jhugroo"
+                    }
+                ],
+                "categories": [],
+                "roomId": 43505,
+                "room": "Donkey Kong (Theatre)",
+                "liveUrl": null,
+                "recordingUrl": null,
+                "status": "Accepted",
+                "isInformed": true,
+                "isConfirmed": true
+            },
+            {
+                "questionAnswers": [],
+                "id": "635962",
+                "title": "An intro to Finops",
+                "description": "It's an approach to cloud cost management for teams in which users accept responsibility for their cloud usage and are assisted by a central best-practices group. Cross-functional teams in engineering, finance, product, etc. collaborate to improve financial control and predictability while enabling faster product delivery.\r\n",
+                "startsAt": "2024-07-18T12:00:00",
+                "endsAt": "2024-07-18T12:45:00",
+                "isServiceSession": false,
+                "isPlenumSession": false,
+                "speakers": [
+                    {
+                        "id": "dd89c2df-2cc3-43cb-8904-f127c18d4d57",
+                        "name": "Avishai Poorun"
+                    }
+                ],
+                "categories": [],
+                "roomId": 43506,
+                "room": "Tetris (Left Front)",
+                "liveUrl": null,
+                "recordingUrl": null,
+                "status": "Accepted",
+                "isInformed": true,
+                "isConfirmed": true
+            },
+            {
+                "questionAnswers": [],
+                "id": "633954",
+                "title": "Digital accessibility",
+                "description": "An introduction to digital accessibility and why it matters more and more\r\n\r\nI'll be examining methods to enhance accessibility for individuals with disabilities. We'll delve into both regulatory requirements and optimal approaches, spanning from project inception to development, ensuring broader accessibility across websites.\r\n\r\nI will be discussing how addressing digital accessibility from the initial stages of a website's conception through to its development can lead to better outcomes. By integrating accessibility considerations early in the project lifecycle, we ensure more effective results by the end.\r\n\r\nI will cover how essential it is for everyone involved in a digital project to focus on accessibility. This includes designers, who need to incorporate accessibility from the conception phase, tech leads who define accessibility specifications before development begins, and developers who implement these specifications by creating accessible components. \r\n\r\nMy presentation will focus on addressing accessibility throughout the different stages of a project. I will provide practical examples, including accessible designs, technical documentation, and development practices. Additionally, there will be live demonstrations showing how to use assistive technologies, such as navigation via keyboard and screen readers. This hands-on approach will help illustrate the importance of incorporating accessibility into every phase of our work.",
+                "startsAt": "2024-07-18T12:00:00",
+                "endsAt": "2024-07-18T12:45:00",
+                "isServiceSession": false,
+                "isPlenumSession": false,
+                "speakers": [
+                    {
+                        "id": "30e0de93-3bda-4254-bc80-56f397df8be9",
+                        "name": "Yannick Montalent"
+                    },
+                    {
+                        "id": "78400cf2-1a21-4828-9a7e-db48362701b0",
+                        "name": "Souhayl Rosun"
+                    }
+                ],
+                "categories": [],
+                "roomId": 48853,
+                "room": "Street Fighter (Left Back)",
+                "liveUrl": null,
+                "recordingUrl": null,
+                "status": "Accepted",
+                "isInformed": true,
+                "isConfirmed": true
+            },
+            {
+                "questionAnswers": [],
+                "id": "636547",
+                "title": "From Code to Command: Nurturing Leadership in Development",
+                "description": "Introduction:\r\nIn 'From Code to Command: Nurturing Leadership in Development,' drawing from my 15 years of development experience, I'll reveal how I discovered early in my career that every developer, regardless of title, has the potential to lead and contribute to the team's success.\r\n\r\nMain Idea and Subtopics:\r\nI will showcase projects, including high-profile clients like on-demand streaming platforms and leading automakers, demonstrating the leadership exhibited by every developer (including developers from Mauritius, Germany and beyond). From managing MVPs to overseeing system integration, these examples will highlight the pivotal role played by individual leadership in uniting the team towards a common goal.\r\n\r\nConclusion:\r\nIn conclusion, I'll share valuable management tools and emphasize the importance of soft skills that are crucial for leadership in every individual. 'From Code to Command' is not just about writing code; it's about fostering a culture where every developer becomes a leader, contributing to the collective success of the team.\r\n",
+                "startsAt": "2024-07-18T13:00:00",
+                "endsAt": "2024-07-18T13:45:00",
+                "isServiceSession": false,
+                "isPlenumSession": false,
+                "speakers": [
+                    {
+                        "id": "51310b7d-44e1-4025-bec8-5d9aebb90da6",
+                        "name": "Joel Ramirez"
+                    }
+                ],
+                "categories": [],
+                "roomId": 43505,
+                "room": "Donkey Kong (Theatre)",
+                "liveUrl": null,
+                "recordingUrl": null,
+                "status": "Accepted",
+                "isInformed": true,
+                "isConfirmed": true
+            },
+            {
+                "questionAnswers": [],
+                "id": "630650",
+                "title": "Golang WebAssembly: Unlocking the Full Potential with Advanced Techniques and Applications",
+                "description": "Abstract: \r\nExplore advanced aspects of Golang WebAssembly development, covering topics such as memory management, asynchronous operations, DOM manipulation techniques, and seamless integration with JavaScript libraries. This session is designed to provide attendees with practical insights and skills to optimize Golang WebAssembly applications for complex scenarios.\r\n\r\n\r\nDiscussion \r\nIn our session, we aim to explore the parallels between the developer's dilemma of reinventing the wheel and the introduction of WebAssembly (Wasm) in web development and gain valuable insights that can assist advanced developers in navigating the evolving landscape of web development.  We'll discuss about how developers, like all of us, prefer using solutions that already work instead of starting from scratch \u2013 it's like not reinventing the wheel. \r\n\r\nWe'll relate this to WebAssembly (Wasm) in web development.. Wasm provides a faster and more versatile way of handling tasks, supporting various languages. We'll explore why some developers might be unsure about trying new methods, whether it involves adopting new patterns or embracing innovative tech like Wasm. We want to explore finding a balance between what we already know works and trying out fresh ideas to make web development simpler as well as give demonstration of Wasm with simple to real world use cases.\r\n\r\nKey Takeaways:\r\n-  Advanced techniques for Golang WebAssembly development.\r\n-  Practical applications and use cases for complex scenarios.\r\n-  In-depth insights into memory management, asynchronous operations, and DOM manipulation.\r\n-  Demonstrations of seamlessly integrating Golang with JavaScript libraries.",
+                "startsAt": "2024-07-18T13:00:00",
+                "endsAt": "2024-07-18T13:45:00",
+                "isServiceSession": false,
+                "isPlenumSession": false,
+                "speakers": [
+                    {
+                        "id": "49af17a2-5b86-4b9b-aadc-07b99b08cc5d",
+                        "name": "Jeshta Bhoyedhur"
+                    }
+                ],
+                "categories": [],
+                "roomId": 43506,
+                "room": "Tetris (Left Front)",
+                "liveUrl": null,
+                "recordingUrl": null,
+                "status": "Accepted",
+                "isInformed": true,
+                "isConfirmed": true
+            },
+            {
+                "questionAnswers": [],
+                "id": "638167",
+                "title": "Navigating the Web Accessibility Landscape",
+                "description": "As we embark on the enriching journey of web accessibility, let's confront a pressing challenge \u2013 the prevailing lack of awareness and concern for individuals with disabilities. In an era where technology is the bridge to connect people globally, it's imperative to ensure this bridge is accessible to everyone, regardless of their abilities.\r\n\r\nAddressing the Challenge:\r\n\r\n1. Limited Understanding:\r\n   - Many remain unaware of the challenges faced by people with disabilities in navigating digital spaces.\r\n   - Lack of understanding contributes to overlooking accessibility features.\r\n\r\n2. Misconceptions:\r\n   - Common misconceptions may lead to underestimating the impact of accessibility challenges.\r\n\r\n3. Inadequate Legal Enforcement:\r\n   - Emphasizing legal aspects underscores the importance of compliance.\r\n\r\n\r\nKey Topics:\r\n\r\n1. User-Centric Accessibility Strategies:\r\n   - Learn how to conduct user testing with individuals with varying abilities to fine-tune your design for inclusivity.\r\n\r\n2. Demystifying WCAG 2.1:\r\n   - Break down the Web Content Accessibility Guidelines (WCAG) 2.1 to actionable insights, ensuring your projects not only comply but genuinely prioritize accessibility.\r\n\r\n3. Cultivating a Culture of Accessibility:\r\n   - Discover how accessibility can be a driving force for innovation and user-centered design within your team.\r\n\r\n4. Tools and Technologies Shaping Inclusive Design:\r\n   - Explore the latest assistive technologies, design tools, and development frameworks that empower you to create accessible digital experiences.\r\n\r\n\r\nLet's collectively navigate the challenges, break down barriers, and shape a digital future where inclusivity leads the way in web accessibility.",
+                "startsAt": "2024-07-18T13:00:00",
+                "endsAt": "2024-07-18T13:45:00",
+                "isServiceSession": false,
+                "isPlenumSession": false,
+                "speakers": [
+                    {
+                        "id": "79196cc1-32fa-4ce8-8204-7aba4c84e9ce",
+                        "name": "Kushul Soomaree"
+                    }
+                ],
+                "categories": [],
+                "roomId": 48853,
+                "room": "Street Fighter (Left Back)",
+                "liveUrl": null,
+                "recordingUrl": null,
+                "status": "Accepted",
+                "isInformed": true,
+                "isConfirmed": true
+            },
+            {
+                "questionAnswers": [],
+                "id": "641008",
+                "title": "Building and coding robots",
+                "description": "This talk is a hands-on introduction to hobby electronics, and how they can be controlled using ordinary code. I'll show you multiple Lego Technic sets, which you can manipulate with an Arduino and a bit of creativity. I'll even let you control a robot or two, using a web browser.\r\n\r\nYou do not need to know anything about electronic circuitry to find this talk interesting and informative.",
+                "startsAt": "2024-07-18T14:00:00",
+                "endsAt": "2024-07-18T14:45:00",
+                "isServiceSession": false,
+                "isPlenumSession": false,
+                "speakers": [
+                    {
+                        "id": "3ef14414-a80a-4093-b5f7-1a838bcc9288",
+                        "name": "Christopher Pitt"
+                    }
+                ],
+                "categories": [],
+                "roomId": 43505,
+                "room": "Donkey Kong (Theatre)",
+                "liveUrl": null,
+                "recordingUrl": null,
+                "status": "Accepted",
+                "isInformed": true,
+                "isConfirmed": true
+            },
+            {
+                "questionAnswers": [],
+                "id": "629028",
+                "title": "Let's Build a Low-Code\/No-Code Mobile App and Desktop App using Microsoft's Power Platform",
+                "description": "Exploring Microsoft's Power Platform: A Hands-On Journey from Canvas to Model-Driven Apps\r\n\r\nIn this immersive session, we invite attendees to delve into the transformative world of Microsoft's Power Platform, a pivotal force in the realm of low-code\/no-code development. As we navigate through a live demonstration, participants will gain firsthand experience in swiftly crafting and deploying impactful business solutions, showcasing Microsoft's leadership in empowering developers with accelerated development capabilities.\r\n\r\nKey Highlights of the Session:\r\n\r\nIntroduction to Microsoft's Power Platform: We will kick off with an insightful overview of the Power Platform, outlining its significance as a leading low-code\/no-code solution in today's rapidly evolving technological landscape. Attendees will discover how the platform serves as a cornerstone for developers to innovate and address complex business challenges efficiently.\r\n\r\nLive Demonstration: Creating a Canvas App: Engage in a hands-on demonstration where we will live create a Canvas App within a span of 15 minutes. This segment will highlight the intuitive design capabilities and flexibility of Canvas Apps, enabling personalized user experiences with minimal coding.\r\n\r\nTransition to Model-Driven Apps: Continuing our exploration, we will shift gears to construct a Model-Driven App over another 15 minutes. This portion will emphasize the structured approach of Model-Driven Apps, leveraging data models and business logic to automate and streamline processes.\r\n\r\nInteractive Q&A: Concluding with an open floor for questions and answers, this segment offers attendees the opportunity to clarify doubts, share insights, and engage in meaningful discussions on implementing Power Platform solutions in real-world scenarios.",
+                "startsAt": "2024-07-18T14:00:00",
+                "endsAt": "2024-07-18T14:45:00",
+                "isServiceSession": false,
+                "isPlenumSession": false,
+                "speakers": [
+                    {
+                        "id": "025a8660-e271-48a2-89a5-de9b638cf994",
+                        "name": "Ashesh Ramjeeawon"
+                    }
+                ],
+                "categories": [],
+                "roomId": 43506,
+                "room": "Tetris (Left Front)",
+                "liveUrl": null,
+                "recordingUrl": null,
+                "status": "Accepted",
+                "isInformed": true,
+                "isConfirmed": true
+            },
+            {
+                "questionAnswers": [],
+                "id": "689649",
+                "title": "Embracing the Power of Automated Testing with Ember.js",
+                "description": "Join Keshav and Zafir as they explore the robust capabilities of automated testing in Ember.js. This talk will cover acceptance and full testing to complement your suite, as well as unit, component, and integration testing for behavioral validation. Learn about effective mocking techniques and discover best practices to enhance your testing strategy. Gain valuable insights to elevate your Ember.js projects with comprehensive automated testing.",
+                "startsAt": "2024-07-18T14:00:00",
+                "endsAt": "2024-07-18T14:45:00",
+                "isServiceSession": false,
+                "isPlenumSession": false,
+                "speakers": [
+                    {
+                        "id": "1b1fc1f6-6a15-4fd7-940a-7e39f1e15df7",
+                        "name": "Zafir Sk Heerah"
+                    },
+                    {
+                        "id": "c852a4d0-7359-4e19-88d2-dcff43bc576f",
+                        "name": "Keshav Caleechurn"
+                    }
+                ],
+                "categories": [],
+                "roomId": 48853,
+                "room": "Street Fighter (Left Back)",
+                "liveUrl": null,
+                "recordingUrl": null,
+                "status": "Accepted",
+                "isInformed": true,
+                "isConfirmed": true
+            },
+            {
+                "questionAnswers": [],
+                "id": "610958",
+                "title": "Automated Testing in Symfony: Tools and Strategies for High-Quality Applications",
+                "description": "In the fast-paced world of web development, ensuring the quality and reliability of applications is paramount. This session delves into the crucial role of automated testing in the Symfony framework, providing attendees with a comprehensive understanding of how to implement effective testing strategies to maintain high-quality applications.\r\n\r\nWe will start by exploring the fundamentals of automated testing in the context of PHP and Symfony, emphasizing its importance in modern development workflows. Participants will gain insight into the various types of testing - including unit testing, integration testing, and functional testing - and when to apply each within a Symfony project.\r\n\r\nThe core of this session will focus on practical demonstrations and case studies, showcasing how to use popular tools like PHPUnit, Behat, and Symfony\u2019s own testing components. We will guide attendees through setting up a testing environment, writing testable code, and creating robust test suites that cover critical aspects of Symfony applications.\r\n\r\nKey topics to be covered include:\r\n\r\n* PHPUnit Essentials for Symfony: Writing effective unit tests, mocking objects, and measuring code coverage.\r\n* Behavior-Driven Development (BDD) with Behat: Implementing BDD in Symfony to create readable and maintainable test scenarios.\r\n* Functional Testing with Symfony: Leveraging Symfony's browser kit and crawler to simulate user interactions and test application responses.\r\n* Continuous Integration (CI) for Symfony Projects: Integrating automated testing into CI pipelines using tools like GitHub Actions or GitLab CI.\r\n* Best Practices and Common Pitfalls: Practical advice on organizing test suites, optimizing test performance, and avoiding common mistakes in testing Symfony applications.\r\n\r\nAttendees will leave this session equipped with the knowledge and skills to implement a robust automated testing framework in their Symfony projects. This session is designed to cater to developers of all levels, from those just starting with testing to seasoned professionals looking to refine their practices. By the end of our time together, participants will be well-prepared to elevate the quality and reliability of their Symfony applications through effective automated testing strategies.\r\n\r\nWho Should Attend: \r\nThis session is ideal for PHP developers, Symfony enthusiasts, and software engineers interested in enhancing their testing skills and understanding of automated testing in the Symfony ecosystem. Whether you are new to automated testing or looking to deepen your existing knowledge, this session will provide valuable insights and practical skills.",
+                "startsAt": "2024-07-18T14:00:00",
+                "endsAt": "2024-07-18T14:45:00",
+                "isServiceSession": false,
+                "isPlenumSession": false,
+                "speakers": [
+                    {
+                        "id": "cd7e4e2f-263b-4608-83bc-6e6e9d90e966",
+                        "name": "Siven Sadiyan"
+                    }
+                ],
+                "categories": [],
+                "roomId": 43507,
+                "room": "Pac Man (Right: User Group)",
+                "liveUrl": null,
+                "recordingUrl": null,
+                "status": "Accepted",
+                "isInformed": true,
+                "isConfirmed": true
+            },
+            {
+                "questionAnswers": [],
+                "id": "640849",
+                "title": "You do not know about JavaScript Objects",
+                "description": "JavaScript objects are complex. Perhaps you do not know enough about JavaScript objects. Let us find that in this live coding based talk\r\nPerhaps you do not know enough about JavaScript objects or I do not know enough about JavaScript objects.  Let us settle this debate in this talk. To start with, we will first settle debate on whether JavaScript is an Object Oriented Language or prototype based language. Since, we do not have class (yes in ECMA 6, there is a keyword class syntax introduced but that is not a real class anyway) then how objects are created? \r\nAnswer of all above questions lie in understanding of following concepts, \r\n\u2022\tDifferent ways of JavaScript object creation\r\n\u2022\tprototypes and prototype chain\r\n\u2022\tthis keyword \r\n\u2022\t__proto__\r\nThis session will simplify these truly vital and the most important topics of JavaScript language. As a starter, JavaScript is a prototype based language in which object is linked by another object, and in order to do that it creates a prototype chain. Having a good understanding of prototype is required to write real JavaScript applications or to work effectively with popular JavaScript Frameworks. \r\nThis talk will be combination of live coding and visualization of concepts as drawing on the white board. At the end of the talk, you will have good understanding of following:\r\n1.\tDifferent ways of creating JavaScript objects such as:  Object Literals, Constructor invocation pattern ,Object.Create() method , and using class.\r\n2.\tAbout object property descriptors \r\n3.\tDetermining value of \u2018this\u2019 using different invocation patterns\r\n4.\tBreaking prototype, constructor, and __proto__\r\nHaving good understanding of above concept helps you to write better JavaScript application. \r\n\r\n\r\nIt is one of my most popular talk among developers in India.  Does not matter where I have delivered it, It got good rating. We all just assume that we know JavaScript as a language, but most of the time, we do not. For example,  if foo is a function in JavaScript then what is output of foo.prototype.constructor.prototype.constructor.prototype.__proto__  . Give your audience opportunity to learn mystery of JavaScript through this talk. I explain it on white board like we learnt quadratic equation n school math.\r\n\r\n",
+                "startsAt": "2024-07-18T15:00:00",
+                "endsAt": "2024-07-18T15:45:00",
+                "isServiceSession": false,
+                "isPlenumSession": false,
+                "speakers": [
+                    {
+                        "id": "f6916ad9-528a-437e-9de7-87259105c837",
+                        "name": "Dhananjay Kumar"
+                    }
+                ],
+                "categories": [],
+                "roomId": 43505,
+                "room": "Donkey Kong (Theatre)",
+                "liveUrl": null,
+                "recordingUrl": null,
+                "status": "Accepted",
+                "isInformed": true,
+                "isConfirmed": true
+            },
+            {
+                "questionAnswers": [],
+                "id": "640138",
+                "title": "Quantity over Quality: A Kubernetes Tale",
+                "description": "Kubernetes, since its release in 2015, has remained shrouded in mystery, relegated as this cryptic domain to the sorcerers who conversed in the bizarre language of yaml. But what if I told you that it doesn't have to be this way?\r\n\r\nThis session aims at casting some light on the massive complex framework that is Kubernetes, so that you too can shout \"btw i use kubernetes\" with pride. You will finally understand the technical jargon surrounding Kubernetes, as well as how each component works together seamlessly when deploying applications.\r\n\r\nAfter this session, you will be well equipped to embark on a Kubernetes-related adventure of your own, be it as a developer of system administrator.",
+                "startsAt": "2024-07-18T15:00:00",
+                "endsAt": "2024-07-18T15:45:00",
+                "isServiceSession": false,
+                "isPlenumSession": false,
+                "speakers": [
+                    {
+                        "id": "80c8f586-0d9c-45a7-ae05-037cc1dce4e7",
+                        "name": "Alex Bissessur"
+                    }
+                ],
+                "categories": [],
+                "roomId": 43506,
+                "room": "Tetris (Left Front)",
+                "liveUrl": null,
+                "recordingUrl": null,
+                "status": "Accepted",
+                "isInformed": true,
+                "isConfirmed": true
+            },
+            {
+                "questionAnswers": [],
+                "id": "640804",
+                "title": "The chess play of software testing",
+                "description": "How to make the most of your test team?",
+                "startsAt": "2024-07-18T15:00:00",
+                "endsAt": "2024-07-18T15:45:00",
+                "isServiceSession": false,
+                "isPlenumSession": false,
+                "speakers": [
+                    {
+                        "id": "336671e4-3f17-4dbe-ab1c-20a8b38cc1a5",
+                        "name": "Lovelesh Beeharry"
+                    }
+                ],
+                "categories": [],
+                "roomId": 48853,
+                "room": "Street Fighter (Left Back)",
+                "liveUrl": null,
+                "recordingUrl": null,
+                "status": "Accepted",
+                "isInformed": true,
+                "isConfirmed": true
+            },
+            {
+                "questionAnswers": [],
+                "id": "639063",
+                "title": "Building Robust and Scalable RESTful APIs with Laravel 11",
+                "description": "RESTful API Development with Laravel: Exploring how to build robust and scalable RESTful APIs using Laravel's built-in features and popular packages like Laravel Passport.\"\r\n\r\nIn this presentation, we delve into the dynamic world of RESTful API development utilizing the power and versatility of Laravel, one of the most popular PHP frameworks. Whether you're a seasoned Laravel developer or new to the framework, this session offers valuable insights and practical techniques for crafting APIs that are not only robust but also highly scalable.\r\n",
+                "startsAt": "2024-07-18T15:00:00",
+                "endsAt": "2024-07-18T15:45:00",
+                "isServiceSession": false,
+                "isPlenumSession": false,
+                "speakers": [
+                    {
+                        "id": "dd3a76fa-fceb-4f62-81a1-b8c4f087d7d2",
+                        "name": "Avish Cheetaram"
+                    }
+                ],
+                "categories": [],
+                "roomId": 43507,
+                "room": "Pac Man (Right: User Group)",
+                "liveUrl": null,
+                "recordingUrl": null,
+                "status": "Accepted",
+                "isInformed": true,
+                "isConfirmed": true
+            },
+            {
+                "questionAnswers": [],
+                "id": "662508",
+                "title": "IA pour les clients et les \u00e9quipes de d\u00e9veloppement",
+                "description": "L\u2019arriv\u00e9e de l\u2019IA g\u00e9n\u00e9rative a g\u00e9n\u00e9r\u00e9 beaucoup d\u2019attentes et ouverts des possibilit\u00e9s in\u00e9dites. Au-del\u00e0 du buzz, ces outils pr\u00e9sentent des limitent et la rentabilit\u00e9 des usages n\u2019est pas toujours atteinte.\r\n\r\nNous partagerons avec vous nos exp\u00e9riences en la mati\u00e8re dans le domaine des interactions clients ainsi que dans le domaine du d\u00e9veloppement afin de contribuer \u00e0 comprendre comment ces technologies pourront nous aider \u00e0 \u00eatre plus efficace dans les ann\u00e9es qui viennent.",
+                "startsAt": "2024-07-18T16:00:00",
+                "endsAt": "2024-07-18T16:45:00",
+                "isServiceSession": false,
+                "isPlenumSession": false,
+                "speakers": [
+                    {
+                        "id": "1dc49320-2609-4e11-9a66-e0f93ff6334e",
+                        "name": "Richard Burbaud"
+                    }
+                ],
+                "categories": [],
+                "roomId": 43505,
+                "room": "Donkey Kong (Theatre)",
+                "liveUrl": null,
+                "recordingUrl": null,
+                "status": "Accepted",
+                "isInformed": true,
+                "isConfirmed": true
+            },
+            {
+                "questionAnswers": [],
+                "id": "639943",
+                "title": "The Frontend Developer Career Path",
+                "description": "In this session i will present a step by step plan of the ideal frontend developer path, how to get started, which things to focus on and which things to avoid. \r\n\r\nThis session will be a mix of : \r\n- advice and best practices\r\n- technical recommendations in terms of frameworks, languages\r\n- hype in the industry\r\n- how to level up\r\n- dealing with interviews\r\n\r\nThere will be some live coding sprinkled on top as usual to make the session interested, it's devcon after all.",
+                "startsAt": "2024-07-18T16:00:00",
+                "endsAt": "2024-07-18T16:45:00",
+                "isServiceSession": false,
+                "isPlenumSession": false,
+                "speakers": [
+                    {
+                        "id": "d802c569-2764-4a8c-ac90-4dec8e3c3f41",
+                        "name": "Sandeep Ramgolam"
+                    }
+                ],
+                "categories": [],
+                "roomId": 43506,
+                "room": "Tetris (Left Front)",
+                "liveUrl": null,
+                "recordingUrl": null,
+                "status": "Accepted",
+                "isInformed": true,
+                "isConfirmed": true
+            },
+            {
+                "questionAnswers": [],
+                "id": "641446",
+                "title": "Beyond Bugs: The Overlooked Aspects of Software Testing",
+                "description": "Everyone can perform checks and report, but can everyone test?\r\n\r\nIt is essential to recognise that coding is not the sole protagonist in the Software Development Lifecycle. Testing, with meticulous scrutiny and validation, emerges as an equally consequential character. Although it can be challenging (more than people often realize), it is the guardian ensuring only reliable, secure and quality code goes live.\r\n\r\nThe goal of this session is to shift developers' perspective on software testing and quality assurance. We will talk about the various types of tests, levels of testing and how to choose the appropriate tests and tools for different projects\/situations.\r\n\r\nAudience: \r\nBoth developers and testers who are curious enough to face their bugs.\r\n\r\nAgenda:\r\n* What are the differences between testing and checking?\r\n* Where does testing fit in?\r\n* Different flavours and levels of testing\r\n* Project-focused test strategies\r\n\r\n\r\nThe level of complexity and ingenuity one can bring to testing rivals the thrill of development, and can be an entire career path in itself if one invests the time to master it.\r\n",
+                "startsAt": "2024-07-18T16:00:00",
+                "endsAt": "2024-07-18T16:45:00",
+                "isServiceSession": false,
+                "isPlenumSession": false,
+                "speakers": [
+                    {
+                        "id": "9b89ccdf-9738-43c1-a682-e3eb0f0db338",
+                        "name": "Payal Ghoorhoo"
+                    }
+                ],
+                "categories": [],
+                "roomId": 48853,
+                "room": "Street Fighter (Left Back)",
+                "liveUrl": null,
+                "recordingUrl": null,
+                "status": "Accepted",
+                "isInformed": true,
+                "isConfirmed": true
+            },
+            {
+                "questionAnswers": [],
+                "id": "689669",
+                "title": "Salesforce: For the Coders and the Non-Coders",
+                "description": "Learn about the world\u2019s #1 CRM tool and how you can use it with or without coding. This session will show you Salesforce\u2019s features that work for any skill level. Plus, discover the different career paths you can take with Salesforce.\r\n",
+                "startsAt": "2024-07-19T09:00:00",
+                "endsAt": "2024-07-19T09:45:00",
+                "isServiceSession": false,
+                "isPlenumSession": false,
+                "speakers": [
+                    {
+                        "id": "92f5d495-3ed4-4811-a553-6bc556574943",
+                        "name": "Sambhav Bholah"
+                    }
+                ],
+                "categories": [],
+                "roomId": 43505,
+                "room": "Donkey Kong (Theatre)",
+                "liveUrl": null,
+                "recordingUrl": null,
+                "status": "Accepted",
+                "isInformed": true,
+                "isConfirmed": true
+            },
+            {
+                "questionAnswers": [],
+                "id": "639986",
+                "title": "Secure your WordPress installation",
+                "description": "Secure your WordPress and WooCommerce sites with confidence in my session, where I\u2019ll highlight key vulnerabilities and how to combat them with effective tools and techniques. Learn about essential security plugins and strategies for real-time threat monitoring in WordPress.",
+                "startsAt": "2024-07-19T09:00:00",
+                "endsAt": "2024-07-19T09:45:00",
+                "isServiceSession": false,
+                "isPlenumSession": false,
+                "speakers": [
+                    {
+                        "id": "e4d51ad0-51f7-44bc-ade2-8c7250bb5400",
+                        "name": "Nathan Mangar"
+                    }
+                ],
+                "categories": [],
+                "roomId": 43506,
+                "room": "Tetris (Left Front)",
+                "liveUrl": null,
+                "recordingUrl": null,
+                "status": "Accepted",
+                "isInformed": true,
+                "isConfirmed": true
+            },
+            {
+                "questionAnswers": [],
+                "id": "640893",
+                "title": "Introduction to Google Analytics 4 (GA4)",
+                "description": "Google Analytics 4 (GA4) marks a significant evolution in the field of web analytics, offering advanced capabilities for understanding user behaviour and engagement across platforms. As businesses adapt to the digital landscape, GA4 provides invaluable insights to optimize performance, enhance user experiences, and drive strategic decision-making.\r\nThe presentation will be about the various facets of GA4, including its features, methodologies, and applications for businesses and digital marketers.\r\nAttendees will learn:\r\n\u2022\tThe major differences between GA4 and Universal Analytics\r\n\u2022\tHow to configure GA4 to collect meaningful and accurate data\r\n\u2022\tHow to use the default reports and customize them to meet their needs.\r\n",
+                "startsAt": "2024-07-19T09:00:00",
+                "endsAt": "2024-07-19T09:45:00",
+                "isServiceSession": false,
+                "isPlenumSession": false,
+                "speakers": [
+                    {
+                        "id": "6661274d-3550-469e-a5e5-50c77a435c04",
+                        "name": "Eddy Lareine"
+                    }
+                ],
+                "categories": [],
+                "roomId": 48853,
+                "room": "Street Fighter (Left Back)",
+                "liveUrl": null,
+                "recordingUrl": null,
+                "status": "Accepted",
+                "isInformed": true,
+                "isConfirmed": true
+            },
+            {
+                "questionAnswers": [],
+                "id": "641393",
+                "title": "Deploying a Personal Cloud with Ubuntu and OpenStack",
+                "description": "Explain the concept of OpenStack, a free and open-source cloud platform. Showcase how to install OpenStack on Ubuntu for setting up a personal cloud environment for experimentation and learning cloud technologies.",
+                "startsAt": "2024-07-19T09:10:00",
+                "endsAt": "2024-07-19T09:55:00",
+                "isServiceSession": false,
+                "isPlenumSession": false,
+                "speakers": [
+                    {
+                        "id": "f72d6333-ba68-43df-be79-0e42c7162631",
+                        "name": "Om Gokhool"
+                    }
+                ],
+                "categories": [],
+                "roomId": 48854,
+                "room": "Space Invaders (Mezzanine)",
+                "liveUrl": null,
+                "recordingUrl": null,
+                "status": "Accepted",
+                "isInformed": true,
+                "isConfirmed": true
+            },
+            {
+                "questionAnswers": [],
+                "id": "641025",
+                "title": "Control-M - a managed File transfer solution",
+                "description": "The session will give an introduction of what is Control - M, its capabilities and how it has been implemented and being used at Mauritius commercial Bank.",
+                "startsAt": "2024-07-19T10:00:00",
+                "endsAt": "2024-07-19T10:45:00",
+                "isServiceSession": false,
+                "isPlenumSession": false,
+                "speakers": [
+                    {
+                        "id": "5cf12aa2-4b42-483d-89ba-13156c274ee3",
+                        "name": "Sarwadha Daya"
+                    },
+                    {
+                        "id": "a5d83aec-96f5-45f7-8c92-9abc92eed69a",
+                        "name": "Jean Bernard Levaillant"
+                    }
+                ],
+                "categories": [],
+                "roomId": 43505,
+                "room": "Donkey Kong (Theatre)",
+                "liveUrl": null,
+                "recordingUrl": null,
+                "status": "Accepted",
+                "isInformed": true,
+                "isConfirmed": true
+            },
+            {
+                "questionAnswers": [],
+                "id": "637031",
+                "title": "Is your website safe? \u2014 Exploring vulnerabilities on live websites.",
+                "description": "The session will be based on an article I published with the same title on medium available on the following link: https:\/\/blog.devgenius.io\/is-your-website-safe-exploring-vulnerabilities-on-live-websites-6d49d2224942\r\n\r\nIn this session, rather than using live websites found online, I'll prepare personal target websites the audience can use. The session will focus on understanding security vulnerability of exposing sensitive paths on a website, how a hacker can access and use them, and how to protect websites against such attacks. It will also emphasise on the importance of investing in security as developers or organisations.",
+                "startsAt": "2024-07-19T10:00:00",
+                "endsAt": "2024-07-19T10:45:00",
+                "isServiceSession": false,
+                "isPlenumSession": false,
+                "speakers": [
+                    {
+                        "id": "29aebc70-2cd9-4387-8ad6-bd08a0269f94",
+                        "name": "Emmanuel Murairi"
+                    }
+                ],
+                "categories": [],
+                "roomId": 43506,
+                "room": "Tetris (Left Front)",
+                "liveUrl": null,
+                "recordingUrl": null,
+                "status": "Accepted",
+                "isInformed": true,
+                "isConfirmed": true
+            },
+            {
+                "questionAnswers": [],
+                "id": "641584",
+                "title": "Angular Microfrontends with NX and Module Federation",
+                "description": "As products scale we find ourselves needing to provide more autonomy to feature teams to allow them to continue to ship fast. Micro Frontends allow this autonomy.\r\n\r\nUsing Module Federation with Nx we can improve developer productivity further by providing the best local developer experience for Micro Frontends.\r\n\r\nThis session will see:\r\n- why Nx and Module Federation provide the best Micro Frontend experience\r\n- how to set up a Micro Frontend architecture with Nx",
+                "startsAt": "2024-07-19T10:00:00",
+                "endsAt": "2024-07-19T10:45:00",
+                "isServiceSession": false,
+                "isPlenumSession": false,
+                "speakers": [
+                    {
+                        "id": "2e82117a-6798-4e3f-a78d-b547047d02ff",
+                        "name": "Rishi Abeeluck"
+                    }
+                ],
+                "categories": [],
+                "roomId": 48853,
+                "room": "Street Fighter (Left Back)",
+                "liveUrl": null,
+                "recordingUrl": null,
+                "status": "Accepted",
+                "isInformed": true,
+                "isConfirmed": true
+            },
+            {
+                "questionAnswers": [],
+                "id": "636834",
+                "title": "Kubernetes Bootcamp",
+                "description": "Are you ready to learn Kubernetes, the leading container orchestration platform? Join our Kubernetes Bootcamp and dive deep into containerization, Kubernetes architecture, deployment, scaling, and management of containerized applications. Through a hands-on lab, you'll gain practical experience with essential tools like kubectl and Helm. This bootcamp is perfect for developers, DevOps engineers, and IT professionals eager to enhance their cloud-native application management skills. By the end, you'll be proficient in deploying, managing, and scaling applications in a Kubernetes environment.\r\n\r\nYou will also learn about the Cloud Native Computing Foundation (CNCF) and our local chapter.",
+                "startsAt": "2024-07-19T10:00:00",
+                "endsAt": "2024-07-19T12:25:00",
+                "isServiceSession": false,
+                "isPlenumSession": false,
+                "speakers": [
+                    {
+                        "id": "ef7633d0-46b2-4045-bbc3-3dc1fcd55596",
+                        "name": "Ish Sookun"
+                    },
+                    {
+                        "id": "80c8f586-0d9c-45a7-ae05-037cc1dce4e7",
+                        "name": "Alex Bissessur"
+                    }
+                ],
+                "categories": [],
+                "roomId": 48854,
+                "room": "Space Invaders (Mezzanine)",
+                "liveUrl": null,
+                "recordingUrl": null,
+                "status": "Accepted",
+                "isInformed": true,
+                "isConfirmed": true
+            },
+            {
+                "questionAnswers": [],
+                "id": "636549",
+                "title": "From Command to Collaborate: Cultivating Team Synergy in Development",
+                "description": "Introduction:\r\nIn From Command to Collaborate: Cultivating Team Synergy in Development, I will draw from my 10 years of experience in Germany, where I had the privilege of working with developers from around the world, including Mauritius, Germany, Mexico, and beyond. I'll explore the advantages of leading a multi-cultural team, emphasizing the unique perspectives and strengths diversity brings, while also addressing the challenges faced in fostering effective collaboration.\r\n\r\nMain Idea and Subtopics:\r\nI will showcase projects, including collaborations with high-profile clients like on-demand streaming platforms, Pharma, and leading automakers, to illustrate how a shift from a command-oriented approach to a collaborative one has been instrumental in achieving success. \r\n\r\nConclusion:\r\nIn conclusion, this journey 'From Command to Collaborate' highlights the transformative power of fostering team synergy in development. By embracing diversity, encouraging open communication, and valuing collaborative efforts, we not only overcome challenges but unlock the full potential of our teams.\r\n",
+                "startsAt": "2024-07-19T11:00:00",
+                "endsAt": "2024-07-19T11:45:00",
+                "isServiceSession": false,
+                "isPlenumSession": false,
+                "speakers": [
+                    {
+                        "id": "51310b7d-44e1-4025-bec8-5d9aebb90da6",
+                        "name": "Joel Ramirez"
+                    }
+                ],
+                "categories": [],
+                "roomId": 43505,
+                "room": "Donkey Kong (Theatre)",
+                "liveUrl": null,
+                "recordingUrl": null,
+                "status": "Accepted",
+                "isInformed": true,
+                "isConfirmed": true
+            },
+            {
+                "questionAnswers": [],
+                "id": "637076",
+                "title": "Securing MariaDB: Essentials of Encryption, Protection, and Access",
+                "description": "Join us for a concise, impactful session designed for professionals seeking to elevate their MariaDB database security. This session shall cover the essentials of safeguarding your data, including encryption techniques for data at rest, strategies to protect data in transit, and robust access control mechanisms. Whether you're an administrator, developer, or IT security enthusiast, this presentation will arm you with practical insights and actionable steps to fortify your MariaDB databases against threats. Get ready to dive into the world of MariaDB security, demystify complex concepts, and walk away with the knowledge to implement best practices in your organization. Plus, stay engaged for a lively Q&A session where your questions bring depth to the discussion. Secure your spot and empower your database security posture with confidence!",
+                "startsAt": "2024-07-19T11:00:00",
+                "endsAt": "2024-07-19T11:45:00",
+                "isServiceSession": false,
+                "isPlenumSession": false,
+                "speakers": [
+                    {
+                        "id": "ba3958ec-7d08-4845-bcb5-2e1774318932",
+                        "name": "Girish Mahabir"
+                    }
+                ],
+                "categories": [],
+                "roomId": 43506,
+                "room": "Tetris (Left Front)",
+                "liveUrl": null,
+                "recordingUrl": null,
+                "status": "Accepted",
+                "isInformed": true,
+                "isConfirmed": true
+            },
+            {
+                "questionAnswers": [],
+                "id": "640515",
+                "title": "Hugo + GitHub: Create Your Blog!",
+                "description": "Learn how to create a fast and flexible website using Hugo (the star of this show) and host it for free on GitHub Pages (nominated for best supporting actor).\r\n\r\nYou will also get a taste of CI\/CD using GitHub Actions, and we will close off with some neat tricks to keep the costs of keeping the website live at our preferred level (i.e. zero).\r\n\r\nWalk out with newly found wisdom on:\r\n- How to install and work with Hugo\r\n- How to apply a theme in your site\r\n- Creating and managing content\r\n- Setting up GitHub Pages\r\n- Deployment using GitHub Actions\r\n\r\nIf you want to follow along and do some live magic, you will need:\r\n- A GitHub account\r\n- Git installed on your machine\r\n- A text editor of your choice\r\n- A basic understanding of HTML, CSS\r\n- A basic understanding of Markdown\r\n\r\nWhile the technology itself is not overly complex, this session does bring together quite the mixture of concepts to cover.\r\n\r\nBring a fun attitude and a curious mind!",
+                "startsAt": "2024-07-19T11:00:00",
+                "endsAt": "2024-07-19T11:45:00",
+                "isServiceSession": false,
+                "isPlenumSession": false,
+                "speakers": [
+                    {
+                        "id": "cf415be6-0558-4411-aa4d-dee4f0648547",
+                        "name": "Vidush H. Namah"
+                    }
+                ],
+                "categories": [],
+                "roomId": 48853,
+                "room": "Street Fighter (Left Back)",
+                "liveUrl": null,
+                "recordingUrl": null,
+                "status": "Accepted",
+                "isInformed": true,
+                "isConfirmed": true
+            },
+            {
+                "questionAnswers": [],
+                "id": "641043",
+                "title": "Next-Gen Unleashed: Pioneering Integration Excellence with Open Source Empowerment",
+                "description": "Discover cutting-edge strategies, real-world insights, and practical applications that define the future of seamless integration. Be part of this transformative experience and unlock the full potential of open source in elevating your integration game.",
+                "startsAt": "2024-07-19T11:05:00",
+                "endsAt": "2024-07-19T11:50:00",
+                "isServiceSession": false,
+                "isPlenumSession": false,
+                "speakers": [
+                    {
+                        "id": "ce89c091-04b0-4219-8177-c5c2038dfb98",
+                        "name": "Surajbali Bholanathsingh"
+                    }
+                ],
+                "categories": [],
+                "roomId": 48854,
+                "room": "Space Invaders (Mezzanine)",
+                "liveUrl": null,
+                "recordingUrl": null,
+                "status": "Accepted",
+                "isInformed": true,
+                "isConfirmed": true
+            },
+            {
+                "questionAnswers": [],
+                "id": "621619",
+                "title": "Java or Kotlin. May the Best Bytecode win",
+                "description": "The main inspiration behind Kotlin was to create an alternative to Java that was safer, concise, and expressive. With new feature releases every six months, I suppose Java is catching up. Don't you think so? \r\n\r\nIn this talk, we'll compare and contrast the two languages, comparing how they solve developer pain points. From asynchronous programming to nullability and more. \r\n\r\nDo we still need Kotlin? We'll find out in this talk\r\n\r\nSpoiler Alert! Maybe Yes",
+                "startsAt": "2024-07-19T12:00:00",
+                "endsAt": "2024-07-19T12:45:00",
+                "isServiceSession": false,
+                "isPlenumSession": false,
+                "speakers": [
+                    {
+                        "id": "02271301-87de-4dca-9838-dd9de6bc9a31",
+                        "name": "Beatrice Kinya"
+                    }
+                ],
+                "categories": [],
+                "roomId": 43505,
+                "room": "Donkey Kong (Theatre)",
+                "liveUrl": null,
+                "recordingUrl": null,
+                "status": "Accepted",
+                "isInformed": true,
+                "isConfirmed": true
+            },
+            {
+                "questionAnswers": [],
+                "id": "641594",
+                "title": "Inside the Mind of a Hacker: Ransomware Attack",
+                "description": "In this session, the audience will gain an understanding of ransomware attacks, learning how to take proactive measures to stay safe, and respond effectively to incidents. Attendees will be equipped with the knowledge and tools to mitigate the risks posed by ransomware and protect their digital assets. They will also understand through a demo session how ransomware are created.\r\n\r\n\r\nIntroduction:\r\nWhat is Ransomware and How Does it Work?\r\nImpact and Consequences of Ransomware Attacks\r\nDifferent Types of Ransomware (Encrypting, Locker, Scareware)\r\nCommon Ransomware Vectors (Email Attachments, Malicious Links, Exploit Kits)\r\nNotable Ransomware Families (WannaCry, Ryuk, Maze)\r\n\r\nThe Anatomy of a Ransomware Attack:\r\nInfection Stage (Delivery, Execution, Privilege Escalation)\r\nEncryption Stage (File Encryption, Network Encryption)\r\nExtortion Stage (Ransom Demand, Payment Methods)\r\nPreventing Ransomware Attacks:\r\n\r\nImplementing Defense in Depth Strategies\r\nEmployee Training and Awareness Programs\r\nPatch Management and Software Updates\r\nNetwork Segmentation and Access Controls\r\nEmail Filtering and Anti-Phishing Measures\r\nEndpoint Security Solutions and Behavior Analysis\r\nResponding to Ransomware Attacks:\r\n\r\nDeveloping an Incident Response Plan\r\nIsolating Infected Systems and Networks\r\nIdentifying the Ransomware Variant and Attack Vector\r\nEvaluating Backup and Recovery Options\r\nEngaging with Law Enforcement and Cybersecurity Experts\r\nConsidering the Ethical and Legal Implications of Ransom Payments\r\nCase Studies and Real-World Examples:\r\n\r\nNotable Ransomware Incidents and Their Impacts\r\nLessons Learned from Successful and Unsuccessful Responses\r\nBest Practices and Mitigation Strategies Based on Case Studies\r\nFuture Trends and Emerging Threats:\r\n\r\nThe Importance of Proactive Defense and Vigilance\r\nCollaboration and Information Sharing in the Fight Against Ransomware\r\nBuilding Resilience and Adaptability in the Face of Evolving Threats\r\n\r\nDemo session on how ransomware are created.\r\n",
+                "startsAt": "2024-07-19T12:00:00",
+                "endsAt": "2024-07-19T12:45:00",
+                "isServiceSession": false,
+                "isPlenumSession": false,
+                "speakers": [
+                    {
+                        "id": "4ed66d71-84b0-4175-afe9-c3eb48b4eb4f",
+                        "name": "Namita Sham"
+                    }
+                ],
+                "categories": [],
+                "roomId": 43506,
+                "room": "Tetris (Left Front)",
+                "liveUrl": null,
+                "recordingUrl": null,
+                "status": "Accepted",
+                "isInformed": true,
+                "isConfirmed": true
+            },
+            {
+                "questionAnswers": [],
+                "id": "619730",
+                "title": "Unleashing the Power of Conversational AI",
+                "description": "This session will be an insightful exploration into the synergy of Machine Learning, NLP, and Generative AI in shaping the future of Conversational AI. This talk will take you on a journey through the evolution of AI-driven communication, highlighting cutting-edge advancements and their practical applications. Experience interactive demonstrations, engage with AI models, and participate in discussions that illuminate the transformative impact of these technologies. Get ready for an engaging session that not only informs but also inspires about the potential and ethics of Conversational AI",
+                "startsAt": "2024-07-19T12:00:00",
+                "endsAt": "2024-07-19T12:45:00",
+                "isServiceSession": false,
+                "isPlenumSession": false,
+                "speakers": [
+                    {
+                        "id": "608599c6-0472-4a70-b24b-38b0b7d74c90",
+                        "name": "Kaneez Fatima Jowaheer"
+                    }
+                ],
+                "categories": [],
+                "roomId": 48853,
+                "room": "Street Fighter (Left Back)",
+                "liveUrl": null,
+                "recordingUrl": null,
+                "status": "Accepted",
+                "isInformed": true,
+                "isConfirmed": true
+            },
+            {
+                "questionAnswers": [],
+                "id": "689640",
+                "title": "Harnessing Reactivity: Intro to Ember.js",
+                "description": "You'll delve into the history and key features of the Ember framework, understanding why it stands out for its superior maintainability and long-term usability, despite not being owned by major corporations like Google or Facebook. Instead, it's backed by industry leaders such as LinkedIn and Heroku. Powerful data management capabilities will be covered with Ember Data, alongside efficient task handling provided by Ember Concurrency. You'll also explore the impressive performance of the Glimmer rendering engine compared to Angular and React, and learn about Ember.js's component-based architecture, which promotes reusable and maintainable code. This session promises to equip you with the knowledge to leverage Ember.js effectively in your web development projects.",
+                "startsAt": "2024-07-19T12:00:00",
+                "endsAt": "2024-07-19T12:45:00",
+                "isServiceSession": false,
+                "isPlenumSession": false,
+                "speakers": [
+                    {
+                        "id": "bf10aa1c-ed1d-41b4-af9b-580cda23c02f",
+                        "name": "Shakeel Mohun"
+                    },
+                    {
+                        "id": "57733e53-dbb9-42c8-8668-4fac68b8e7d8",
+                        "name": "Atish Dhunnoo"
+                    }
+                ],
+                "categories": [],
+                "roomId": 43507,
+                "room": "Pac Man (Right: User Group)",
+                "liveUrl": null,
+                "recordingUrl": null,
+                "status": "Accepted",
+                "isInformed": true,
+                "isConfirmed": true
+            },
+            {
+                "questionAnswers": [],
+                "id": "641002",
+                "title": "Zombies and Binary",
+                "description": "Minecraft is played by more than 165 million people. Imagine if just a fraction of those people could learn electrical engineering or computer programming, without even meaning to.\r\n\r\nThis talk is all about how Minecraft expresses the fundamentals of electronics and programming, and how we can encourage the next generation of electrical engineers and computer programmers in a fun environment. ",
+                "startsAt": "2024-07-19T13:00:00",
+                "endsAt": "2024-07-19T13:45:00",
+                "isServiceSession": false,
+                "isPlenumSession": false,
+                "speakers": [
+                    {
+                        "id": "3ef14414-a80a-4093-b5f7-1a838bcc9288",
+                        "name": "Christopher Pitt"
+                    }
+                ],
+                "categories": [],
+                "roomId": 43505,
+                "room": "Donkey Kong (Theatre)",
+                "liveUrl": null,
+                "recordingUrl": null,
+                "status": "Accepted",
+                "isInformed": true,
+                "isConfirmed": true
+            },
+            {
+                "questionAnswers": [],
+                "id": "641398",
+                "title": "Supercharge Your Mobile App with Gemini: A Hands-on Guide",
+                "description": "Are you tired of traditional flashcards? Join this session to discover the \"Flashcard Genius\" concept, an innovative mobile app powered by Gemini, Google's foundation model for mobile apps.\r\n\r\nWe'll begin with a brief introduction to Gemini, highlighting its capabilities and potential to revolutionize mobile learning experiences. Then, we'll dive into a live demonstration showcasing how you can build a mobile app that incorporates the use of Gemini.\r\n\r\nWitness the possibilities of:\r\n\r\nEffortless searching: Find flashcards with ease using natural language queries.\r\nPersonalized quizzes: Get tested on your weakest areas with AI-generated quizzes.\r\nInteractive learning: Receive insightful feedback, explanations, and alternative perspectives after each answer.\r\nKnowledge consolidation: Generate summaries of key concepts from your flashcards for efficient revision.\r\n\r\nThis session is a concise, engaging exploration of how AI can transform the way we learn. Whether you're a student seeking a smarter study tool or simply curious about AI's potential, this session will spark your imagination and leave you wanting to learn more.",
+                "startsAt": "2024-07-19T13:00:00",
+                "endsAt": "2024-07-19T13:45:00",
+                "isServiceSession": false,
+                "isPlenumSession": false,
+                "speakers": [
+                    {
+                        "id": "6720e7b3-9121-4e0a-983d-d8515d756fb1",
+                        "name": "Pranav Gupta Chummun"
+                    }
+                ],
+                "categories": [],
+                "roomId": 43506,
+                "room": "Tetris (Left Front)",
+                "liveUrl": null,
+                "recordingUrl": null,
+                "status": "Accepted",
+                "isInformed": true,
+                "isConfirmed": true
+            },
+            {
+                "questionAnswers": [],
+                "id": "640232",
+                "title": "Why RPA is still relevant in the AI world",
+                "description": "Despite all the OpenAI AI advancements in last 14months, ranging from ChatGPT to Sora, RPA (Robotic Process Automaton) is still very much relevant to the large\/medium\/small enterprises to solve their immediate issues and prepare a level field for the AI mix more impactful in the coming existing time of AI rainbow.",
+                "startsAt": "2024-07-19T13:00:00",
+                "endsAt": "2024-07-19T13:45:00",
+                "isServiceSession": false,
+                "isPlenumSession": false,
+                "speakers": [
+                    {
+                        "id": "5efddbb2-c158-4f71-aef9-ace00efbc627",
+                        "name": "Shailendra Singh"
+                    }
+                ],
+                "categories": [],
+                "roomId": 48853,
+                "room": "Street Fighter (Left Back)",
+                "liveUrl": null,
+                "recordingUrl": null,
+                "status": "Accepted",
+                "isInformed": true,
+                "isConfirmed": true
+            },
+            {
+                "questionAnswers": [],
+                "id": "691700",
+                "title": "SUSE Bootcamp \u2014 Enterprise Container Management (ECM) and Enterprise Container Security (ECS)",
+                "description": "Enterprise Container Management (ECM)\r\n\r\nEmbark on the future of container management with SUSE Enterprise Container Management (ECM). Experience streamlined orchestration, enhanced security, and seamless deployment across hybrid cloud environments. Unveil its intuitive interface, advanced automation capabilities, and robust monitoring tools in our technical presentation and live demo showcasing effortless container life-cycle management.\r\n\r\nEnterprise Container Security (ECS)\r\n\r\nUnlock the pinnacle of container security with SUSE Enterprise Container Security (ECS)! Safeguard your containerized environments with proactive threat detection, comprehensive vulnerability management, and runtime protection. Immerse in our technical presentation, unveiling ECS's cutting-edge features, followed by a live demo showcasing its real-time threat response capabilities.",
+                "startsAt": "2024-07-19T13:00:00",
+                "endsAt": "2024-07-19T16:45:00",
+                "isServiceSession": false,
+                "isPlenumSession": false,
+                "speakers": [
+                    {
+                        "id": "c805938e-1dfc-4213-b781-9128919ecf46",
+                        "name": "Dawid van der Merwe"
+                    }
+                ],
+                "categories": [],
+                "roomId": 48854,
+                "room": "Space Invaders (Mezzanine)",
+                "liveUrl": null,
+                "recordingUrl": null,
+                "status": "Accepted",
+                "isInformed": true,
+                "isConfirmed": true
+            },
+            {
+                "questionAnswers": [],
+                "id": "631049",
+                "title": "Celery Served Fresh: A Deep Dive into Asynchronous Task Processing with Python Celery",
+                "description": "Join me for a tantalizing exploration into the world of asynchronous task processing with Python Celery in my session titled \"Celery Served Fresh.\" From handling real-time data streams to orchestrating complex workflows, Celery empowers developers to boost application performance and scalability with ease.\r\n\r\nPrepare to embark on a journey and learn how to seamlessly integrate Celery into your projects, harnessing its capabilities to tackle even the most demanding workloads with finesse.\r\n\r\nWhether you're a seasoned developer seeking to optimize your application's performance or a curious newcomer eager to unlock the potential of asynchronous processing, \"Celery Served Fresh\" promises to inspire and enlighten.",
+                "startsAt": "2024-07-19T13:05:00",
+                "endsAt": "2024-07-19T13:45:00",
+                "isServiceSession": false,
+                "isPlenumSession": false,
+                "speakers": [
+                    {
+                        "id": "477c56a0-d60c-42c6-beef-fc009a020fb8",
+                        "name": "Kherin Bundhoo"
+                    }
+                ],
+                "categories": [],
+                "roomId": 43507,
+                "room": "Pac Man (Right: User Group)",
+                "liveUrl": null,
+                "recordingUrl": null,
+                "status": "Accepted",
+                "isInformed": true,
+                "isConfirmed": true
+            },
+            {
+                "questionAnswers": [],
+                "id": "701615",
+                "title": "Digital Twin of an Organization (DTO)",
+                "description": "Transforming Business with Real-time Data and Simulations. \r\n\r\nA Digital Twin of an Organization (DTO) is a dynamic digital model that replicates the entire organization\u2019s operations, processes, and interactions for real-time analysis and optimization.",
+                "startsAt": "2024-07-19T14:00:00",
+                "endsAt": "2024-07-19T14:45:00",
+                "isServiceSession": false,
+                "isPlenumSession": false,
+                "speakers": [
+                    {
+                        "id": "8d4fca0b-76de-400e-804f-e84498a329ad",
+                        "name": "Ajmal Saifudeen"
+                    }
+                ],
+                "categories": [],
+                "roomId": 43505,
+                "room": "Donkey Kong (Theatre)",
+                "liveUrl": null,
+                "recordingUrl": null,
+                "status": "Accepted",
+                "isInformed": true,
+                "isConfirmed": true
+            },
+            {
+                "questionAnswers": [],
+                "id": "664064",
+                "title": "Integrate Gemini into Your .NET Applications: Unleash the Power of Generative AI",
+                "description": "The world of .NET development just got a whole lot more exciting with the introduction of Gemini, Google's powerful large language model (LLM) API. This talk will guide you through seamlessly integrating Gemini into your .NET applications, unlocking a new level of functionality and creativity.\r\n\r\nWorking with the Gemini API\r\n\r\n- Setting Up Your Project: We'll begin by exploring the steps to set up your .NET project for Gemini access. This includes acquiring the necessary credentials and installing the relevant libraries.\r\n- Interacting with the API: Dive into making API calls to Gemini. We'll cover crafting clear and concise requests, specifying desired outputs, and handling various response formats.\r\n- Processing the Results: Learn how to effectively process Gemini's responses within your application. This includes parsing generated text, interpreting data structures, and integrating the results into your application logic.\r\n\r\nWhy choosing Gemini?\r\n\r\nGemini offers a diverse range of features:\r\n\r\n- Range of specific tasks, such as writing different creative text styles or translating languages.\r\n- Streaming responses which allow fast responsiveness in your applications.\r\n- 1M token to provide context and increase accuracy of responses.\r\n- Multimodal support allowing the combination of text, images and videos for analysis and generation of content.\r\n- Model tuning, which provides the ability to instruct a base model with your data for reality-augmented generation (RAG) and reduction of hallucinations.\r\n\r\nSupercharge Your .NET Applications with Gemini\r\n\r\n- Boost Developer Productivity: Spend less time on repetitive tasks like code generation or text formatting. Let Gemini handle the heavy lifting!\r\n- Enhance Application Functionality: Integrate features like text summarization, sentiment analysis, or question answering to elevate your application's capabilities.\r\n- Unleash Creative Potential: Generate new ideas, explore different writing styles, or even create prototypes with the help of Gemini's creative text formats.\r\n- Stay at the Forefront of Innovation: Be among the first to leverage cutting-edge generative AI technology in your .NET applications.\r\n\r\nCode Examples and Demos\r\n\r\nThroughout the talk, we'll showcase practical code examples demonstrating how to integrate Gemini functionalities into your .NET applications. Live demos will further solidify your understanding and ignite your imagination for potential use cases.\r\n\r\nConclusion\r\n\r\nGemini opens a new chapter for .NET development. By integrating this powerful LLM API, you can streamline workflows, unlock creative possibilities, and build smarter, more engaging applications. Take the first step towards the future of .NET development \u2013 start integrating Gemini today!\r\n",
+                "startsAt": "2024-07-19T14:00:00",
+                "endsAt": "2024-07-19T14:45:00",
+                "isServiceSession": false,
+                "isPlenumSession": false,
+                "speakers": [
+                    {
+                        "id": "4c563acb-7ae8-4b4d-9ddf-11c19a02b813",
+                        "name": "Jochen Kirst\u00e4tter"
+                    }
+                ],
+                "categories": [],
+                "roomId": 43506,
+                "room": "Tetris (Left Front)",
+                "liveUrl": null,
+                "recordingUrl": null,
+                "status": "Accepted",
+                "isInformed": true,
+                "isConfirmed": true
+            },
+            {
+                "questionAnswers": [],
+                "id": "640914",
+                "title": "Democratizing AI: Simplifying Solution Development for Non-Technical Users",
+                "description": "In today's rapidly evolving digital landscape, artificial intelligence (AI) has become a transformative force across industries. However, the barrier to entry for non-technical users remains high, limiting their ability to harness the power of AI in their workflows. This session aims to break down those barriers by showcasing how low-code development platforms are democratizing AI, empowering individuals with diverse skill sets to create sophisticated solutions without extensive coding knowledge.\r\n\r\nThrough a series of practical examples and demonstrations, attendees will explore how low-code platforms streamline the AI development process, from ideation to deployment. By abstracting complex technical details into intuitive visual interfaces, these platforms enable non-technical users to design, train, and deploy AI models with ease. Whether you're a business analyst, marketer, or operations manager, you'll discover how to leverage AI to drive innovation and efficiency in your domain.\r\n\r\nJoin us as we delve into real-world use cases across various industries, illustrating how non-technical users can leverage low-code AI development platforms to:\r\n\r\n- Enhance decision-making processes with predictive analytics\r\n- Using OCR to extract specific text from images or PDFs to automate data processing\r\n- Detect specific objects in images\r\n- Accelerate innovation and stay ahead of the competition in today's data-driven economy.\r\n\r\nWhether you're new to AI or looking to expand your skill set, this session offers a practical roadmap for embracing AI-powered solutions without the need for extensive technical expertise. Prepare to unlock the full potential of AI and revolutionize your approach to problem-solving in the digital age.",
+                "startsAt": "2024-07-19T14:00:00",
+                "endsAt": "2024-07-19T14:45:00",
+                "isServiceSession": false,
+                "isPlenumSession": false,
+                "speakers": [
+                    {
+                        "id": "9435c1a8-6d1a-4e39-b32e-c5e3549f1ca4",
+                        "name": "Dinesh Maulloo"
+                    }
+                ],
+                "categories": [],
+                "roomId": 48853,
+                "room": "Street Fighter (Left Back)",
+                "liveUrl": null,
+                "recordingUrl": null,
+                "status": "Accepted",
+                "isInformed": true,
+                "isConfirmed": true
+            },
+            {
+                "questionAnswers": [],
+                "id": "641494",
+                "title": "Web scraping 101 with Python",
+                "description": "This session will highlight the basics of web scraping using python as coding platform. It will include the why, do's and don'ts of web scraping as well as the ethical practices such as respecting the robot.txt. Through a code demo i will explain the different capabilities of browsing static sites through requests library as well as dynamic sites through selenium. Sites will be scraped using dom elements as well as circumventing login pages, etc...\r\nFinally i will showcase the data harvested using a data visualization platform such as PowerBI",
+                "startsAt": "2024-07-19T14:00:00",
+                "endsAt": "2024-07-19T14:45:00",
+                "isServiceSession": false,
+                "isPlenumSession": false,
+                "speakers": [
+                    {
+                        "id": "8db2a5ab-0147-443b-b611-71c2df33eac3",
+                        "name": "Sid Bisram"
+                    }
+                ],
+                "categories": [],
+                "roomId": 43507,
+                "room": "Pac Man (Right: User Group)",
+                "liveUrl": null,
+                "recordingUrl": null,
+                "status": "Accepted",
+                "isInformed": true,
+                "isConfirmed": true
+            },
+            {
+                "questionAnswers": [],
+                "id": "676781",
+                "title": "En route pour le z\u00e9ro d\u00e9faut",
+                "description": "Les d\u00e9fauts co\u00fbtent du temps et de l\u2019argent \u00e0 nos clients et \u00e0 nos \u00e9quipes op\u00e9rationnelles. Ils repr\u00e9sentent aussi un co\u00fbt important pour les \u00e9quipes techniques aussi bien en terme de temps qu\u2019en terme de stress. Nous avons donc d\u00e9cid\u00e9 d\u2019adresser le probl\u00e8me de fa\u00e7on volontaire afin d\u2019atteindre un fonctionnement \u00ab z\u00e9ro d\u00e9faut \u00bb du syst\u00e8me d\u2019information.\r\n\r\nPour cela, nous activons deux leviers\r\n\r\nUn \u00ab shift left \u00bb g\u00e9n\u00e9ral afin de mettre le d\u00e9veloppeur en capacit\u00e9 de d\u00e9tecter les probl\u00e8mes et de les r\u00e9soudre le plus t\u00f4t possible dans la chaine.\r\nUne d\u00e9marche Lean IT et notamment une approche dandotsu pour \u00e9liminer les causes racines et engager les \u00e9quipes dans la gestion des plans de progr\u00e8s.\r\n\r\nNous partagerons avec vous nos apprentissages et les r\u00e9sultats que nous avons pu obtenir \u2026 et ceux que nous recherchons toujours !",
+                "startsAt": "2024-07-19T15:00:00",
+                "endsAt": "2024-07-19T15:45:00",
+                "isServiceSession": false,
+                "isPlenumSession": false,
+                "speakers": [
+                    {
+                        "id": "1dc49320-2609-4e11-9a66-e0f93ff6334e",
+                        "name": "Richard Burbaud"
+                    }
+                ],
+                "categories": [],
+                "roomId": 43505,
+                "room": "Donkey Kong (Theatre)",
+                "liveUrl": null,
+                "recordingUrl": null,
+                "status": "Accepted",
+                "isInformed": true,
+                "isConfirmed": true
+            },
+            {
+                "questionAnswers": [],
+                "id": "641096",
+                "title": "Navigating the Ethical Terrain: A Journey into Responsible AI",
+                "description": "Join us for a thought-provoking exploration of the Ethics of AI and Responsible AI practices. Delve into the complexities of artificial intelligence ethics, examining the challenges, risks, and opportunities that arise in the rapidly evolving landscape of AI technology. Discover the principles and frameworks guiding ethical AI development and deployment, and gain insights into fostering responsible AI solutions that prioritize fairness, transparency, accountability, and societal well-being. This presentation will empower you with the knowledge and tools to navigate the ethical considerations surrounding AI, ensuring that innovation aligns with human values and respects fundamental rights.",
+                "startsAt": "2024-07-19T15:00:00",
+                "endsAt": "2024-07-19T15:45:00",
+                "isServiceSession": false,
+                "isPlenumSession": false,
+                "speakers": [
+                    {
+                        "id": "43f66e40-f651-42b7-b7fd-159d9caeae4a",
+                        "name": "Kavish Seechurn"
+                    },
+                    {
+                        "id": "c20fc843-508e-4278-b4ca-1ce58f16bbd4",
+                        "name": "Christiane Adone"
+                    }
+                ],
+                "categories": [],
+                "roomId": 43506,
+                "room": "Tetris (Left Front)",
+                "liveUrl": null,
+                "recordingUrl": null,
+                "status": "Accepted",
+                "isInformed": true,
+                "isConfirmed": true
+            },
+            {
+                "questionAnswers": [],
+                "id": "609194",
+                "title": "The Art of Infrastructure As Code",
+                "description": "Infrastructure as Code (IaC) is a modern approach in DevOps that involves managing and provisioning technology infrastructure through code instead of manual processes. This method allows for automated, consistent, and efficient setup and maintenance of servers, networks, and other infrastructure elements. Also, It's a key practice in cloud computing, making managing large-scale, complex environments easier\r\n\r\nIn this presentation, you will learn that every setup is performed similarly, reducing errors and saving time by using Microsoft Bicep and Pulumi. \r\n\r\nAgenda:\r\n1. What is IaC and why it's important?\r\n2. What is Bicep?\r\n3. Pulumi Overview\r\n4. Introduction to Pulumi.\r\n5. Live example: A more complex Azure setup using both tools.\r\n6. Q&A Session",
+                "startsAt": "2024-07-19T15:00:00",
+                "endsAt": "2024-07-19T15:45:00",
+                "isServiceSession": false,
+                "isPlenumSession": false,
+                "speakers": [
+                    {
+                        "id": "51f713e3-f67b-4884-aed0-ef782fda8a6c",
+                        "name": "Purdaseea Dhaneshwursingh"
+                    }
+                ],
+                "categories": [],
+                "roomId": 48853,
+                "room": "Street Fighter (Left Back)",
+                "liveUrl": null,
+                "recordingUrl": null,
+                "status": "Accepted",
+                "isInformed": true,
+                "isConfirmed": true
+            },
+            {
+                "questionAnswers": [],
+                "id": "637962",
+                "title": "Et si on parlait \"Qualit\u00e9 Web\"",
+                "description": "Un site web se doit \u00eatre efficace et r\u00e9pondre aux exigences des utilisateurs. Comment arriver \u00e0 ce but ? Heureusement que des normes existent dans ce sens et nous allons justement parler d'un des ces normes, le mod\u00e8le \"VPTCS\" .. mais pas que, nous allons aussi pr\u00e9senter la checklist Opquast, une checklist de 240 r\u00e8gles, \u00e9labor\u00e9e pour permettre v\u00e9rifier\/valider que son site convient bien aux normes de qualit\u00e9 du web. ",
+                "startsAt": "2024-07-19T16:00:00",
+                "endsAt": "2024-07-19T16:45:00",
+                "isServiceSession": false,
+                "isPlenumSession": false,
+                "speakers": [
+                    {
+                        "id": "1ad5cb40-0f33-4b33-ab8d-415a5febf690",
+                        "name": "Vanessa V.Chellen"
+                    }
+                ],
+                "categories": [],
+                "roomId": 43505,
+                "room": "Donkey Kong (Theatre)",
+                "liveUrl": null,
+                "recordingUrl": null,
+                "status": "Accepted",
+                "isInformed": true,
+                "isConfirmed": true
+            },
+            {
+                "questionAnswers": [],
+                "id": "632935",
+                "title": "Event driven approach:  Make your app more predictable, maintainable and easier to debug",
+                "description": "MVP, MVVM, MV* are popular architecture design patterns in Android development enabling us to develop smooth and responsive apps. Some time ago I discovered that every time I implemented MVVM, I created a poor man\u2019s state machine. \r\n\r\nIn this talk, we\u2019ll see how we can make our apps more predictable, maintainable and easier to debug by integrating state machines into the presentation layer of the app architecture. \r\n\r\nResources: https:\/\/github.com\/BKinya\/QuickTock\r\nA sample project I implemented using Tinder\u2019s state machine library\r\n\r\nHappy Coding!",
+                "startsAt": "2024-07-19T16:00:00",
+                "endsAt": "2024-07-19T16:45:00",
+                "isServiceSession": false,
+                "isPlenumSession": false,
+                "speakers": [
+                    {
+                        "id": "02271301-87de-4dca-9838-dd9de6bc9a31",
+                        "name": "Beatrice Kinya"
+                    }
+                ],
+                "categories": [],
+                "roomId": 43506,
+                "room": "Tetris (Left Front)",
+                "liveUrl": null,
+                "recordingUrl": null,
+                "status": "Accepted",
+                "isInformed": true,
+                "isConfirmed": true
+            },
+            {
+                "questionAnswers": [],
+                "id": "640344",
+                "title": "Making E-Commerce chatbot in Creole",
+                "description": "MRIC Funded project:\r\n\r\nWe are developing a chatbot to allow Mauritian business to operate their businesses using messaging apps. \r\n\r\nWe'll look at the machine learning algorithms and AI used in the project as well the supporting infrastructure. \r\n\r\n",
+                "startsAt": "2024-07-19T16:00:00",
+                "endsAt": "2024-07-19T16:45:00",
+                "isServiceSession": false,
+                "isPlenumSession": false,
+                "speakers": [
+                    {
+                        "id": "330d0193-0f5f-4f9a-9df1-741448fa390d",
+                        "name": "Nayar Joolfoo"
+                    }
+                ],
+                "categories": [],
+                "roomId": 48853,
+                "room": "Street Fighter (Left Back)",
+                "liveUrl": null,
+                "recordingUrl": null,
+                "status": "Accepted",
+                "isInformed": true,
+                "isConfirmed": true
+            },
+            {
+                "questionAnswers": [],
+                "id": "619936",
+                "title": "Achieving Zero downtime Deployment in Banking Applications",
+                "description": "Embark on a journey of insights as the process of implementing zerodowntime deployment in the dynamic realm of banking applications is discussed. With millions of logins daily, substantial challenges were encountered, but commensurate rewards were achieved.\r\n\r\nIn this session, the adoption of Kubernetes will be explored, playing a pivotal role in the quest for seamless deployment. Experiences will be shared, delving into the hurdles faced, and lessons learned from several failed attempts that ultimately led to success.\r\n\r\nThrough a real-world case study, the transformative impact on the work-life balance of software engineers and the substantial improvement in customer experience for millions of users will be showcased. The approach taken will be detailed, illustrating how maintenance and bug fixes during peak usage were facilitated, while also elevating overall system resilience.",
+                "startsAt": "2024-07-20T09:00:00",
+                "endsAt": "2024-07-20T09:45:00",
+                "isServiceSession": false,
+                "isPlenumSession": false,
+                "speakers": [
+                    {
+                        "id": "1fd572bd-a45d-497a-99ea-f2cec9d9b9ab",
+                        "name": "Chervine Bhiwoo"
+                    }
+                ],
+                "categories": [],
+                "roomId": 43505,
+                "room": "Donkey Kong (Theatre)",
+                "liveUrl": null,
+                "recordingUrl": null,
+                "status": "Accepted",
+                "isInformed": true,
+                "isConfirmed": true
+            },
+            {
+                "questionAnswers": [],
+                "id": "614617",
+                "title": "An overview of Gaming in the Free Libre and Open Source System World",
+                "description": "Basic History of Gaming on Micro-Controllers and Microprocessors to newer hardware and maybe the future.\r\nintroduction to Gaming programming on FLOSS. \r\nIntroduction to the Best Gaming Software.",
+                "startsAt": "2024-07-20T09:00:00",
+                "endsAt": "2024-07-20T09:45:00",
+                "isServiceSession": false,
+                "isPlenumSession": false,
+                "speakers": [
+                    {
+                        "id": "8730e9dc-e914-403b-80ef-87e0df730638",
+                        "name": "Pritvi Jheengut"
+                    }
+                ],
+                "categories": [],
+                "roomId": 43506,
+                "room": "Tetris (Left Front)",
+                "liveUrl": null,
+                "recordingUrl": null,
+                "status": "Accepted",
+                "isInformed": true,
+                "isConfirmed": true
+            },
+            {
+                "questionAnswers": [],
+                "id": "626057",
+                "title": "Getting a career in Data Science",
+                "description": "An introductory session about data science and it's landscape in mauritius. the different sub-fields in data science and what roles are available in each. what are normally the requirements for each role",
+                "startsAt": "2024-07-20T09:00:00",
+                "endsAt": "2024-07-20T09:45:00",
+                "isServiceSession": false,
+                "isPlenumSession": false,
+                "speakers": [
+                    {
+                        "id": "dde46c59-2d2b-4840-b7a1-131c373e556d",
+                        "name": "Aditya Bholah"
+                    }
+                ],
+                "categories": [],
+                "roomId": 48853,
+                "room": "Street Fighter (Left Back)",
+                "liveUrl": null,
+                "recordingUrl": null,
+                "status": "Accepted",
+                "isInformed": true,
+                "isConfirmed": true
+            },
+            {
+                "questionAnswers": [],
+                "id": "691703",
+                "title": "Business Critical Linux ",
+                "description": "Elevate your enterprise with unmatched reliability, scalability, and performance for vital workloads. Enable your business from the datacenter to the edge. Engage in our demo spotlighting SUSE Liberty Linux and Confidential Computing, ensuring utmost security and data privacy for your critical applications.",
+                "startsAt": "2024-07-20T10:00:00",
+                "endsAt": "2024-07-20T10:45:00",
+                "isServiceSession": false,
+                "isPlenumSession": false,
+                "speakers": [
+                    {
+                        "id": "c805938e-1dfc-4213-b781-9128919ecf46",
+                        "name": "Dawid van der Merwe"
+                    }
+                ],
+                "categories": [],
+                "roomId": 43505,
+                "room": "Donkey Kong (Theatre)",
+                "liveUrl": null,
+                "recordingUrl": null,
+                "status": "Accepted",
+                "isInformed": true,
+                "isConfirmed": true
+            },
+            {
+                "questionAnswers": [],
+                "id": "641499",
+                "title": "Introduction to Game Development using Construct 3",
+                "description": " Creating computer games for web and mobile platforms becomes significantly easier using the right tool. In this session, attendees will be able to explore the Construct 3 environment during a unique introductory session on game creation. \r\nParticipants will learn how to create platform-based games like Super Mario, delve into physics-based behaviours for casual games, and have an overview of exporting the game into an Android Mobile Application. \r\nThis session is designed to be interactive; thus, participants are requested to bring their laptops or tablets. Internet access will be needed to use the web platform at https:\/\/editor.construct.net. Please note that free access codes to the Construct software will be provided to the first 50 session attendees.\r\n",
+                "startsAt": "2024-07-20T10:00:00",
+                "endsAt": "2024-07-20T10:45:00",
+                "isServiceSession": false,
+                "isPlenumSession": false,
+                "speakers": [
+                    {
+                        "id": "c2576a31-090d-44d0-a425-9064bd27a7a1",
+                        "name": "Riyad Dhuny"
+                    },
+                    {
+                        "id": "6720e7b3-9121-4e0a-983d-d8515d756fb1",
+                        "name": "Pranav Gupta Chummun"
+                    }
+                ],
+                "categories": [],
+                "roomId": 43506,
+                "room": "Tetris (Left Front)",
+                "liveUrl": null,
+                "recordingUrl": null,
+                "status": "Accepted",
+                "isInformed": true,
+                "isConfirmed": true
+            },
+            {
+                "questionAnswers": [],
+                "id": "640940",
+                "title": "What makes software project management different?",
+                "description": "The five fundamental project management processes around initiation, planning, execution, monitoring, and closure are applicable to managing different projects. \r\n\r\nThe requirements and nature of software projects, however, require a unique blend of technical knowledge, adaptability, domain knowledge and people skills to navigate the intricacies of software development. \r\n\r\nIn this session, we will explore the practical complexities that software projects involve, and how to navigate through these.",
+                "startsAt": "2024-07-20T10:00:00",
+                "endsAt": "2024-07-20T10:45:00",
+                "isServiceSession": false,
+                "isPlenumSession": false,
+                "speakers": [
+                    {
+                        "id": "cfe6968c-e225-430a-8975-0466f2abbd04",
+                        "name": "Ashna Abeeluck-Unnuth"
+                    }
+                ],
+                "categories": [],
+                "roomId": 48853,
+                "room": "Street Fighter (Left Back)",
+                "liveUrl": null,
+                "recordingUrl": null,
+                "status": "Accepted",
+                "isInformed": true,
+                "isConfirmed": true
+            },
+            {
+                "questionAnswers": [],
+                "id": "632706",
+                "title": "Exploring the Power of Minimal APIs in .NET 8",
+                "description": "Join us for an insightful talk delving into the revolutionary Minimal APIs introduced in .NET 6. In this session, we'll explore how Minimal APIs streamline the process of building lightweight web APIs with minimal ceremony, enabling developers to quickly create efficient and scalable solutions. We'll dive into the key features of .NET 8 and demonstrate how Minimal APIs offer a more concise and expressive way to develop APIs compared to traditional approaches. Whether you're a seasoned .NET developer or new to the ecosystem, this talk will provide valuable insights and practical examples to empower you in leveraging the full potential of Minimal APIs in your projects. Don't miss this opportunity to stay ahead of the curve and elevate your .NET development skills!",
+                "startsAt": "2024-07-20T10:05:00",
+                "endsAt": "2024-07-20T10:50:00",
+                "isServiceSession": false,
+                "isPlenumSession": false,
+                "speakers": [
+                    {
+                        "id": "a74e488a-4c89-4f94-b1a2-60230c88f3aa",
+                        "name": "Samanta Luchoo"
+                    },
+                    {
+                        "id": "1b125e8e-6f6f-41e2-a123-1d1f5fbd9c4a",
+                        "name": "Kelly Quirin"
+                    }
+                ],
+                "categories": [],
+                "roomId": 43507,
+                "room": "Pac Man (Right: User Group)",
+                "liveUrl": null,
+                "recordingUrl": null,
+                "status": "Accepted",
+                "isInformed": true,
+                "isConfirmed": true
+            },
+            {
+                "questionAnswers": [],
+                "id": "640180",
+                "title": "Mauritius Internet Exchange Point (MIXP)",
+                "description": "The Mauritius Internet Exchange Point (MIXP) is the first Internet exchange point in Mauritius. It is open to any network operator that believes that they can make their network more efficient through peering.\r\n\r\nIn this session, the MIXP President will introduce the work of this non-profit organisation, provide statistics on local traffic and give an insight on the work achieved by the technical committee.",
+                "startsAt": "2024-07-20T11:00:00",
+                "endsAt": "2024-07-20T11:45:00",
+                "isServiceSession": false,
+                "isPlenumSession": false,
+                "speakers": [
+                    {
+                        "id": "8fe901cb-3f81-4148-b225-5d02ec1eaa02",
+                        "name": "Ranveer Seetaloo"
+                    }
+                ],
+                "categories": [],
+                "roomId": 43505,
+                "room": "Donkey Kong (Theatre)",
+                "liveUrl": null,
+                "recordingUrl": null,
+                "status": "Accepted",
+                "isInformed": true,
+                "isConfirmed": true
+            },
+            {
+                "questionAnswers": [],
+                "id": "630087",
+                "title": "The rise of the GAMER \ud83c\udfae",
+                "description": "I'm excited & honoured to present this year's DEVCONMU conversation under the umbrella of gaming. We welcome a special guest Cedric Sookahet, a local professional gamer with years of experience who will discuss with us the emerging gaming trends both in Mauritius & Internationally. \ud83d\udd79\r\n\r\nCedric Sookahet started his career as a graphic designer and today is head of digital in a development startup. He has always been a geek at heart and spent his childhood playing Sonic the Hedgehog on the Mega Drive, his early teen years playing strategic games on PC (age of empires, warcraft, starcraft to name a few) and most recently playing Indie games, esport titles and MMORPGs.  In 2019, Cedric founded the first geek platform in Mauritius, Geekin\u2019 Moris, which has now expanded internationally and is known as We are Geekin\u2019. We are Geekin\u2019 is an online media and community, dedicated to sharing gaming, tech and pop culture news. Cedric has had the opportunity to interview and speak to various gaming studio heads and publishers from the US, Canada, Spain and Lithuania.\r\n\r\nPlease note this will be a recorded session & we'll ensure there is time ample time left for audience questions. Will also have a limited amount of goodies so make sure to stay until the end of the session \ud83c\udf81",
+                "startsAt": "2024-07-20T11:00:00",
+                "endsAt": "2024-07-20T11:45:00",
+                "isServiceSession": false,
+                "isPlenumSession": false,
+                "speakers": [
+                    {
+                        "id": "a52fead5-fedc-48da-94bf-192f1c171681",
+                        "name": "Loic Forget"
+                    }
+                ],
+                "categories": [],
+                "roomId": 43506,
+                "room": "Tetris (Left Front)",
+                "liveUrl": null,
+                "recordingUrl": null,
+                "status": "Accepted",
+                "isInformed": true,
+                "isConfirmed": true
+            },
+            {
+                "questionAnswers": [],
+                "id": "628992",
+                "title": "Baby steps into Data Science",
+                "description": "This topic will provide a step by step introduction for those who wish to explore Data Science.\r\nTopics that will be introduced:\r\n1. Linear Regression\r\n2. Logistic Regression\r\n3. How Stats and Probabilities relate to Data Science\r\n4. Machine Learning Fundamentals\r\n5. Natural Language Procession\r\n6. Under the hood with ChatGPT (Neural Network)\r\n7. Generative AI\r\n8. Explainable AI\r\n9. Ethical Data and AI\r\n10. Google Cloud Platform\r\n",
+                "startsAt": "2024-07-20T11:00:00",
+                "endsAt": "2024-07-20T11:45:00",
+                "isServiceSession": false,
+                "isPlenumSession": false,
+                "speakers": [
+                    {
+                        "id": "a1afe56d-adc2-40fa-a6f2-7c66ae84a525",
+                        "name": "Rajendra Ballgobin"
+                    }
+                ],
+                "categories": [],
+                "roomId": 48853,
+                "room": "Street Fighter (Left Back)",
+                "liveUrl": null,
+                "recordingUrl": null,
+                "status": "Accepted",
+                "isInformed": true,
+                "isConfirmed": true
+            },
+            {
+                "questionAnswers": [],
+                "id": "641532",
+                "title": ".NET Diagnostics: Do I feel healthy at the moment?",
+                "description": "Imagine being able to periodically assess the status, availability and performance of your project to output whether it is all operational or if there is a failure. Then, extend that thought from your project to deeper checks on individual nodes and critical services\/logic in it. Wouldn't that be wonderful?\r\n\r\nThere are tools that can help you do that.\r\nBut what if it was inbuilt in the project itself, and even provides fallbacks for your project to self-heal if there is a problem?\r\n\r\nThis session aims to introduce the audience to .NET Health Checks, a nifty little addition to the .NET Framework that can work wonders in diagnostic and monitoring.\r\n\r\nAgenda:\r\n- What are health checks and why are they important?\r\n- What are the types and levels of health checks?\r\n- Health Checks middleware and libraries in .NET\r\n- Customizing the health check response\r\n- Resource utilization health checks\r\n- Visualization of health check information\r\n\r\nOne of the biggest challenges you face when dealing with a customer-focused product is to be as proactive as possible in dealing with production issues. Let's see how close we can get in this session.",
+                "startsAt": "2024-07-20T11:00:00",
+                "endsAt": "2024-07-20T11:45:00",
+                "isServiceSession": false,
+                "isPlenumSession": false,
+                "speakers": [
+                    {
+                        "id": "cf415be6-0558-4411-aa4d-dee4f0648547",
+                        "name": "Vidush H. Namah"
+                    }
+                ],
+                "categories": [],
+                "roomId": 43507,
+                "room": "Pac Man (Right: User Group)",
+                "liveUrl": null,
+                "recordingUrl": null,
+                "status": "Accepted",
+                "isInformed": true,
+                "isConfirmed": true
+            },
+            {
+                "questionAnswers": [],
+                "id": "640847",
+                "title": "Signals \u2013 Fine-Grained Reactivity in Angular",
+                "description": "Signals are used to achieve fine-grained reactivity. Seeing its growing popularity, Angular has brought Signals as a new feature to achieve Fine-Grained, Glitch-Free Reactivity.  The signal is a new way to inform the template and another part of the codes that data has changed, and also, it will have more on how Change Detection would be propagated in the component tree. In the future, a Signal component would only cause the Change Detector to run only for the component where data has changed instead of the whole component tree. \r\n\r\nSo, what are signals? How would you create, read, and update it? Also, how can a signal and RxJS Observable be used together? This session answers all these questions with a working live coding example. \r\n",
+                "startsAt": "2024-07-20T12:00:00",
+                "endsAt": "2024-07-20T12:45:00",
+                "isServiceSession": false,
+                "isPlenumSession": false,
+                "speakers": [
+                    {
+                        "id": "f6916ad9-528a-437e-9de7-87259105c837",
+                        "name": "Dhananjay Kumar"
+                    }
+                ],
+                "categories": [],
+                "roomId": 43505,
+                "room": "Donkey Kong (Theatre)",
+                "liveUrl": null,
+                "recordingUrl": null,
+                "status": "Accepted",
+                "isInformed": true,
+                "isConfirmed": true
+            },
+            {
+                "questionAnswers": [],
+                "id": "642178",
+                "title": "Godot: Let's make a game in C#",
+                "description": "Embark on a captivating journey into game development  on Godot Engine and C#. Designed for both novices and seasoned developers, this session will offer a comprehensive introduction to leveraging the powerful Godot Engine alongside the versatile C# programming language. From setting up the development environment to building a simple game from scratch, attendees will explore essential concepts and practical techniques essential for creating engaging games. ",
+                "startsAt": "2024-07-20T12:00:00",
+                "endsAt": "2024-07-20T12:45:00",
+                "isServiceSession": false,
+                "isPlenumSession": false,
+                "speakers": [
+                    {
+                        "id": "4d30981f-69b9-40bb-a00d-6a741b200d91",
+                        "name": "Fawwaaz Koodruth"
+                    }
+                ],
+                "categories": [],
+                "roomId": 43506,
+                "room": "Tetris (Left Front)",
+                "liveUrl": null,
+                "recordingUrl": null,
+                "status": "Accepted",
+                "isInformed": true,
+                "isConfirmed": true
+            },
+            {
+                "questionAnswers": [],
+                "id": "639942",
+                "title": "Lightning Talks 2024",
+                "description": "I am to bring back the fun session of Lightning Talks, where each speaker has a very short time frame to present something fun and educational. The session will be accompanied by intro videos for each speaker and we will have a small give away for the audience during the session. Ideally this should be place before the ending ceremony and the goal is to help everyone relax and smile after days of intense technical sessions, while still, learning stuff ! \r\n\r\n# Speakers \r\n\r\n- Houzair Koussa - \"Easter eggs in tech\"\r\n- Alexandre Bissessur - \"Reviving old tech with the Pi Pico\"\r\n- Abdallah Yashir Ramsing - AI Innovations in Video Editing: Beyond Imagination\r\n- Jain Ramchurn - \"10 bash tricks in 5 minutes\"\r\n- Dereck - \"The git diffing algorithm\"\r\n- Chervine Bhiwoo - \"Death by SMS\"\r\n- Sandeep Ramgolam - \"Learn by building\"",
+                "startsAt": "2024-07-20T13:00:00",
+                "endsAt": "2024-07-20T13:45:00",
+                "isServiceSession": false,
+                "isPlenumSession": false,
+                "speakers": [
+                    {
+                        "id": "d802c569-2764-4a8c-ac90-4dec8e3c3f41",
+                        "name": "Sandeep Ramgolam"
+                    }
+                ],
+                "categories": [],
+                "roomId": 43505,
+                "room": "Donkey Kong (Theatre)",
+                "liveUrl": null,
+                "recordingUrl": null,
+                "status": "Accepted",
+                "isInformed": true,
+                "isConfirmed": true
+            },
+            {
+                "questionAnswers": [],
+                "id": "640207",
+                "title": "Introduction to flutter",
+                "description": "An introductory session which will consists of the basics of flutter, some commonly used components and how it makes the app development easy.",
+                "startsAt": "2024-07-20T13:00:00",
+                "endsAt": "2024-07-20T13:45:00",
+                "isServiceSession": false,
+                "isPlenumSession": false,
+                "speakers": [
+                    {
+                        "id": "6e50239a-7f75-4ee4-bdb0-1a51cf0d4c91",
+                        "name": "Maadhav Koonjul"
+                    },
+                    {
+                        "id": "301a08e3-c1f4-4093-a902-2e397e6a0fda",
+                        "name": "Krishna Humath"
+                    }
+                ],
+                "categories": [],
+                "roomId": 43506,
+                "room": "Tetris (Left Front)",
+                "liveUrl": null,
+                "recordingUrl": null,
+                "status": "Accepted",
+                "isInformed": true,
+                "isConfirmed": true
+            },
+            {
+                "questionAnswers": [],
+                "id": "638642",
+                "title": "Technopreneurship: the next step of many developers?",
+                "description": "There has been a boom in the number of tech startups. Do developers want to be entrepreneurs or do entrepreneurs want a strong technical background?\r\nGuys like Bill Gates have created empires that impact the lives of millions and that will continue long after us. \r\nDevelopers are more and more becoming business owners with the same dream as the fathers of Silicon Valley. Mauritians are no different and we are creating some interesting tech as well.\r\nThinking about this, a lot of questions come into our minds.\r\nAll of us have capabilities that allow us to give it a shot. \r\nIn my talk, I will share with you what it takes to get started and our interactive session will definitely see the emergence of people who will be the next case study when talking about this topic.",
+                "startsAt": "2024-07-20T13:00:00",
+                "endsAt": "2024-07-20T13:45:00",
+                "isServiceSession": false,
+                "isPlenumSession": false,
+                "speakers": [
+                    {
+                        "id": "c6290cf3-c046-41b7-9f5f-d47d05c55baf",
+                        "name": "Mervyn Manilall"
+                    }
+                ],
+                "categories": [],
+                "roomId": 48853,
+                "room": "Street Fighter (Left Back)",
+                "liveUrl": null,
+                "recordingUrl": null,
+                "status": "Accepted",
+                "isInformed": true,
+                "isConfirmed": true
+            },
+            {
+                "questionAnswers": [],
+                "id": "610888",
+                "title": "Build a design system with Android Jetpack Compose",
+                "description": "Background:\r\nModern applications landscape demands a robust design system to ensure a cohesive and polished user interface. Jetpack Compose, the modern Android UI toolkit, offers a powerful and declarative way to build UIs. By harnessing the capabilities of Jetpack Compose, we can create a design system that not only streamlines the development process but also elevates the overall aesthetic and usability of our applications.\u2028\u2028\r\n\r\n\r\n\r\nObjectives:\r\n* \t\tConsistency: Establish a set of design principles, components, and patterns to ensure visual and functional consistency across our applications.\r\n* \t\tEfficiency: Leverage the reusability and composability features of Jetpack Compose to accelerate the development process, reducing redundancy and minimizing errors.\r\n* \t\tScalability: Design the system with scalability in mind, allowing for easy adaptation to future UI requirements and technological advancements.\r\n* \t\tAccessibility: Prioritize inclusivity by implementing accessibility best practices within the design system, ensuring our applications are usable by a diverse audience.\u2028\u2028\u2028\r\n\r\n\r\nKey Components of the Proposal:\r\n\r\n* \t\tWorkshop and Training: Conduct workshops to familiarize our development team with Jetpack Compose, ensuring they have the necessary skills to effectively utilize its capabilities in building the design system.\r\n\r\n* \t\tDesign System Definition: Collaborate with design teams to define a comprehensive set of guidelines, components, and patterns that align with our brand identity and user experience goals.\r\n* \t\tImplementation Roadmap: Develop a phased roadmap for the implementation of the design system, prioritizing key components and ensuring a smooth transition for existing projects.\r\n* \t\tDocumentation: Create detailed documentation for the design system, including guidelines, usage examples, and best practices, to facilitate seamless adoption across development teams.",
+                "startsAt": "2024-07-20T14:00:00",
+                "endsAt": "2024-07-20T14:45:00",
+                "isServiceSession": false,
+                "isPlenumSession": false,
+                "speakers": [
+                    {
+                        "id": "81b098bc-f1ec-4319-ba88-b1db7a2c64d3",
+                        "name": "Fabien Noellette"
+                    }
+                ],
+                "categories": [],
+                "roomId": 43506,
+                "room": "Tetris (Left Front)",
+                "liveUrl": null,
+                "recordingUrl": null,
+                "status": "Accepted",
+                "isInformed": true,
+                "isConfirmed": true
+            },
+            {
+                "questionAnswers": [],
+                "id": "618340",
+                "title": "Securing the Fast Lane: Accelerating SOC Defenses with DevSecOps Magic",
+                "description": "My session is focused on securing the Developer Operations and strategies that can help integrate integrate solid security practices to secure the DevOps pipeline in the context of a SOC environment. \r\nHere is a breakdown of my session:\r\n- Introduction to DevSecOps and the need for it in a Security Operations Centre (SOC)\r\n- Overview of DevSecOps and the SOC perspective\r\n- Benefits of adding DevSecOps to SOC environments\r\n- Strategies for integrating Security into the DevOps pipeline\r\n- Case Studies and Examples of Shift to DevSecOps\r\n- DevSecOps tools for SOC \r\n- Collaboration between Security and DevOps Teams\r\n- Challenges faced and Solutions for Effective Implementation\r\n- Continuous Improvement in DevSecOps processes\r\n- Q&A session with attendees\r\nIf you are a developer who wants to understand cybersecurity and security monitoring better, then this session is for you. With your code and some best practices around security, we can build better processes to secure our systems and build effective and efficient defense strategies.",
+                "startsAt": "2024-07-20T14:00:00",
+                "endsAt": "2024-07-20T14:45:00",
+                "isServiceSession": false,
+                "isPlenumSession": false,
+                "speakers": [
+                    {
+                        "id": "d25f4dc0-78ff-4486-adcb-83c5f7631708",
+                        "name": "Ankshita Maunthrooa"
+                    }
+                ],
+                "categories": [],
+                "roomId": 48853,
+                "room": "Street Fighter (Left Back)",
+                "liveUrl": null,
+                "recordingUrl": null,
+                "status": "Accepted",
+                "isInformed": true,
+                "isConfirmed": true
+            },
+            {
+                "questionAnswers": [],
+                "id": "639225",
+                "title": "Building beautful interfaces with robust ui libraries",
+                "description": "Introduction and Showcase of UI libraries\r\n\r\nDemo:\r\n- Set up a project\r\n- Build a page quickly using Tailwind CSS\/Daisy\/Shadcn\r\n- Explore customization of UI\r\n\r\nJoin me for an immersive session on creating stunning interfaces with powerful UI libraries.\r\n\r\nLearn about the capabilities and advantages of these libraries.\r\n\r\nLive demonstrations\r\n\r\nUtilize popular libraries like Tailwind CSS, Daisy, and Shadcn to construct visually appealing pages.\r\n\r\nDive deeper into customization options within these libraries.\r\n\r\nLet's  craft interfaces that stand out and captivate users.\r\n\r\n- Suitable for beginners and experienced developers alike.\r\n- Gain valuable insights and practical techniques for elevating your UI design.",
+                "startsAt": "2024-07-20T15:00:00",
+                "endsAt": "2024-07-20T15:45:00",
+                "isServiceSession": false,
+                "isPlenumSession": false,
+                "speakers": [
+                    {
+                        "id": "4dc79966-a989-45ff-b2e7-6b6f3a5433d0",
+                        "name": "Mahima Ramgolam"
+                    }
+                ],
+                "categories": [],
+                "roomId": 43506,
+                "room": "Tetris (Left Front)",
+                "liveUrl": null,
+                "recordingUrl": null,
+                "status": "Accepted",
+                "isInformed": true,
+                "isConfirmed": true
+            }
+        ],
+        "isDefault": false
+    }
+]
