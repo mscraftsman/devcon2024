@@ -38,6 +38,25 @@
         "categories": []
     },
     {
+        "id": "8d4fca0b-76de-400e-804f-e84498a329ad",
+        "firstName": "Ajmal",
+        "lastName": "Saifudeen",
+        "fullName": "Ajmal Saifudeen",
+        "bio": "Technology specialist passionate about solving real world problems with the use of innovative technology. Over 24 years of experience across geographies in both developed and emerging markets, working with startups and large enterprises alike.",
+        "tagLine": "Shaping Future IT Landscapes",
+        "profilePicture": "f6f5-400o400o1-azPECNEnGuimzcHTPLgg1e.png",
+        "sessions": [
+            {
+                "id": 701615,
+                "name": "Digital Twin of an Organization (DTO)"
+            }
+        ],
+        "isTopSpeaker": false,
+        "links": [],
+        "questionAnswers": [],
+        "categories": []
+    },
+    {
         "id": "80c8f586-0d9c-45a7-ae05-037cc1dce4e7",
         "firstName": "Alex",
         "lastName": "Bissessur",
@@ -49,6 +68,10 @@
             {
                 "id": 640138,
                 "name": "Quantity over Quality: A Kubernetes Tale"
+            },
+            {
+                "id": 636834,
+                "name": "Kubernetes Bootcamp"
             }
         ],
         "isTopSpeaker": false,
@@ -274,13 +297,13 @@
         "categories": []
     },
     {
-        "id": "6b55524c-69b8-453d-8fe8-5337f8841ffd",
-        "firstName": "Dawid van der",
-        "lastName": "Merwe",
+        "id": "c805938e-1dfc-4213-b781-9128919ecf46",
+        "firstName": "Dawid",
+        "lastName": "van der Merwe",
         "fullName": "Dawid van der Merwe",
         "bio": "Dawid has been in the IT industry for 20+ years. His primary focus at SUSE is that of a Solutions Architect where he leverages his deep understanding of the business technology to help articulate, drive and promote SUSE's technology vision.",
-        "tagLine": "Solutions Architect, SUSE",
-        "profilePicture": "4c84-400o400o1-TLUA4ezeQVDMCYxpsXstCd.jpg",
+        "tagLine": "Solution Architect",
+        "profilePicture": "877c-400o400o1-7hQ3Au6CgtvPh2zZZMQij5.jpg",
         "sessions": [
             {
                 "id": 691700,
@@ -497,7 +520,7 @@
         "fullName": "Ish Sookun",
         "bio": "I am a Systems Architect at La Sentinelle Ltd. I contribute to the openSUSE Project in my free time and I maintain Linux mirrors in Mauritius. I also follow policy discussions within the AFRINIC community.",
         "tagLine": "Systems Architect \/ La Sentinelle Ltd \/ openSUSE Contributor",
-        "profilePicture": "8f26-400o400o1-sBe5Dwfeq6uDXqZZyY2yJS.jpg",
+        "profilePicture": "557d-400o400o1-Hvxx4nkkmQj2JveL2pxxGh.jpg",
         "sessions": [
             {
                 "id": 636837,
@@ -974,25 +997,6 @@
         "categories": []
     },
     {
-        "id": "efea1a1f-c90b-4cd0-b180-12a5e706178b",
-        "firstName": "Pranav Gupta",
-        "lastName": "Chummun",
-        "fullName": "Pranav Gupta Chummun",
-        "bio": "Pranav Gupta Chummun is a Software Developer at Ceridian Dayforce, and a University of Technology, Mauritius graduate. He is a pioneer Google Developer Students Club lead and he's been immersed in the world of software development, AI, and machine learning. \r\n\r\nWith a deep love for technology, Pranav's journey has led him to develop games that aim to create awareness about sustainability and also published a paper in the field of AI and Machine Learning, a small effort in a much larger cause.\r\n\r\nPranav is dedicated to contributing to the community. He's humbled by the opportunity to provide digital solutions for NGOs, recognizing the value of technology in making a positive impact on real-world challenges. His exploration of supervised machine learning techniques, including Deep Learning and Transfer Learning, is a reflection of his eagerness to learn and grow in a rapidly evolving field.",
-        "tagLine": "Software Developer at Ceridian Dayforce (with a passion for Machine Learning & AI)",
-        "profilePicture": "88d9-400o400o1-Tfqy31CDT1iz1zi6PKjZsj.jpeg",
-        "sessions": [
-            {
-                "id": 641398,
-                "name": "Supercharge Your Mobile App with Gemini: A Hands-on Guide"
-            }
-        ],
-        "isTopSpeaker": false,
-        "links": [],
-        "questionAnswers": [],
-        "categories": []
-    },
-    {
         "id": "6720e7b3-9121-4e0a-983d-d8515d756fb1",
         "firstName": "Pranav Gupta",
         "lastName": "Chummun",
@@ -1001,6 +1005,10 @@
         "tagLine": "Software Developer, Ceridian Dayforce",
         "profilePicture": "f360-400o400o1-PZH98CdCsCEdGKvuDoJde6.jpg",
         "sessions": [
+            {
+                "id": 641398,
+                "name": "Supercharge Your Mobile App with Gemini: A Hands-on Guide"
+            },
             {
                 "id": 641499,
                 "name": "Introduction to Game Development using Construct 3"
@@ -1054,8 +1062,8 @@
         "firstName": "Rajendra",
         "lastName": "Ballgobin",
         "fullName": "Rajendra Ballgobin",
-        "bio": "10+ year with Angular Eco-system. Always curious about how it works.\r\n#TeamPlayer #Angular #AvidLearner #NodeDeveloper #Blogger\r\n",
-        "tagLine": "Fullstack Developer at Klanik",
+        "bio": "10+ year with Angular Eco-system. Always curious about how it works.\r\n#TeamPlayer #Angular #AvidLearner #NodeDeveloper #Blogger\r\n#React #NextJS #NestJS",
+        "tagLine": "Tech Lead (Maureva)",
         "profilePicture": "df3c-400o400o1-YVMJLrbWfwxU5mB8PMrAau.jpg",
         "sessions": [
             {

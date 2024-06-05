@@ -14,9 +14,12 @@
             <img src="/images/sponsor-tiers/diamond.svg" class="animate-flip-horizontal h-8 lg:h-10" />
         </div>
         <div class="mt-8 lg:mt-16 max-w-4xl mx-auto grid place-items-center">
-            <div class="flex flex-col lg:flex-row gap-6">
+            <div class="flex flex-col lg:flex-row gap-8 items-center">
                 <a href="https://www.suse.com/" target="_blank">
-                    <img src="/images/sponsors/suse.svg" class="h-28 lg:h-36 hover:scale-105 transition-all duration-500" />
+                    <img src="/images/sponsors/suse.svg" class="h-28 lg:h-[156px] hover:scale-105 transition-all duration-500" />
+                </a>
+                <a href="https://www.spoonconsulting.com/" target="_blank">
+                    <img src="/images/sponsors/spoonconsulting.png" class="h-20 lg:h-28 hover:scale-105 transition-all duration-500" />
                 </a>
             </div>
         </div>
@@ -30,7 +33,7 @@
         <div class="mt-8 lg:mt-16 max-w-4xl mx-auto grid place-items-center">
             <div class="flex flex-col lg:flex-row gap-6">
                 <a href="https://www.swanforlife.com/" target="_blank">
-                    <img src="/images/sponsors/swan.png" class="h-10 lg:h-12 hover:scale-105 transition-all duration-500" />
+                    <img src="/images/sponsors/swan.png" class="h-10 lg:h-[54px] hover:scale-105 transition-all duration-500" />
                 </a>
             </div>
         </div>
@@ -132,18 +135,6 @@
                 </a>
                 <a href="https://www.publicisgroupe.com" target="_blank">
                     <img src="/images/sponsors/publicis.png" class="h-20 lg:h-24 hover:scale-105 transition-all duration-500" />
-                </a>
-            </div>
-        </div>
-
-        <div class="mt-8 lg:mt-16 max-w-md mx-auto grid place-items-center">
-            <!-- Networking Hour Sponsor -->
-            <h3 class="text-lg lg:text-2xl font-pixel font-bold">Networking Hour Sponsor</h3>
-        </div>
-        <div class="mt-8 lg:mt-16 max-w-4xl mx-auto grid place-items-center">
-            <div class="flex flex-col lg:flex-row gap-10 items-center">
-                <a href="https://www.spoonconsulting.com/" target="_blank">
-                    <img src="/images/sponsors/spoonconsulting.png" class="h-16 lg:h-20 hover:scale-105 transition-all duration-500" />
                 </a>
             </div>
         </div>
