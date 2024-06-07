@@ -978,6 +978,25 @@
         "categories": []
     },
     {
+        "id": "30146071-58d6-4f67-bcef-f0ad56f63fdf",
+        "firstName": "Ophelia Boamah",
+        "lastName": "Ampoh",
+        "fullName": "Ophelia Boamah Ampoh",
+        "bio": "Ophelia is a web developer from Ghana. She currently co-leads Frontend Queens, a global community of women in frontend. She's an advocate for building great and accessible web experiences and as a Google Women Techmakers ambassador, aims to help more women get started and upskill in Tech.",
+        "tagLine": "Co-Lead, Frontend Queens",
+        "profilePicture": "98f5-400o400o1-H4cz1EBr3SDhnM6Qag7J1G.jpg",
+        "sessions": [
+            {
+                "id": 702756,
+                "name": "CSS in 2024: What\u2019s Cool in Web and What\u2019s Old School?"
+            }
+        ],
+        "isTopSpeaker": false,
+        "links": [],
+        "questionAnswers": [],
+        "categories": []
+    },
+    {
         "id": "9b89ccdf-9738-43c1-a682-e3eb0f0db338",
         "firstName": "Payal",
         "lastName": "Ghoorhoo ",
@@ -997,14 +1016,18 @@
         "categories": []
     },
     {
-        "id": "6720e7b3-9121-4e0a-983d-d8515d756fb1",
+        "id": "efea1a1f-c90b-4cd0-b180-12a5e706178b",
         "firstName": "Pranav Gupta",
         "lastName": "Chummun",
         "fullName": "Pranav Gupta Chummun",
-        "bio": "Pranav Gupta Chummun is a Software Developer at Ceridian Dayforce, and a University of Technology, Mauritius graduate. He is a pioneer Google Developer Students Club lead and he's been immersed in the world of software development, AI, and machine learning.\r\n\r\nWith a deep love for technology, Pranav's journey has led him to develop games that aim to create awareness about sustainability and also published a paper in the field of AI and Machine Learning, a small effort in a much larger cause.\r\n\r\nPranav is dedicated to contributing to the community. He's humbled by the opportunity to provide digital solutions for NGOs, recognizing the value of technology in making a positive impact on real-world challenges. His exploration of supervised machine learning techniques, including Deep Learning and Transfer Learning, is a reflection of his eagerness to learn and grow in a rapidly evolving field.",
-        "tagLine": "Software Developer, Ceridian Dayforce",
-        "profilePicture": "f360-400o400o1-PZH98CdCsCEdGKvuDoJde6.jpg",
+        "bio": "Pranav Gupta Chummun is a Software Developer at Ceridian Dayforce, and a University of Technology, Mauritius graduate. He is a pioneer Google Developer Students Club lead and he's been immersed in the world of software development, AI, and machine learning. \r\n\r\nWith a deep love for technology, Pranav's journey has led him to develop games that aim to create awareness about sustainability and also published a paper in the field of AI and Machine Learning, a small effort in a much larger cause.\r\n\r\nPranav is dedicated to contributing to the community. He's humbled by the opportunity to provide digital solutions for NGOs, recognizing the value of technology in making a positive impact on real-world challenges. His exploration of supervised machine learning techniques, including Deep Learning and Transfer Learning, is a reflection of his eagerness to learn and grow in a rapidly evolving field.",
+        "tagLine": "Software Developer at Ceridian Dayforce (with a passion for Machine Learning & AI)",
+        "profilePicture": "88d9-400o400o1-Tfqy31CDT1iz1zi6PKjZsj.jpeg",
         "sessions": [
+            {
+                "id": 703541,
+                "name": "Demystifying Explainable AI (XAI): Why It Matters and How to Implement It"
+            },
             {
                 "id": 641398,
                 "name": "Supercharge Your Mobile App with Gemini: A Hands-on Guide"
@@ -1044,7 +1067,7 @@
         "lastName": "Dhaneshwursingh",
         "fullName": "Purdaseea Dhaneshwursingh",
         "bio": "Dhanesh is a seasoned DevOps professional recognized for his results-driven approach, cloud integration, and operations expertise. He is solutioning and automating cloud infrastructure solutions to optimize efficiency and streamline deployment processes. With meticulous attention to detail and a vibrant drive for innovation, he consistently delivers impactful solutions.",
-        "tagLine": "Expert DevOps Engineer",
+        "tagLine": "DevOps",
         "profilePicture": "65f3-400o400o1-7oHbkHhX9hc9oPxmMM6d7S.jpg",
         "sessions": [
             {
@@ -1063,8 +1086,8 @@
         "lastName": "Ballgobin",
         "fullName": "Rajendra Ballgobin",
         "bio": "10+ year with Angular Eco-system. Always curious about how it works.\r\n#TeamPlayer #Angular #AvidLearner #NodeDeveloper #Blogger\r\n#React #NextJS #NestJS",
-        "tagLine": "Tech Lead (Maureva)",
-        "profilePicture": "df3c-400o400o1-YVMJLrbWfwxU5mB8PMrAau.jpg",
+        "tagLine": "Tech Lead",
+        "profilePicture": "ff65-400o400o1-ssnGy5QuuJme8rYGJMd1rc.jpg",
         "sessions": [
             {
                 "id": 628992,
@@ -1208,6 +1231,10 @@
                 "name": "The Frontend Developer Career Path"
             },
             {
+                "id": 702256,
+                "name": "Let's build a web app to monitor power outages in Mauritius, using Nuxt3 + TypeScript + TailwindCSS"
+            },
+            {
                 "id": 639942,
                 "name": "Lightning Talks 2024"
             }
@@ -1343,6 +1370,25 @@
             {
                 "id": 641043,
                 "name": "Next-Gen Unleashed: Pioneering Integration Excellence with Open Source Empowerment"
+            }
+        ],
+        "isTopSpeaker": false,
+        "links": [],
+        "questionAnswers": [],
+        "categories": []
+    },
+    {
+        "id": "b48c0035-d7bd-4c3f-9413-ceed6f005598",
+        "firstName": "Umme Faatimah-Iz-Zaahra",
+        "lastName": "Mujore",
+        "fullName": "Umme Faatimah-Iz-Zaahra Mujore",
+        "bio": "Zaahra is a forward-thinking Software Engineer who develops innovative solutions and navigates the entrepreneurial tech landscape. As an ambassador for Google's Womentech Makers, she offers mentorship and writes technical articles to advance tech education. Additionally, Zaahra provides guidance under the Google Developer Student Clubs initiative. Known for her successful orchestration of tech workshops, she is deeply committed to mentoring individuals in the tech community. Her public speaking engagements highlight her dedication to inspiring young women in technology and addressing key issues within the industry.",
+        "tagLine": "Software Engineer| Google Women Techmakers | Google Developer Student Clubs Mentor ",
+        "profilePicture": "864e-400o400o1-KArhbd63GNBQDHdDXP4kqz.jpg",
+        "sessions": [
+            {
+                "id": 703201,
+                "name": "Leveraging Generative AI in Mobile Applications"
             }
         ],
         "isTopSpeaker": false,

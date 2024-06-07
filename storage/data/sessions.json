@@ -153,6 +153,30 @@
             },
             {
                 "questionAnswers": [],
+                "id": "703201",
+                "title": "Leveraging Generative AI in Mobile Applications",
+                "description": "Join me as I delve into the cutting-edge world of Generative AI and its application in mobile development. This session will guide you through the practical aspects of incorporating AI technologies into mobile apps, with a special focus on Flutter. Learn how to design and implement AI-driven chatbots and enhance user interactions in real-world scenarios. Whether you\u2019re looking to stay ahead in the industry or simply interested in the potential of AI in mobile apps, this talk will provide valuable insights and actionable strategies.",
+                "startsAt": "2024-07-18T11:00:00",
+                "endsAt": "2024-07-18T11:45:00",
+                "isServiceSession": false,
+                "isPlenumSession": false,
+                "speakers": [
+                    {
+                        "id": "b48c0035-d7bd-4c3f-9413-ceed6f005598",
+                        "name": "Umme Faatimah-Iz-Zaahra Mujore"
+                    }
+                ],
+                "categories": [],
+                "roomId": 48854,
+                "room": "Space Invaders (Mezzanine)",
+                "liveUrl": null,
+                "recordingUrl": null,
+                "status": "Accepted",
+                "isInformed": true,
+                "isConfirmed": true
+            },
+            {
+                "questionAnswers": [],
                 "id": "619960",
                 "title": "What's up AWS?",
                 "description": "What's up AWS? takes a look at the latest technologies released by AWS as well as features that have been added to complement existing services.",
@@ -278,6 +302,30 @@
                 "status": "Accepted",
                 "isInformed": true,
                 "isConfirmed": true
+            },
+            {
+                "questionAnswers": [],
+                "id": "703541",
+                "title": "Demystifying Explainable AI (XAI): Why It Matters and How to Implement It",
+                "description": "This session unveils the secrets of Explainable AI (XAI), helping you understand why AI models behave the way they do. Learn practical techniques and code examples to implement XAI in your projects, building trustworthy and transparent AI applications.",
+                "startsAt": "2024-07-18T12:00:00",
+                "endsAt": "2024-07-18T12:45:00",
+                "isServiceSession": false,
+                "isPlenumSession": false,
+                "speakers": [
+                    {
+                        "id": "efea1a1f-c90b-4cd0-b180-12a5e706178b",
+                        "name": "Pranav Gupta Chummun"
+                    }
+                ],
+                "categories": [],
+                "roomId": 48854,
+                "room": "Space Invaders (Mezzanine)",
+                "liveUrl": null,
+                "recordingUrl": null,
+                "status": "Accepted",
+                "isInformed": true,
+                "isConfirmed": false
             },
             {
                 "questionAnswers": [],
@@ -453,6 +501,30 @@
             },
             {
                 "questionAnswers": [],
+                "id": "702756",
+                "title": "CSS in 2024: What\u2019s Cool in Web and What\u2019s Old School?",
+                "description": "This session is perfect for web developers who want to stay up-to-date with the latest trends and tools in CSS. We'll dive into new features like :has, container queries, view transitions, and scroll-driven animations, showing you how to use them to create amazing web experiences.\r\n\r\nWe\u2019ll also take a fun look back at some older techniques. Through practical examples, you'll see exactly how to implement the new stuff and understand why some old methods are best left behind. Whether you're looking to polish your skills or just curious about what's new in CSS, this talk will give you the insights you need to keep your web designs fresh and modern!",
+                "startsAt": "2024-07-18T14:00:00",
+                "endsAt": "2024-07-18T14:45:00",
+                "isServiceSession": false,
+                "isPlenumSession": false,
+                "speakers": [
+                    {
+                        "id": "30146071-58d6-4f67-bcef-f0ad56f63fdf",
+                        "name": "Ophelia Boamah Ampoh"
+                    }
+                ],
+                "categories": [],
+                "roomId": 48854,
+                "room": "Space Invaders (Mezzanine)",
+                "liveUrl": null,
+                "recordingUrl": null,
+                "status": "Accepted",
+                "isInformed": true,
+                "isConfirmed": true
+            },
+            {
+                "questionAnswers": [],
                 "id": "640849",
                 "title": "You do not know about JavaScript Objects",
                 "description": "JavaScript objects are complex. Perhaps you do not know enough about JavaScript objects. Let us find that in this live coding based talk\r\nPerhaps you do not know enough about JavaScript objects or I do not know enough about JavaScript objects.  Let us settle this debate in this talk. To start with, we will first settle debate on whether JavaScript is an Object Oriented Language or prototype based language. Since, we do not have class (yes in ECMA 6, there is a keyword class syntax introduced but that is not a real class anyway) then how objects are created? \r\nAnswer of all above questions lie in understanding of following concepts, \r\n\u2022\tDifferent ways of JavaScript object creation\r\n\u2022\tprototypes and prototype chain\r\n\u2022\tthis keyword \r\n\u2022\t__proto__\r\nThis session will simplify these truly vital and the most important topics of JavaScript language. As a starter, JavaScript is a prototype based language in which object is linked by another object, and in order to do that it creates a prototype chain. Having a good understanding of prototype is required to write real JavaScript applications or to work effectively with popular JavaScript Frameworks. \r\nThis talk will be combination of live coding and visualization of concepts as drawing on the white board. At the end of the talk, you will have good understanding of following:\r\n1.\tDifferent ways of creating JavaScript objects such as:  Object Literals, Constructor invocation pattern ,Object.Create() method , and using class.\r\n2.\tAbout object property descriptors \r\n3.\tDetermining value of \u2018this\u2019 using different invocation patterns\r\n4.\tBreaking prototype, constructor, and __proto__\r\nHaving good understanding of above concept helps you to write better JavaScript application. \r\n\r\n\r\nIt is one of my most popular talk among developers in India.  Does not matter where I have delivered it, It got good rating. We all just assume that we know JavaScript as a language, but most of the time, we do not. For example,  if foo is a function in JavaScript then what is output of foo.prototype.constructor.prototype.constructor.prototype.__proto__  . Give your audience opportunity to learn mystery of JavaScript through this talk. I explain it on white board like we learnt quadratic equation n school math.\r\n\r\n",
@@ -527,7 +599,7 @@
                 "questionAnswers": [],
                 "id": "639063",
                 "title": "Building Robust and Scalable RESTful APIs with Laravel 11",
-                "description": "RESTful API Development with Laravel: Exploring how to build robust and scalable RESTful APIs using Laravel's built-in features and popular packages like Laravel Passport.\"\r\n\r\nIn this presentation, we delve into the dynamic world of RESTful API development utilizing the power and versatility of Laravel, one of the most popular PHP frameworks. Whether you're a seasoned Laravel developer or new to the framework, this session offers valuable insights and practical techniques for crafting APIs that are not only robust but also highly scalable.\r\n",
+                "description": "Join me for an in-depth session on API development with Laravel, the powerful PHP framework. This presentation will guide you through setting up a Laravel API project, building RESTful APIs, and leveraging advanced features like middleware, authentication, and Eloquent ORM. Learn best practices for performance optimization, security, documentation, and testing. Perfect for developers looking to enhance their API skills with Laravel, this session promises practical insights and interactive discussions to help you build robust, scalable, and secure APIs.",
                 "startsAt": "2024-07-18T15:00:00",
                 "endsAt": "2024-07-18T15:45:00",
                 "isServiceSession": false,
@@ -793,9 +865,33 @@
             },
             {
                 "questionAnswers": [],
+                "id": "702256",
+                "title": "Let's build a web app to monitor power outages in Mauritius, using Nuxt3 + TypeScript + TailwindCSS",
+                "description": "In this workshop organized by frontend.mu, Sandeep Ramgolam, Cedric Poilly, Kushul Soomaree and the frontend coders team will guide you through creating a web app using Nuxt 3 and TailwindCSS to monitor power outages in Mauritius. \r\n\r\nWe will aim to build it from scratch and deploy it !\r\n\r\nYou are encouraged to bring your laptop and code along. At the end of the workshop you would have built your own web app that has your unique style and even deploy it on the internet.",
+                "startsAt": "2024-07-19T10:00:00",
+                "endsAt": "2024-07-19T10:45:00",
+                "isServiceSession": false,
+                "isPlenumSession": false,
+                "speakers": [
+                    {
+                        "id": "d802c569-2764-4a8c-ac90-4dec8e3c3f41",
+                        "name": "Sandeep Ramgolam"
+                    }
+                ],
+                "categories": [],
+                "roomId": 43507,
+                "room": "Pac Man (Right: User Group)",
+                "liveUrl": null,
+                "recordingUrl": null,
+                "status": "Accepted",
+                "isInformed": true,
+                "isConfirmed": true
+            },
+            {
+                "questionAnswers": [],
                 "id": "636834",
                 "title": "Kubernetes Bootcamp",
-                "description": "Are you ready to learn Kubernetes, the leading container orchestration platform? Join our Kubernetes Bootcamp and dive deep into containerization, Kubernetes architecture, deployment, scaling, and management of containerized applications. Through a hands-on lab, you'll gain practical experience with essential tools like kubectl and Helm. This bootcamp is perfect for developers, DevOps engineers, and IT professionals eager to enhance their cloud-native application management skills. By the end, you'll be proficient in deploying, managing, and scaling applications in a Kubernetes environment.\r\n\r\nYou will also learn about the Cloud Native Computing Foundation (CNCF) and our local chapter.",
+                "description": "Are you ready to learn Kubernetes, the leading container orchestration platform? Join our Kubernetes Bootcamp and dive deep into containerization, Kubernetes architecture, deployment, scaling, and management of containerized applications. Through a hands-on lab, you'll gain practical experience with essential tools like kubectl and Helm. This bootcamp is perfect for developers, DevOps engineers, and IT professionals eager to enhance their cloud-native application management skills. By the end, you'll be proficient in deploying, managing, and scaling applications in a Kubernetes environment.\r\n\r\nYou will also learn about the Cloud Native Computing Foundation (CNCF) and our local chapter.\r\n\r\nAttendees are requested to bring their laptops. However, they are asked to kindly leave their servers at home! Those will be provided \"sur-place\"!",
                 "startsAt": "2024-07-19T10:00:00",
                 "endsAt": "2024-07-19T12:25:00",
                 "isServiceSession": false,
@@ -1050,7 +1146,7 @@
                 "isPlenumSession": false,
                 "speakers": [
                     {
-                        "id": "6720e7b3-9121-4e0a-983d-d8515d756fb1",
+                        "id": "efea1a1f-c90b-4cd0-b180-12a5e706178b",
                         "name": "Pranav Gupta Chummun"
                     }
                 ],
@@ -1490,7 +1586,7 @@
                         "name": "Riyad Dhuny"
                     },
                     {
-                        "id": "6720e7b3-9121-4e0a-983d-d8515d756fb1",
+                        "id": "efea1a1f-c90b-4cd0-b180-12a5e706178b",
                         "name": "Pranav Gupta Chummun"
                     }
                 ],
