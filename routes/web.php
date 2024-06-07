@@ -16,6 +16,10 @@ Route::get('/community', function () {
     return view('community');
 });
 
+Route::get('/agenda', function () {
+    return view('index');
+});
+
 Route::get('/speakers', [SpeakersController::class, 'index'])->name('speakers');
 Route::get('/speaker/{id}', [SpeakerController::class, 'searchById'])->name('speaker');
 
