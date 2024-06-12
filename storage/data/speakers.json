@@ -217,6 +217,25 @@
         "categories": []
     },
     {
+        "id": "ab15357e-3099-4822-8476-ba522cf5ae86",
+        "firstName": "Cedric",
+        "lastName": "Poilly",
+        "fullName": "Cedric Poilly",
+        "bio": "I build web things for my clients and my viewers on stream.",
+        "tagLine": "Web Developer | Streamer",
+        "profilePicture": "9ea3-400o400o1-hpHfW66QZh6vP8AdhghFed.jpg",
+        "sessions": [
+            {
+                "id": 702256,
+                "name": "Let's build a web app to monitor power outages in Mauritius, using Nuxt3 + TypeScript + TailwindCSS"
+            }
+        ],
+        "isTopSpeaker": false,
+        "links": [],
+        "questionAnswers": [],
+        "categories": []
+    },
+    {
         "id": "ad52feeb-b072-4185-973f-0a02857ae497",
         "firstName": "Cedric",
         "lastName": "Poottaren",
@@ -373,6 +392,25 @@
             {
                 "id": 640914,
                 "name": "Democratizing AI: Simplifying Solution Development for Non-Technical Users"
+            }
+        ],
+        "isTopSpeaker": false,
+        "links": [],
+        "questionAnswers": [],
+        "categories": []
+    },
+    {
+        "id": "f665c33a-41e6-49f0-bad4-0bb8b2794d3d",
+        "firstName": "Dominique",
+        "lastName": "Theodore",
+        "fullName": "Dominique Theodore",
+        "bio": "Dominique Theodore is an aeronautical engineer by trade and IT consultant with a diverse and dynamic career spanning over a decade.  Co-founder of the Python Mauritius User Group, Dominique is a keen advocate of the Python language and he is a frequent speaker at local developer meet-ups. His current interests include web development, AI and Machine Learning.",
+        "tagLine": "Software Developer",
+        "profilePicture": "be03-400o400o1-M4Mw7pE9QNRvdsV94yRzbA.jpg",
+        "sessions": [
+            {
+                "id": 706098,
+                "name": "Introduction to Retrieval Augmented Generation (RAG) with Python"
             }
         ],
         "isTopSpeaker": false,
@@ -579,8 +617,8 @@
         "firstName": "Jeshta",
         "lastName": "Bhoyedhur",
         "fullName": "Jeshta Bhoyedhur",
-        "bio": "Senior Software Engineer at  Publicis Global Delivery. I work both with Php frameworks and Golang.\r\n",
-        "tagLine": "Senior Software Engineer, Publicis Global Delivery",
+        "bio": "Senior Software Engineer at  Novity Consulting Ltd. I work both with Php frameworks and Golang.\r\n",
+        "tagLine": "Senior Software Engineer, Novity Consulting Ltd",
         "profilePicture": "b60b-400o400o1-9A3twxACFewT9bTBrBJYhg.jpg",
         "sessions": [
             {

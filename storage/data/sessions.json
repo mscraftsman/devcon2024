@@ -876,6 +876,10 @@
                     {
                         "id": "d802c569-2764-4a8c-ac90-4dec8e3c3f41",
                         "name": "Sandeep Ramgolam"
+                    },
+                    {
+                        "id": "ab15357e-3099-4822-8476-ba522cf5ae86",
+                        "name": "Cedric Poilly"
                     }
                 ],
                 "categories": [],
@@ -941,17 +945,17 @@
             },
             {
                 "questionAnswers": [],
-                "id": "637076",
-                "title": "Securing MariaDB: Essentials of Encryption, Protection, and Access",
-                "description": "Join us for a concise, impactful session designed for professionals seeking to elevate their MariaDB database security. This session shall cover the essentials of safeguarding your data, including encryption techniques for data at rest, strategies to protect data in transit, and robust access control mechanisms. Whether you're an administrator, developer, or IT security enthusiast, this presentation will arm you with practical insights and actionable steps to fortify your MariaDB databases against threats. Get ready to dive into the world of MariaDB security, demystify complex concepts, and walk away with the knowledge to implement best practices in your organization. Plus, stay engaged for a lively Q&A session where your questions bring depth to the discussion. Secure your spot and empower your database security posture with confidence!",
+                "id": "640940",
+                "title": "What makes software project management different?",
+                "description": "The five fundamental project management processes around initiation, planning, execution, monitoring, and closure are applicable to managing different projects. \r\n\r\nThe requirements and nature of software projects, however, require a unique blend of technical knowledge, adaptability, domain knowledge and people skills to navigate the intricacies of software development. \r\n\r\nIn this session, we will explore the practical complexities that software projects involve, and how to navigate through these.",
                 "startsAt": "2024-07-19T11:00:00",
                 "endsAt": "2024-07-19T11:45:00",
                 "isServiceSession": false,
                 "isPlenumSession": false,
                 "speakers": [
                     {
-                        "id": "ba3958ec-7d08-4845-bcb5-2e1774318932",
-                        "name": "Girish Mahabir"
+                        "id": "cfe6968c-e225-430a-8975-0466f2abbd04",
+                        "name": "Ashna Abeeluck-Unnuth"
                     }
                 ],
                 "categories": [],
@@ -1405,6 +1409,30 @@
             },
             {
                 "questionAnswers": [],
+                "id": "706098",
+                "title": "Introduction to Retrieval Augmented Generation (RAG) with Python",
+                "description": "We present the fundamentals of RAG and how it can help overcome the shortcomings of standalone LLMs. A few basic examples of RAG will be presented using Python and LlamaIndex, a framework for LLM applications. It is recommended that attendees have an OpenAI account with credits so that they can implement the examples on their own machine.",
+                "startsAt": "2024-07-19T15:00:00",
+                "endsAt": "2024-07-19T15:45:00",
+                "isServiceSession": false,
+                "isPlenumSession": false,
+                "speakers": [
+                    {
+                        "id": "f665c33a-41e6-49f0-bad4-0bb8b2794d3d",
+                        "name": "Dominique Theodore"
+                    }
+                ],
+                "categories": [],
+                "roomId": 43507,
+                "room": "Pac Man (Right: User Group)",
+                "liveUrl": null,
+                "recordingUrl": null,
+                "status": "Accepted",
+                "isInformed": true,
+                "isConfirmed": false
+            },
+            {
+                "questionAnswers": [],
                 "id": "637962",
                 "title": "Et si on parlait \"Qualit\u00e9 Web\"",
                 "description": "Un site web se doit \u00eatre efficace et r\u00e9pondre aux exigences des utilisateurs. Comment arriver \u00e0 ce but ? Heureusement que des normes existent dans ce sens et nous allons justement parler d'un des ces normes, le mod\u00e8le \"VPTCS\" .. mais pas que, nous allons aussi pr\u00e9senter la checklist Opquast, une checklist de 240 r\u00e8gles, \u00e9labor\u00e9e pour permettre v\u00e9rifier\/valider que son site convient bien aux normes de qualit\u00e9 du web. ",
@@ -1601,30 +1629,6 @@
             },
             {
                 "questionAnswers": [],
-                "id": "640940",
-                "title": "What makes software project management different?",
-                "description": "The five fundamental project management processes around initiation, planning, execution, monitoring, and closure are applicable to managing different projects. \r\n\r\nThe requirements and nature of software projects, however, require a unique blend of technical knowledge, adaptability, domain knowledge and people skills to navigate the intricacies of software development. \r\n\r\nIn this session, we will explore the practical complexities that software projects involve, and how to navigate through these.",
-                "startsAt": "2024-07-20T10:00:00",
-                "endsAt": "2024-07-20T10:45:00",
-                "isServiceSession": false,
-                "isPlenumSession": false,
-                "speakers": [
-                    {
-                        "id": "cfe6968c-e225-430a-8975-0466f2abbd04",
-                        "name": "Ashna Abeeluck-Unnuth"
-                    }
-                ],
-                "categories": [],
-                "roomId": 48853,
-                "room": "Street Fighter (Left Back)",
-                "liveUrl": null,
-                "recordingUrl": null,
-                "status": "Accepted",
-                "isInformed": true,
-                "isConfirmed": true
-            },
-            {
-                "questionAnswers": [],
                 "id": "632706",
                 "title": "Exploring the Power of Minimal APIs in .NET 8",
                 "description": "Join us for an insightful talk delving into the revolutionary Minimal APIs introduced in .NET 6. In this session, we'll explore how Minimal APIs streamline the process of building lightweight web APIs with minimal ceremony, enabling developers to quickly create efficient and scalable solutions. We'll dive into the key features of .NET 8 and demonstrate how Minimal APIs offer a more concise and expressive way to develop APIs compared to traditional approaches. Whether you're a seasoned .NET developer or new to the ecosystem, this talk will provide valuable insights and practical examples to empower you in leveraging the full potential of Minimal APIs in your projects. Don't miss this opportunity to stay ahead of the curve and elevate your .NET development skills!",
@@ -1789,6 +1793,30 @@
                 "categories": [],
                 "roomId": 43506,
                 "room": "Tetris (Left Front)",
+                "liveUrl": null,
+                "recordingUrl": null,
+                "status": "Accepted",
+                "isInformed": true,
+                "isConfirmed": true
+            },
+            {
+                "questionAnswers": [],
+                "id": "637076",
+                "title": "Securing MariaDB: Essentials of Encryption, Protection, and Access",
+                "description": "Join us for a concise, impactful session designed for professionals seeking to elevate their MariaDB database security. This session shall cover the essentials of safeguarding your data, including encryption techniques for data at rest, strategies to protect data in transit, and robust access control mechanisms. Whether you're an administrator, developer, or IT security enthusiast, this presentation will arm you with practical insights and actionable steps to fortify your MariaDB databases against threats. Get ready to dive into the world of MariaDB security, demystify complex concepts, and walk away with the knowledge to implement best practices in your organization. Plus, stay engaged for a lively Q&A session where your questions bring depth to the discussion. Secure your spot and empower your database security posture with confidence!",
+                "startsAt": "2024-07-20T12:00:00",
+                "endsAt": "2024-07-20T12:45:00",
+                "isServiceSession": false,
+                "isPlenumSession": false,
+                "speakers": [
+                    {
+                        "id": "ba3958ec-7d08-4845-bcb5-2e1774318932",
+                        "name": "Girish Mahabir"
+                    }
+                ],
+                "categories": [],
+                "roomId": 48853,
+                "room": "Street Fighter (Left Back)",
                 "liveUrl": null,
                 "recordingUrl": null,
                 "status": "Accepted",

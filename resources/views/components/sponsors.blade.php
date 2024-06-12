@@ -114,10 +114,13 @@
             <img src="/images/sponsor-tiers/bronze.svg" class="animate-flip-horizontal h-8 lg:h-10" />
         </div>
         <div class="mt-8 lg:mt-16 max-w-4xl mx-auto grid place-items-center">
-            <div class="flex flex-col lg:flex-row gap-8 lg:gap-16">
+            <div class="flex flex-col items-center lg:flex-row gap-8 lg:gap-16">
                 <img src="/images/sponsors/ios.png" class="h-16 lg:h-20 hover:scale-105 transition-all duration-500" />
                 <a href="http://www.infomil.mu/" target="_blank">
                     <img src="/images/sponsors/infomil.png" class="h-12 lg:h-16 hover:scale-105 transition-all duration-500" />
+                </a>
+                <a href="https://www.businessdecision.com" target="_blank">
+                    <img src="/images/sponsors/business_decision.png" class="h-6 lg:h-8 hover:scale-105 transition-all duration-500" />
                 </a>
             </div>
         </div>
