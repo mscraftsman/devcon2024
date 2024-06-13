@@ -5,7 +5,7 @@
 /public/storage
 /public/speaker
 /storage/*.key
-/storage/data/
+/storage/data/*.json
 /vendor
 .env
 .env.backup
