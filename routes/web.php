@@ -24,7 +24,7 @@ Route::get('/community', function () {
 Route::get('/speakers', [SpeakersController::class, 'index'])->name('speakers');
 Route::get('/speaker/{id}', [SpeakerController::class, 'searchById'])->name('speaker');
 
-Route::get('/agenda/{id}', [AgendaController::class, 'searchById'])->name('session');
+Route::get('/agenda/{id}', [AgendaSingleController::class, 'searchSessionById'])->name('session');
 Route::get('/agenda', [AgendaController::class, 'index'])->name('agenda');
 
 require __DIR__.'/auth.php';

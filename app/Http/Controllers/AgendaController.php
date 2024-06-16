@@ -23,6 +23,8 @@ class AgendaController extends Controller
 
 				$roomNames = ['time', 'donkey-kong', 'tetris', 'street-fighter', 'pac-man', 'space-invaders'];
 				$time_range = [
+					'08:30',
+					'09:30',
 					'10:00',
 					'11:00',
 					'12:00',
@@ -31,9 +33,11 @@ class AgendaController extends Controller
 					'15:00',
 					'16:00',
 					'17:00',
+					'18:00',
 				];
 
 				$time_range_friday = [
+					'08:30',
 					'09:00',
 					'10:00',
 					'11:00',
@@ -43,9 +47,12 @@ class AgendaController extends Controller
 					'15:00',
 					'16:00',
 					'17:00',
+					'17:30',
+					'20:00',
 				];
 
 				$time_range_saturday = [
+					'08:30',
 					'09:00',
 					'10:00',
 					'11:00',

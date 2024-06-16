@@ -16,6 +16,13 @@ if (! function_exists('convertDateTimeToTime')) {
     }
 }
 
+if (! function_exists('stringToSlug')) {
+    function stringToSlug($string)
+    {
+        return Str::slug($string);
+    }
+}
+
 if (! function_exists('convertDateTime')) {
     function convertDateTime($dateTimeString)
     {
@@ -50,7 +57,7 @@ if (! function_exists('calculatePlacement')) {
     {
 
         $timeString = $session['startsAt'];
-        $room = $session['room'];
+        $room = stringToSlug($session['room']);
 
         $dateTime = new DateTime($timeString);
         $time = $dateTime->format('H:i');
@@ -101,7 +108,7 @@ if (! function_exists('calculatePlacementGridColumn')) {
     function calculatePlacementGridColumn($session, $rooms)
     {
 
-        $room = $session['room'];
+        $room = stringToSlug($session['room']);
 
         $grid_column_start = findRoomIndex($rooms, $room) + 1;
         $grid_column_end = $grid_column_start + 1;
