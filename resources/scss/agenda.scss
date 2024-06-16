@@ -71,12 +71,16 @@
 	position: relative;
 }
 
+.registration--block {
+	width: 1260px;
+}
+
 .track__session {
 	display: grid;
 	grid-template-columns: 70px repeat(5, 1fr);
 	// grid-template-rows: repeat(10, 120px);
 	grid-gap: 10px;
-	margin-top: 100px;
+	margin-top: 25px;
 }
 
 .cell {

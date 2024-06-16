@@ -2,8 +2,8 @@
   <div class="page--agenda" x-data="{ selectedOption: 'thursday' }">
 
     <section class="bg-slate-100">
-      <section class="pt-20 pb-10 max-w-4xl px-3 mb-7 mx-auto ">
-        <h2 class="text-center font-astronomus font-bold uppercase font-dm text-purple pt-10">Tropical Tech Revolution Unveiled</h2>
+      <section class="pt-5 pb-10 max-w-4xl px-3 mb-7 mx-auto ">
+        <h2 class="text-center font-astronomus font-bold uppercase font-dm text-purple pt-5">Tropical Tech Revolution Unveiled</h2>
         <h1 class="text-center mt-1 text-gray-700 font-astronomus uppercase font-bold mb-1 text-4xl sm:text-6xl ">Agenda</h1>
         <p class="text-center text-slate-400 font-dm max-w-3xl text-sm sm:text-lg">Get ready to immerse yourself in knowledge, connect with like-minded individuals, and embark on a journey of innovation and growth.</p>
       </section>
@@ -139,8 +139,9 @@
       </div>
     </section>
     <section class="mt-10 max-w-7xl px-2 mx-auto flex">
-
+      
       <div class="sessions__column">
+
         <div class="tracks__container grid grid-cols-5 gap-2 mb-10 ml-20 h-12" id="rooms-bar">
           <div class="track__title text-center bg-[#2F9ED9] text-white py-4 uppercase font-bold rounded-md">
             Donkey Kong
@@ -156,6 +157,15 @@
           </div>
           <div class="track__title text-center bg-[#2F9ED9] text-white py-4 uppercase font-bold rounded-md">
             Space Invaders
+          </div>
+        </div>
+
+        <div class="registration--block">
+          <div class="session__wrapper px-4 py-3 ml-20 mt-20 rounded-md bg-slate-100 block">
+            <div class="tile_start text-sm text-slate-500 mb-1 font-medium">
+              As from 08:30
+            </div>
+            <h3 class="font-bold text-md mb-2 text-purple ">Registration</h3>
           </div>
         </div>
 

@@ -2,6 +2,7 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\AgendaController;
+use App\Http\Controllers\AgendaSingleController;
 use App\Http\Controllers\SpeakerController;
 use App\Http\Controllers\SpeakersController;
 

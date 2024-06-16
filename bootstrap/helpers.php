@@ -82,7 +82,6 @@ if (! function_exists('findRoomIndex')) {
     }
 }
 
-
 if (! function_exists('calculatePlacementGridRow')) {
     function calculatePlacementGridRow($session, $time_range)
     {
@@ -94,6 +93,11 @@ if (! function_exists('calculatePlacementGridRow')) {
         $startsAtTime = $startsAtdateTime->format('H:i');
 
         $endsAtdateTime = new DateTime($endsAt);
+        // Create a DateInterval of 15 minutes
+        $interval = new DateInterval('PT15M');
+        // Add the interval to the DateTime object
+        $endsAtdateTime->add($interval);
+        // Format the time
         $endsAtTime = $endsAtdateTime->format('H:i');
 
         $grid_row_start = findTimeIndex($time_range, $startsAtTime) + 1;

@@ -1,5 +1,4 @@
-@extends('layouts.main')
-@section('content')
+<x-guest-layout>
 	<section class="mt-20 max-w-4xl py-5 px-3 mx-auto speaker">
 	@foreach ($session as $s)
 
@@ -26,7 +25,7 @@
 	</nav>
 
 	<div class="session__container mt-3">
-		<div class="pt-6 space-y-3">
+		<div class="pt-1 pb-10 space-y-3">
 			<div class="font-astronomus uppercase  font-bold text-purple mb-5 mt-3 text-center md:text-left text-xl sm:text-3xl ">
 				{{ $s['title'] }}
 			</div>
@@ -42,7 +41,7 @@
 					<a class="speaker--headshot flex items-center mb-2 {{$classAddition}} flex justify-center" href="/speaker/{{ $speaker['id'] }}">
 						<div class="circle-1">
 							<div class="circle-2">
-								<img src="{{ getSpeaker($speaker['id'])['profilePicture'] }}" class="" alt="{{$speaker['name']}}">
+								<img src="/speaker/{{ getSpeaker($speaker['id'])['profilePicture'] }}" class="" alt="{{$speaker['name']}}">
 							</div>
 						</div>
 						<div class="font-astronomus text-sm sm:text-lg font-bold text-slate-800 ml-3">{{ $speaker['name'] }}</div>
@@ -77,4 +76,4 @@
 
 	@endforeach
 	</section>
-@endsection
+</x-guest-layout>
