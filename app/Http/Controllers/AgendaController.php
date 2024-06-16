@@ -13,12 +13,12 @@ class AgendaController extends Controller
         $groupedSessionsBySlot = [];
 
         foreach ($sessions as $day) {
-					$dayGroup = $day['groupName'];
-					foreach ($day['sessions'] as $session) {
-							$room = $session['room'];
-							$id = $session['id'];
-							$groupedSessions[$dayGroup][$id] = $session;
-					}
+			$dayGroup = $day['groupName'];
+			foreach ($day['sessions'] as $session) {
+					$room = $session['room'];
+					$id = $session['id'];
+					$groupedSessions[$dayGroup][$id] = $session;
+			}
         }
 
 				$roomNames = ['time', 'donkey-kong', 'tetris', 'street-fighter', 'pac-man', 'space-invaders'];
