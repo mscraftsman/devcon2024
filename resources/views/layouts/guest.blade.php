@@ -104,7 +104,7 @@
 			/>
 
         <!-- Scripts -->
-        @vite(['resources/css/app.css', 'resources/js/app.js'])
+        @vite(['resources/css/app.css', 'resources/scss/app.scss', 'resources/js/app.js'])
 
         <!-- Google tag (gtag.js) -->
         <script async src="https://www.googletagmanager.com/gtag/js?id=G-TJ605QYMFP"></script>

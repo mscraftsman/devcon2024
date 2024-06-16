@@ -21,8 +21,19 @@ class AgendaController extends Controller
 					}
         }
 
-				$roomNames = ['time', 'andromeda', 'pandora', 'titan', 'tatooine'];
+				$roomNames = ['time', 'donkey-kong', 'tetris', 'street-fighter', 'pac-man', 'space-invaders'];
 				$time_range = [
+					'10:00',
+					'11:00',
+					'12:00',
+					'13:00',
+					'14:00',
+					'15:00',
+					'16:00',
+					'17:00',
+				];
+
+				$time_range_friday = [
 					'09:00',
 					'10:00',
 					'11:00',
@@ -31,10 +42,10 @@ class AgendaController extends Controller
 					'14:00',
 					'15:00',
 					'16:00',
+					'17:00',
 				];
 
-				$time_range_friday = [
-					'08:30',
+				$time_range_saturday = [
 					'09:00',
 					'10:00',
 					'11:00',
@@ -61,7 +72,7 @@ class AgendaController extends Controller
 				}
 
 				if (!empty($sessions)) {
-					return view('agenda', compact('groupedSessions', 'title', 'cellIds', 'cellIdsFriday', 'roomNames', 'time_range', 'time_range_friday'));
+					return view('agenda', compact('groupedSessions', 'title', 'cellIds', 'cellIdsFriday', 'roomNames', 'time_range', 'time_range_friday', 'time_range_saturday'));
 				}
 
 				if (empty($result)) {

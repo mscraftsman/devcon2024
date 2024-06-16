@@ -1,6 +1,7 @@
 <?php
 
 use Carbon\Carbon;
+use Illuminate\Support\Str;
 
 /**
  *
@@ -26,7 +27,7 @@ if (! function_exists('convertDateTime')) {
 if (! function_exists('generateGridTemplateAreas')) {
     function generateGridTemplateAreas($cellIds)
     {
-        $columns = 5;
+        $columns = 6;
         $rows = ceil(count($cellIds) / $columns);
 
         $gridTemplateAreas = '';

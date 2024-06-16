@@ -3,11 +3,11 @@
 @tailwind utilities;
 
 @layer base {
-    @font-face {
-      font-family: 'Pixel Emulator';
-      font-style: normal;
-      font-weight: 400;
-      font-display: swap;
-      src: url(/storage/fonts/Pixel-Emulator.woff2) format('woff2');
-    }
+  @font-face {
+    font-family: 'Pixel Emulator';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(/storage/fonts/Pixel-Emulator.woff2) format('woff2');
   }
+}

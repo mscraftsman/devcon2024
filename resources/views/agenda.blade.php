@@ -45,14 +45,14 @@
                       cursor-pointer
                       hover:text-gray-600
                       hover:bg-gray-200
-                      peer-checked:border-mustard
+                      peer-checked:border-yellow-400
                       peer-checked:border-2
-                      peer-checked:bg-mustard
+                      peer-checked:bg-yellow-400
                       peer-checked:text-black
                       peer-checked:hover:bg-white
                       peer-checked:hover:text-black
                       peer-checked:hover:border-2
-                      peer-checked:hover:border-mustard
+                      peer-checked:hover:border-yellow-400
                       ">
                 <div class="block">
                   <div class="w-full uppercase text-md font-bold">Thursday</div>
@@ -83,14 +83,14 @@
                       cursor-pointer
                       hover:text-gray-600
                       hover:bg-gray-200
-                      peer-checked:border-mustard
+                      peer-checked:border-yellow-400
                       peer-checked:border-2
-                      peer-checked:bg-mustard
+                      peer-checked:bg-yellow-400
                       peer-checked:text-black
                       peer-checked:hover:bg-white
                       peer-checked:hover:text-black
                       peer-checked:hover:border-2
-                      peer-checked:hover:border-mustard
+                      peer-checked:hover:border-yellow-400
                       ">
                 <div class="block">
                   <div class="w-full uppercase text-md font-bold">Friday</div>
@@ -121,14 +121,14 @@
                       cursor-pointer
                       hover:text-gray-600
                       hover:bg-gray-200
-                      peer-checked:border-mustard
+                      peer-checked:border-yellow-400
                       peer-checked:border-2
-                      peer-checked:bg-mustard
+                      peer-checked:bg-yellow-400
                       peer-checked:text-black
                       peer-checked:hover:bg-white
                       peer-checked:hover:text-black
                       peer-checked:hover:border-2
-                      peer-checked:hover:border-mustard
+                      peer-checked:hover:border-yellow-400
                       ">
                 <div class="block">
                   <div class="w-full uppercase text-md font-bold">Saturday</div>
@@ -141,18 +141,21 @@
     <section class="mt-10 max-w-7xl px-2 mx-auto flex">
 
       <div class="sessions__column">
-        <div class="tracks__container grid grid-cols-4 gap-2 mb-10 ml-20 h-12" id="rooms-bar">
-          <div class="track__title text-center bg-purple text-white py-4 uppercase font-bold rounded-md">
-            Andromeda
+        <div class="tracks__container grid grid-cols-5 gap-2 mb-10 ml-20 h-12" id="rooms-bar">
+          <div class="track__title text-center bg-[#2F9ED9] text-white py-4 uppercase font-bold rounded-md">
+            Donkey Kong
           </div>
-          <div class="track__title text-center bg-purple text-white py-4 uppercase font-bold rounded-md">
-            Pandora
+          <div class="track__title text-center bg-[#2F9ED9] text-white py-4 uppercase font-bold rounded-md">
+            Tetris
           </div>
-          <div class="track__title text-center bg-purple text-white py-4 uppercase font-bold rounded-md">
-            Titan
+          <div class="track__title text-center bg-[#2F9ED9] text-white py-4 uppercase font-bold rounded-md">
+            Street Fighter
           </div>
-          <div class="track__title text-center bg-purple text-white py-4 uppercase font-bold rounded-md">
-            Tatooine (UGs)
+          <div class="track__title text-center bg-[#2F9ED9] text-white py-4 uppercase font-bold rounded-md">
+            Pac Man
+          </div>
+          <div class="track__title text-center bg-[#2F9ED9] text-white py-4 uppercase font-bold rounded-md">
+            Space Invaders
           </div>
         </div>
 
@@ -162,7 +165,7 @@
               <div
                 class="time__track"
                 style="grid-area: {{ calculateTimePlacement($time) }}"
-              ><span class="time__tag px-2 py-2 bg-mustard font-bold center rounded-md inline-flex">
+              ><span class="time__tag px-2 py-2 bg-yellow-400 font-bold center rounded-md inline-flex">
                 {{$time}}
                 </span>
                 <div class="line"></div>
@@ -185,7 +188,7 @@
                     <div class="speaker text-sm mt-2">
                       @foreach($session['speakers'] as $key => $speaker)
                         <div class="speaker--headshot flex items-center mb-1">
-                          <img src="{{ getSpeaker($speaker['id'])['profilePicture'] }}" class="w-8 h-8 rounded-full mr-2" alt="{{$speaker['name']}}">
+                          <img src="/speaker/{{ getSpeaker($speaker['id'])['profilePicture'] }}" class="w-8 h-8 rounded-full mr-2" alt="{{$speaker['name']}}">
                           <div href="/speaker/{{ $speaker['id'] }}">{{ $speaker['name'] }}</div>
                         </div>
                       @endforeach
@@ -203,7 +206,7 @@
               <div
                 class="time__track"
                 style="grid-area: {{ calculateTimePlacement($time) }}"
-              ><span class="time__tag px-2 py-2 bg-mustard font-bold center rounded-md inline-flex">
+              ><span class="time__tag px-2 py-2 bg-yellow-400 font-bold center rounded-md inline-flex">
                 {{$time}}
                 </span>
                 <div class="line"></div>
@@ -226,7 +229,7 @@
                     <div class="speaker text-sm mt-2">
                       @foreach($session['speakers'] as $key => $speaker)
                         <div class="speaker--headshot flex items-center mb-1">
-                          <img src="{{ getSpeaker($speaker['id'])['profilePicture'] }}" class="w-8 h-8 rounded-full mr-2" alt="{{$speaker['name']}}">
+                          <img src="/speaker/{{ getSpeaker($speaker['id'])['profilePicture'] }}" class="w-8 h-8 rounded-full mr-2" alt="{{$speaker['name']}}">
                           <div href="/speaker/{{ $speaker['id'] }}">{{$speaker['name']}}</div>
                         </div>
                       @endforeach
@@ -240,11 +243,11 @@
 
         <div class="day--saturday--agenda" id="agenda-saturday" x-show="selectedOption == 'saturday'">
           <div class="track__session" style="grid-template-areas: {{ generateGridTemplateAreas($cellIdsFriday) }}">
-            @foreach($time_range_friday as $time)
+            @foreach($time_range_saturday as $time)
               <div
                 class="time__track"
                 style="grid-area: {{ calculateTimePlacement($time) }}"
-              ><span class="time__tag px-2 py-2 bg-mustard font-bold center rounded-md inline-flex">
+              ><span class="time__tag px-2 py-2 bg-yellow-400 font-bold center rounded-md inline-flex">
                 {{$time}}
                 </span>
                 <div class="line"></div>
@@ -256,7 +259,7 @@
                 @foreach($value as $key => $session)
                   <a
                       class="session__wrapper px-4 py-3 rounded-md bg-slate-100 block mb-3 hover:bg-slate-200 hover:drop-shadow-md transition-all hover:scale-105"
-                      style="grid-row: {{ calculatePlacementGridRow($session, $time_range_friday) }}; grid-column: {{ calculatePlacementGridColumn($session, $roomNames) }}"
+                      style="grid-row: {{ calculatePlacementGridRow($session, $time_range_saturday) }}; grid-column: {{ calculatePlacementGridColumn($session, $roomNames) }}"
                       data-room="{{ $session['room'] }}"
                       href="/agenda/{{ $session['id'] }}"
                       >
@@ -267,7 +270,7 @@
                     <div class="speaker text-sm mt-2">
                       @foreach($session['speakers'] as $key => $speaker)
                         <div class="speaker--headshot flex items-center mb-1">
-                          <img src="{{ getSpeaker($speaker['id'])['profilePicture'] }}" class="w-8 h-8 rounded-full mr-2" alt="{{$speaker['name']}}">
+                          <img src="/speaker/{{ getSpeaker($speaker['id'])['profilePicture'] }}" class="w-8 h-8 rounded-full mr-2" alt="{{$speaker['name']}}">
                           <div href="/speaker/{{ $speaker['id'] }}">{{$speaker['name']}}</div>
                         </div>
                       @endforeach

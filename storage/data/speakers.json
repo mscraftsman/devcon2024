@@ -14,7 +14,28 @@
             }
         ],
         "isTopSpeaker": false,
-        "links": [],
+        "links": [
+            {
+                "title": "Twitter",
+                "url": "https:\/\/twitter.com\/AbdallahRamsing",
+                "linkType": "Twitter"
+            },
+            {
+                "title": "LinkedIn",
+                "url": "https:\/\/www.linkedin.com\/in\/abdallah-yashir-ramsing-51a20782\/",
+                "linkType": "LinkedIn"
+            },
+            {
+                "title": "Blog",
+                "url": "https:\/\/www.abdallahyashir.com\/",
+                "linkType": "Blog"
+            },
+            {
+                "title": "Sessionize",
+                "url": "https:\/\/sessionize.com\/abdallah-ramsing",
+                "linkType": "Sessionize"
+            }
+        ],
         "questionAnswers": [],
         "categories": []
     },
@@ -33,7 +54,23 @@
             }
         ],
         "isTopSpeaker": false,
-        "links": [],
+        "links": [
+            {
+                "title": "Twitter",
+                "url": "https:\/\/twitter.com\/aditya_bholah",
+                "linkType": "Twitter"
+            },
+            {
+                "title": "Blog",
+                "url": "https:\/\/thecuriouschap.com",
+                "linkType": "Blog"
+            },
+            {
+                "title": "Sessionize",
+                "url": "https:\/\/sessionize.com\/aditya-bholah",
+                "linkType": "Sessionize"
+            }
+        ],
         "questionAnswers": [],
         "categories": []
     },
@@ -52,7 +89,13 @@
             }
         ],
         "isTopSpeaker": false,
-        "links": [],
+        "links": [
+            {
+                "title": "LinkedIn",
+                "url": "https:\/\/www.linkedin.com\/in\/ajmal\/",
+                "linkType": "LinkedIn"
+            }
+        ],
         "questionAnswers": [],
         "categories": []
     },
@@ -75,7 +118,28 @@
             }
         ],
         "isTopSpeaker": false,
-        "links": [],
+        "links": [
+            {
+                "title": "Twitter",
+                "url": "https:\/\/twitter.com\/Alex_with_a_B",
+                "linkType": "Twitter"
+            },
+            {
+                "title": "LinkedIn",
+                "url": "https:\/\/www.linkedin.com\/in\/alexandre-bissessur-b9986123a\/",
+                "linkType": "LinkedIn"
+            },
+            {
+                "title": "Blog",
+                "url": "https:\/\/alexbissessur.dev",
+                "linkType": "Blog"
+            },
+            {
+                "title": "Fediverse",
+                "url": "https:\/\/moris.social\/@AlexB",
+                "linkType": "Other"
+            }
+        ],
         "questionAnswers": [],
         "categories": []
     },
@@ -89,12 +153,47 @@
         "profilePicture": "a6c5-400o400o1-Wnq1VPsDKKj2oELo5D1KRY.jpg",
         "sessions": [
             {
+                "id": 703735,
+                "name": "Generative AI and Cybersecurity: Leveraging Gemini for Advanced Protection"
+            },
+            {
                 "id": 618340,
                 "name": "Securing the Fast Lane: Accelerating SOC Defenses with DevSecOps Magic"
             }
         ],
         "isTopSpeaker": false,
-        "links": [],
+        "links": [
+            {
+                "title": "X (Twitter)",
+                "url": "https:\/\/twitter.com\/AAnkshita",
+                "linkType": "Twitter"
+            },
+            {
+                "title": "LinkedIn",
+                "url": "https:\/\/www.linkedin.com\/in\/ankshita-m-22b762204",
+                "linkType": "LinkedIn"
+            },
+            {
+                "title": "Facebook",
+                "url": "https:\/\/www.facebook.com\/ankshita.808\/",
+                "linkType": "Facebook"
+            },
+            {
+                "title": "Blog",
+                "url": "https:\/\/medium.com\/@ankshita01",
+                "linkType": "Blog"
+            },
+            {
+                "title": "Company Website",
+                "url": "https:\/\/mcb.mu\/",
+                "linkType": "Company_Website"
+            },
+            {
+                "title": "Sessionize",
+                "url": "https:\/\/sessionize.com\/ankshita-m",
+                "linkType": "Sessionize"
+            }
+        ],
         "questionAnswers": [],
         "categories": []
     },
@@ -113,7 +212,23 @@
             }
         ],
         "isTopSpeaker": false,
-        "links": [],
+        "links": [
+            {
+                "title": "Twitter",
+                "url": "https:\/\/twitter.com\/asheshr",
+                "linkType": "Twitter"
+            },
+            {
+                "title": "LinkedIn",
+                "url": "https:\/\/www.linkedin.com\/in\/asheshr\/",
+                "linkType": "LinkedIn"
+            },
+            {
+                "title": "Blog",
+                "url": "https:\/\/asheshr.com",
+                "linkType": "Blog"
+            }
+        ],
         "questionAnswers": [],
         "categories": []
     },
@@ -151,7 +266,18 @@
             }
         ],
         "isTopSpeaker": false,
-        "links": [],
+        "links": [
+            {
+                "title": "LinkedIn",
+                "url": "https:\/\/www.linkedin.com\/in\/adhu\/",
+                "linkType": "LinkedIn"
+            },
+            {
+                "title": "Blog",
+                "url": "https:\/\/medium.com\/@atish.dhunnoo",
+                "linkType": "Blog"
+            }
+        ],
         "questionAnswers": [],
         "categories": []
     },
@@ -170,7 +296,28 @@
             }
         ],
         "isTopSpeaker": false,
-        "links": [],
+        "links": [
+            {
+                "title": "Twitter",
+                "url": "https:\/\/twitter.com\/Avishcybergeek",
+                "linkType": "Twitter"
+            },
+            {
+                "title": "LinkedIn",
+                "url": "https:\/\/www.linkedin.com\/in\/avishcheetaram\/",
+                "linkType": "LinkedIn"
+            },
+            {
+                "title": "Blog",
+                "url": "http:\/\/www.avishcheetaram.com\/",
+                "linkType": "Blog"
+            },
+            {
+                "title": "Sessionize",
+                "url": "https:\/\/sessionize.com\/avish-cheetaram",
+                "linkType": "Sessionize"
+            }
+        ],
         "questionAnswers": [],
         "categories": []
     },
@@ -189,7 +336,18 @@
             }
         ],
         "isTopSpeaker": false,
-        "links": [],
+        "links": [
+            {
+                "title": "LinkedIn",
+                "url": "https:\/\/www.linkedin.com\/in\/avishai-poorun\/",
+                "linkType": "LinkedIn"
+            },
+            {
+                "title": "Sessionize",
+                "url": "https:\/\/sessionize.com\/avishai--poorun",
+                "linkType": "Sessionize"
+            }
+        ],
         "questionAnswers": [],
         "categories": []
     },
@@ -203,6 +361,10 @@
         "profilePicture": "b191-400o400o1-aDGk6ei4sdFq5TWtUmLuVz.jpg",
         "sessions": [
             {
+                "id": 707725,
+                "name": "Event driven approach:  Make your app more predictable, maintainable and easier to debug (copy)"
+            },
+            {
                 "id": 621619,
                 "name": "Java or Kotlin. May the Best Bytecode win"
             },
@@ -212,7 +374,23 @@
             }
         ],
         "isTopSpeaker": false,
-        "links": [],
+        "links": [
+            {
+                "title": "Twitter",
+                "url": "https:\/\/twitter.com\/B__Kinya",
+                "linkType": "Twitter"
+            },
+            {
+                "title": "LinkedIn",
+                "url": "https:\/\/www.linkedin.com\/in\/beatrice-kinya-93307514b\/",
+                "linkType": "LinkedIn"
+            },
+            {
+                "title": "Sessionize",
+                "url": "https:\/\/sessionize.com\/beatrice-kinya",
+                "linkType": "Sessionize"
+            }
+        ],
         "questionAnswers": [],
         "categories": []
     },
@@ -231,7 +409,23 @@
             }
         ],
         "isTopSpeaker": false,
-        "links": [],
+        "links": [
+            {
+                "title": "Twitter",
+                "url": "https:\/\/twitter.com\/cedpoilly",
+                "linkType": "Twitter"
+            },
+            {
+                "title": "LinkedIn",
+                "url": "https:\/\/www.linkedin.com\/in\/cedric-poilly\/",
+                "linkType": "LinkedIn"
+            },
+            {
+                "title": "Sessionize",
+                "url": "https:\/\/sessionize.com\/cedricpoilly",
+                "linkType": "Sessionize"
+            }
+        ],
         "questionAnswers": [],
         "categories": []
     },
@@ -250,7 +444,28 @@
             }
         ],
         "isTopSpeaker": false,
-        "links": [],
+        "links": [
+            {
+                "title": "Twitter",
+                "url": "https:\/\/twitter.com\/cedricpoottaren",
+                "linkType": "Twitter"
+            },
+            {
+                "title": "LinkedIn",
+                "url": "https:\/\/www.linkedin.com\/in\/cedricpoottaren\/",
+                "linkType": "LinkedIn"
+            },
+            {
+                "title": "Blog",
+                "url": "https:\/\/cedric.poottaren.com",
+                "linkType": "Blog"
+            },
+            {
+                "title": "Sessionize",
+                "url": "https:\/\/sessionize.com\/cedric-poottaren",
+                "linkType": "Sessionize"
+            }
+        ],
         "questionAnswers": [],
         "categories": []
     },
@@ -269,7 +484,33 @@
             }
         ],
         "isTopSpeaker": false,
-        "links": [],
+        "links": [
+            {
+                "title": "Twitter",
+                "url": "https:\/\/twitter.com\/chervinebhiwoo",
+                "linkType": "Twitter"
+            },
+            {
+                "title": "LinkedIn",
+                "url": "https:\/\/www.linkedin.com\/in\/chervinebhiwoo\/",
+                "linkType": "LinkedIn"
+            },
+            {
+                "title": "Blog",
+                "url": "https:\/\/chervine.net",
+                "linkType": "Blog"
+            },
+            {
+                "title": "Company Website",
+                "url": "HTTPS:\/\/Mcb.mu",
+                "linkType": "Company_Website"
+            },
+            {
+                "title": "Sessionize",
+                "url": "https:\/\/sessionize.com\/chervine-bhiwoo",
+                "linkType": "Sessionize"
+            }
+        ],
         "questionAnswers": [],
         "categories": []
     },
@@ -311,7 +552,28 @@
             }
         ],
         "isTopSpeaker": false,
-        "links": [],
+        "links": [
+            {
+                "title": "Twitter",
+                "url": "https:\/\/twitter.com\/assertchris",
+                "linkType": "Twitter"
+            },
+            {
+                "title": "Blog",
+                "url": "https:\/\/assertchris.io",
+                "linkType": "Blog"
+            },
+            {
+                "title": "Company Website",
+                "url": "https:\/\/ringier.co.za",
+                "linkType": "Company_Website"
+            },
+            {
+                "title": "Sessionize",
+                "url": "https:\/\/sessionize.com\/assertchris",
+                "linkType": "Sessionize"
+            }
+        ],
         "questionAnswers": [],
         "categories": []
     },
@@ -334,7 +596,23 @@
             }
         ],
         "isTopSpeaker": false,
-        "links": [],
+        "links": [
+            {
+                "title": "LinkedIn",
+                "url": "https:\/\/www.linkedin.com\/in\/dawid-vd-merwe-curiousaboutyoutoo\/",
+                "linkType": "LinkedIn"
+            },
+            {
+                "title": "Company Website",
+                "url": "https:\/\/www.suse.com\/",
+                "linkType": "Company_Website"
+            },
+            {
+                "title": "Sessionize",
+                "url": "https:\/\/sessionize.com\/dawid-merwe",
+                "linkType": "Sessionize"
+            }
+        ],
         "questionAnswers": [],
         "categories": []
     },
@@ -353,7 +631,13 @@
             }
         ],
         "isTopSpeaker": false,
-        "links": [],
+        "links": [
+            {
+                "title": "LinkedIn",
+                "url": "https:\/\/www.linkedin.com\/in\/derecklamhonwah\/",
+                "linkType": "LinkedIn"
+            }
+        ],
         "questionAnswers": [],
         "categories": []
     },
@@ -376,7 +660,28 @@
             }
         ],
         "isTopSpeaker": false,
-        "links": [],
+        "links": [
+            {
+                "title": "Twitter",
+                "url": "https:\/\/twitter.com\/debug_mode",
+                "linkType": "Twitter"
+            },
+            {
+                "title": "LinkedIn",
+                "url": "https:\/\/www.linkedin.com\/in\/dhananjaykumar07\/",
+                "linkType": "LinkedIn"
+            },
+            {
+                "title": "Blog",
+                "url": "https:\/\/debugmode.net\/",
+                "linkType": "Blog"
+            },
+            {
+                "title": "Sessionize",
+                "url": "https:\/\/sessionize.com\/dhananjay-kumar",
+                "linkType": "Sessionize"
+            }
+        ],
         "questionAnswers": [],
         "categories": []
     },
@@ -395,7 +700,18 @@
             }
         ],
         "isTopSpeaker": false,
-        "links": [],
+        "links": [
+            {
+                "title": "LinkedIn",
+                "url": "https:\/\/www.linkedin.com\/in\/charles-adaikkalam\/",
+                "linkType": "LinkedIn"
+            },
+            {
+                "title": "Company Website",
+                "url": "https:\/\/www.zoho.com\/creator\/",
+                "linkType": "Company_Website"
+            }
+        ],
         "questionAnswers": [],
         "categories": []
     },
@@ -414,7 +730,13 @@
             }
         ],
         "isTopSpeaker": false,
-        "links": [],
+        "links": [
+            {
+                "title": "LinkedIn",
+                "url": "https:\/\/www.linkedin.com\/in\/dominique-theodore86\/",
+                "linkType": "LinkedIn"
+            }
+        ],
         "questionAnswers": [],
         "categories": []
     },
@@ -433,7 +755,13 @@
             }
         ],
         "isTopSpeaker": false,
-        "links": [],
+        "links": [
+            {
+                "title": "LinkedIn",
+                "url": "https:\/\/www.linkedin.com\/in\/eddylareine\/",
+                "linkType": "LinkedIn"
+            }
+        ],
         "questionAnswers": [],
         "categories": []
     },
@@ -452,7 +780,23 @@
             }
         ],
         "isTopSpeaker": false,
-        "links": [],
+        "links": [
+            {
+                "title": "Twitter",
+                "url": "https:\/\/twitter.com\/emmamurairi",
+                "linkType": "Twitter"
+            },
+            {
+                "title": "LinkedIn",
+                "url": "https:\/\/linkedin.com\/in\/emmanuel-murairi\/",
+                "linkType": "LinkedIn"
+            },
+            {
+                "title": "Blog",
+                "url": "https:\/\/medium.com\/@e.murairi",
+                "linkType": "Blog"
+            }
+        ],
         "questionAnswers": [],
         "categories": []
     },
@@ -471,7 +815,18 @@
             }
         ],
         "isTopSpeaker": false,
-        "links": [],
+        "links": [
+            {
+                "title": "LinkedIn",
+                "url": "https:\/\/www.linkedin.com\/in\/fabiennoellette89a998174\/",
+                "linkType": "LinkedIn"
+            },
+            {
+                "title": "Sessionize",
+                "url": "https:\/\/sessionize.com\/fabien-noellette",
+                "linkType": "Sessionize"
+            }
+        ],
         "questionAnswers": [],
         "categories": []
     },
@@ -509,7 +864,38 @@
             }
         ],
         "isTopSpeaker": false,
-        "links": [],
+        "links": [
+            {
+                "title": "Twitter",
+                "url": "https:\/\/twitter.com\/girishmahabir",
+                "linkType": "Twitter"
+            },
+            {
+                "title": "LinkedIn",
+                "url": "https:\/\/www.linkedin.com\/in\/girish-mahabir",
+                "linkType": "LinkedIn"
+            },
+            {
+                "title": "Facebook",
+                "url": "https:\/\/www.facebook.com\/girish.mahabir\/",
+                "linkType": "Facebook"
+            },
+            {
+                "title": "Instagram",
+                "url": "https:\/\/www.instagram.com\/girish_mahabir\/",
+                "linkType": "Instagram"
+            },
+            {
+                "title": "Company Website",
+                "url": "https:\/\/oceandba.com\/",
+                "linkType": "Company_Website"
+            },
+            {
+                "title": "Sessionize",
+                "url": "https:\/\/sessionize.com\/GirishMahabir",
+                "linkType": "Sessionize"
+            }
+        ],
         "questionAnswers": [],
         "categories": []
     },
@@ -528,7 +914,18 @@
             }
         ],
         "isTopSpeaker": false,
-        "links": [],
+        "links": [
+            {
+                "title": "LinkedIn",
+                "url": "https:\/\/www.linkedin.com\/in\/hastika-c-2561a5199\/",
+                "linkType": "LinkedIn"
+            },
+            {
+                "title": "Sessionize",
+                "url": "https:\/\/sessionize.com\/hastika-cheddy",
+                "linkType": "Sessionize"
+            }
+        ],
         "questionAnswers": [],
         "categories": []
     },
@@ -537,7 +934,7 @@
         "firstName": "Heema Luxmee Devi",
         "lastName": "Jhugroo",
         "fullName": "Heema Luxmee Devi Jhugroo",
-        "bio": "https:\/\/www.linkedin.com\/in\/heemajhugroo",
+        "bio": "As a Product Owner, I am dedicated to translating vision into reality by prioritising features, collaborating with stakeholders, and guiding development teams to deliver impactful solutions.\r\nhttps:\/\/www.linkedin.com\/in\/heemajhugroo",
         "tagLine": "Product Owner - iQera",
         "profilePicture": "2b88-400o400o1-BXHf3q5xmcLbs7WvWBCxo7.jpg",
         "sessions": [
@@ -547,7 +944,13 @@
             }
         ],
         "isTopSpeaker": false,
-        "links": [],
+        "links": [
+            {
+                "title": "LinkedIn",
+                "url": "https:\/\/www.linkedin.com\/in\/heemajhugroo",
+                "linkType": "LinkedIn"
+            }
+        ],
         "questionAnswers": [],
         "categories": []
     },
@@ -570,7 +973,28 @@
             }
         ],
         "isTopSpeaker": false,
-        "links": [],
+        "links": [
+            {
+                "title": "Twitter",
+                "url": "https:\/\/twitter.com\/IshSookun",
+                "linkType": "Twitter"
+            },
+            {
+                "title": "LinkedIn",
+                "url": "https:\/\/www.linkedin.com\/in\/ishsookun\/",
+                "linkType": "LinkedIn"
+            },
+            {
+                "title": "Blog",
+                "url": "https:\/\/sysadmin-journal.com",
+                "linkType": "Blog"
+            },
+            {
+                "title": "Sessionize",
+                "url": "https:\/\/sessionize.com\/ish-sookun",
+                "linkType": "Sessionize"
+            }
+        ],
         "questionAnswers": [],
         "categories": []
     },
@@ -589,7 +1013,23 @@
             }
         ],
         "isTopSpeaker": false,
-        "links": [],
+        "links": [
+            {
+                "title": "Twitter",
+                "url": "https:\/\/twitter.com\/EdogawaZain",
+                "linkType": "Twitter"
+            },
+            {
+                "title": "LinkedIn",
+                "url": "https:\/\/www.linkedin.com\/in\/jain-ramchurn\/",
+                "linkType": "LinkedIn"
+            },
+            {
+                "title": "Blog",
+                "url": "https:\/\/zain.mu",
+                "linkType": "Blog"
+            }
+        ],
         "questionAnswers": [],
         "categories": []
     },
@@ -627,7 +1067,23 @@
             }
         ],
         "isTopSpeaker": false,
-        "links": [],
+        "links": [
+            {
+                "title": "Twitter",
+                "url": "https:\/\/twitter.com\/jjeshta",
+                "linkType": "Twitter"
+            },
+            {
+                "title": "LinkedIn",
+                "url": "https:\/\/www.linkedin.com\/in\/jeshta-bhoyedhur\/",
+                "linkType": "LinkedIn"
+            },
+            {
+                "title": "Sessionize",
+                "url": "https:\/\/sessionize.com\/jeshta-bhoyedhur",
+                "linkType": "Sessionize"
+            }
+        ],
         "questionAnswers": [],
         "categories": []
     },
@@ -646,7 +1102,33 @@
             }
         ],
         "isTopSpeaker": false,
-        "links": [],
+        "links": [
+            {
+                "title": "X (Twitter)",
+                "url": "https:\/\/twitter.com\/jkirstaetter",
+                "linkType": "Twitter"
+            },
+            {
+                "title": "LinkedIn",
+                "url": "https:\/\/www.linkedin.com\/in\/jochenkirstaetter\/",
+                "linkType": "LinkedIn"
+            },
+            {
+                "title": "Blog",
+                "url": "https:\/\/jochen.kirstaetter.name\/",
+                "linkType": "Blog"
+            },
+            {
+                "title": "Company Website",
+                "url": "https:\/\/jochen.kirstaetter.name\/",
+                "linkType": "Company_Website"
+            },
+            {
+                "title": "Sessionize",
+                "url": "https:\/\/sessionize.com\/joki",
+                "linkType": "Sessionize"
+            }
+        ],
         "questionAnswers": [],
         "categories": []
     },
@@ -669,26 +1151,13 @@
             }
         ],
         "isTopSpeaker": false,
-        "links": [],
-        "questionAnswers": [],
-        "categories": []
-    },
-    {
-        "id": "608599c6-0472-4a70-b24b-38b0b7d74c90",
-        "firstName": "Kaneez Fatima",
-        "lastName": "Jowaheer",
-        "fullName": "Kaneez Fatima Jowaheer",
-        "bio": "I'm Kaneez Fatima Jowaheer, juggling roles in the tech world. At Spoon Consulting Ltd., I contribute as a Consultant. Also, I guide the Google Developer Student Clubs and represent Mauritius as one of the Ambassador for Google Women Techmakers. Excited to explore the tech landscape with you!",
-        "tagLine": "Consultant at Spoon Consulting Ltd, Women Techmakers Mauritius Ambassador, Google Developer Student Club Mentor",
-        "profilePicture": "f416-400o400o1-QjhJEoYY2s5hB4Cna1m6Rk.jpg",
-        "sessions": [
+        "links": [
             {
-                "id": 619730,
-                "name": "Unleashing the Power of Conversational AI"
+                "title": "LinkedIn",
+                "url": "https:\/\/www.linkedin.com\/in\/joel-ramirez-4b617376\/",
+                "linkType": "LinkedIn"
             }
         ],
-        "isTopSpeaker": false,
-        "links": [],
         "questionAnswers": [],
         "categories": []
     },
@@ -704,10 +1173,25 @@
             {
                 "id": 641096,
                 "name": "Navigating the Ethical Terrain: A Journey into Responsible AI"
+            },
+            {
+                "id": 641458,
+                "name": "Architects of Data: Unveiling the Role of Data Engineers"
             }
         ],
         "isTopSpeaker": false,
-        "links": [],
+        "links": [
+            {
+                "title": "LinkedIn",
+                "url": "https:\/\/www.linkedin.com\/in\/kavish-seechurn-78665a261\/",
+                "linkType": "LinkedIn"
+            },
+            {
+                "title": "Sessionize",
+                "url": "https:\/\/sessionize.com\/kavish-seechurn",
+                "linkType": "Sessionize"
+            }
+        ],
         "questionAnswers": [],
         "categories": []
     },
@@ -726,7 +1210,13 @@
             }
         ],
         "isTopSpeaker": false,
-        "links": [],
+        "links": [
+            {
+                "title": "LinkedIn",
+                "url": "https:\/\/www.linkedin.com\/in\/kelly-quirin\/",
+                "linkType": "LinkedIn"
+            }
+        ],
         "questionAnswers": [],
         "categories": []
     },
@@ -745,7 +1235,13 @@
             }
         ],
         "isTopSpeaker": false,
-        "links": [],
+        "links": [
+            {
+                "title": "LinkedIn",
+                "url": "https:\/\/www.linkedin.com\/in\/keshav-caleechurn-6683a2196",
+                "linkType": "LinkedIn"
+            }
+        ],
         "questionAnswers": [],
         "categories": []
     },
@@ -764,7 +1260,28 @@
             }
         ],
         "isTopSpeaker": false,
-        "links": [],
+        "links": [
+            {
+                "title": "Twitter",
+                "url": "https:\/\/twitter.com\/KherinB",
+                "linkType": "Twitter"
+            },
+            {
+                "title": "LinkedIn",
+                "url": "https:\/\/www.linkedin.com\/",
+                "linkType": "LinkedIn"
+            },
+            {
+                "title": "Blog",
+                "url": "https:\/\/kherin.com\/",
+                "linkType": "Blog"
+            },
+            {
+                "title": "Sessionize",
+                "url": "https:\/\/sessionize.com\/kherin",
+                "linkType": "Sessionize"
+            }
+        ],
         "questionAnswers": [],
         "categories": []
     },
@@ -783,7 +1300,13 @@
             }
         ],
         "isTopSpeaker": false,
-        "links": [],
+        "links": [
+            {
+                "title": "LinkedIn",
+                "url": "https:\/\/www.linkedin.com\/in\/krishna-humath-9786391b5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+                "linkType": "LinkedIn"
+            }
+        ],
         "questionAnswers": [],
         "categories": []
     },
@@ -802,7 +1325,33 @@
             }
         ],
         "isTopSpeaker": false,
-        "links": [],
+        "links": [
+            {
+                "title": "Twitter",
+                "url": "https:\/\/twitter.com\/kushul_soomaree",
+                "linkType": "Twitter"
+            },
+            {
+                "title": "LinkedIn",
+                "url": "https:\/\/www.linkedin.com\/in\/kushul-soomaree-515502147",
+                "linkType": "LinkedIn"
+            },
+            {
+                "title": "Instagram",
+                "url": "https:\/\/www.instagram.com\/kushul_\/",
+                "linkType": "Instagram"
+            },
+            {
+                "title": "Blog",
+                "url": "https:\/\/kushulsoomaree.netlify.com\/",
+                "linkType": "Blog"
+            },
+            {
+                "title": "Company Website",
+                "url": "https:\/\/kushulsoomaree.netlify.com",
+                "linkType": "Company_Website"
+            }
+        ],
         "questionAnswers": [],
         "categories": []
     },
@@ -821,7 +1370,38 @@
             }
         ],
         "isTopSpeaker": false,
-        "links": [],
+        "links": [
+            {
+                "title": "Twitter",
+                "url": "https:\/\/twitter.com\/kou1ack",
+                "linkType": "Twitter"
+            },
+            {
+                "title": "LinkedIn",
+                "url": "https:\/\/linkedin.com\/in\/aimelavideo\/",
+                "linkType": "LinkedIn"
+            },
+            {
+                "title": "Instagram",
+                "url": "https:\/\/www.instagram.com\/boycriedwoof\/",
+                "linkType": "Instagram"
+            },
+            {
+                "title": "Blog",
+                "url": "https:\/\/linktr.ee\/Be1Mari",
+                "linkType": "Blog"
+            },
+            {
+                "title": "Company Website",
+                "url": "https:\/\/www.lasentinelle.mu",
+                "linkType": "Company_Website"
+            },
+            {
+                "title": "Sessionize",
+                "url": "https:\/\/sessionize.com\/loic-forget",
+                "linkType": "Sessionize"
+            }
+        ],
         "questionAnswers": [],
         "categories": []
     },
@@ -840,7 +1420,18 @@
             }
         ],
         "isTopSpeaker": false,
-        "links": [],
+        "links": [
+            {
+                "title": "LinkedIn",
+                "url": "https:\/\/www.linkedin.com\/in\/lovelesh-beeharry\/",
+                "linkType": "LinkedIn"
+            },
+            {
+                "title": "Sessionize",
+                "url": "https:\/\/sessionize.com\/blovelesh",
+                "linkType": "Sessionize"
+            }
+        ],
         "questionAnswers": [],
         "categories": []
     },
@@ -859,7 +1450,13 @@
             }
         ],
         "isTopSpeaker": false,
-        "links": [],
+        "links": [
+            {
+                "title": "LinkedIn",
+                "url": "https:\/\/www.linkedin.com\/in\/maadhav-koonjul-5b7806184?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+                "linkType": "LinkedIn"
+            }
+        ],
         "questionAnswers": [],
         "categories": []
     },
@@ -878,7 +1475,23 @@
             }
         ],
         "isTopSpeaker": false,
-        "links": [],
+        "links": [
+            {
+                "title": "LinkedIn",
+                "url": "https:\/\/www.linkedin.com\/in\/mahima-ramgolam-240572138",
+                "linkType": "LinkedIn"
+            },
+            {
+                "title": "Blog",
+                "url": "https:\/\/mahima.ramgolam.com",
+                "linkType": "Blog"
+            },
+            {
+                "title": "Sessionize",
+                "url": "https:\/\/sessionize.com\/mahima-ramgolam",
+                "linkType": "Sessionize"
+            }
+        ],
         "questionAnswers": [],
         "categories": []
     },
@@ -887,9 +1500,9 @@
         "firstName": "Marius",
         "lastName": "Rabenarivo",
         "fullName": "Marius Rabenarivo",
-        "bio": "Software Engineer passionate about Computer Science (Solving Programming Challenges using C++, working on cryptocurrency projects using Clojure) and Software Engineering.",
-        "tagLine": "Software Engineer, Lambda Development Ltd",
-        "profilePicture": "ec5a-400o400o1-nCphc186o8zDcEHDhUM8jT.jpg",
+        "bio": "Computer Science enthusiast, Competitive Programmer using C++, currently working on cryptocurrency projects using Clojure and its ecosystem.",
+        "tagLine": "Computer Science enthusiast & Software Engineer @Lambda Development Ltd",
+        "profilePicture": "0d16-400o400o1-sQSNPju7dPo3nT3Yn4ABbd.jpg",
         "sessions": [
             {
                 "id": 641428,
@@ -897,7 +1510,23 @@
             }
         ],
         "isTopSpeaker": false,
-        "links": [],
+        "links": [
+            {
+                "title": "Twitter",
+                "url": "http:\/\/twitter.com\/MariusRabenariv",
+                "linkType": "Twitter"
+            },
+            {
+                "title": "LinkedIn",
+                "url": "https:\/\/www.linkedin.com\/in\/mariusrabenarivo\/",
+                "linkType": "LinkedIn"
+            },
+            {
+                "title": "Blog",
+                "url": "http:\/\/puchka.github.io",
+                "linkType": "Blog"
+            }
+        ],
         "questionAnswers": [],
         "categories": []
     },
@@ -916,7 +1545,28 @@
             }
         ],
         "isTopSpeaker": false,
-        "links": [],
+        "links": [
+            {
+                "title": "Twitter",
+                "url": "https:\/\/twitter.com\/MervynManilall",
+                "linkType": "Twitter"
+            },
+            {
+                "title": "LinkedIn",
+                "url": "https:\/\/www.linkedin.com\/in\/mervyn-manilall\/",
+                "linkType": "LinkedIn"
+            },
+            {
+                "title": "Blog",
+                "url": "https:\/\/mervyn-manilall.medium.com\/",
+                "linkType": "Blog"
+            },
+            {
+                "title": "Sessionize",
+                "url": "https:\/\/sessionize.com\/mervyn-manilall",
+                "linkType": "Sessionize"
+            }
+        ],
         "questionAnswers": [],
         "categories": []
     },
@@ -930,12 +1580,27 @@
         "profilePicture": "c537-400o400o1-PhNVMh2hzSbpsrCSbjWyUt.png",
         "sessions": [
             {
+                "id": 641571,
+                "name": "Digital Deception"
+            },
+            {
                 "id": 641594,
                 "name": "Inside the Mind of a Hacker: Ransomware Attack"
             }
         ],
         "isTopSpeaker": false,
-        "links": [],
+        "links": [
+            {
+                "title": "LinkedIn",
+                "url": "https:\/\/www.linkedin.com\/in\/namita-sham-bb8625210",
+                "linkType": "LinkedIn"
+            },
+            {
+                "title": "Sessionize",
+                "url": "https:\/\/sessionize.com\/namita-sham",
+                "linkType": "Sessionize"
+            }
+        ],
         "questionAnswers": [],
         "categories": []
     },
@@ -954,7 +1619,33 @@
             }
         ],
         "isTopSpeaker": false,
-        "links": [],
+        "links": [
+            {
+                "title": "Twitter",
+                "url": "https:\/\/twitter.com\/atech5122",
+                "linkType": "Twitter"
+            },
+            {
+                "title": "LinkedIn",
+                "url": "https:\/\/mu.linkedin.com\/in\/nathan-sunil-mangar-a43283133",
+                "linkType": "LinkedIn"
+            },
+            {
+                "title": "Blog",
+                "url": "https:\/\/chromico.dev",
+                "linkType": "Blog"
+            },
+            {
+                "title": "Company Website",
+                "url": "https:\/\/thundergear.io",
+                "linkType": "Company_Website"
+            },
+            {
+                "title": "Sessionize",
+                "url": "https:\/\/sessionize.com\/nathan-mangar",
+                "linkType": "Sessionize"
+            }
+        ],
         "questionAnswers": [],
         "categories": []
     },
@@ -970,10 +1661,25 @@
             {
                 "id": 640344,
                 "name": "Making E-Commerce chatbot in Creole"
+            },
+            {
+                "id": 640348,
+                "name": "What are the different jobs\/roles in a Tech Company"
             }
         ],
         "isTopSpeaker": false,
-        "links": [],
+        "links": [
+            {
+                "title": "Blog",
+                "url": "https:\/\/nayarweb.com\/blog\/",
+                "linkType": "Blog"
+            },
+            {
+                "title": "Sessionize",
+                "url": "https:\/\/sessionize.com\/nayar-joolfoo",
+                "linkType": "Sessionize"
+            }
+        ],
         "questionAnswers": [],
         "categories": []
     },
@@ -992,7 +1698,13 @@
             }
         ],
         "isTopSpeaker": false,
-        "links": [],
+        "links": [
+            {
+                "title": "LinkedIn",
+                "url": "https:\/\/www.linkedin.com\/in\/nirmala-saneechur-2303423",
+                "linkType": "LinkedIn"
+            }
+        ],
         "questionAnswers": [],
         "categories": []
     },
@@ -1011,7 +1723,28 @@
             }
         ],
         "isTopSpeaker": false,
-        "links": [],
+        "links": [
+            {
+                "title": "Twitter",
+                "url": "https:\/\/twitter.com\/omgokhool",
+                "linkType": "Twitter"
+            },
+            {
+                "title": "LinkedIn",
+                "url": "https:\/\/www.linkedin.com\/in\/omdeep-gokhool-75b66b167\/",
+                "linkType": "LinkedIn"
+            },
+            {
+                "title": "Blog",
+                "url": "https:\/\/omgokhool.com\/",
+                "linkType": "Blog"
+            },
+            {
+                "title": "Sessionize",
+                "url": "https:\/\/sessionize.com\/om-gokhool",
+                "linkType": "Sessionize"
+            }
+        ],
         "questionAnswers": [],
         "categories": []
     },
@@ -1030,7 +1763,18 @@
             }
         ],
         "isTopSpeaker": false,
-        "links": [],
+        "links": [
+            {
+                "title": "X (Twitter)",
+                "url": "https:\/\/twitter.com\/ophyboamah",
+                "linkType": "Twitter"
+            },
+            {
+                "title": "LinkedIn",
+                "url": "https:\/\/linkedin.com\/in\/opheliaboamahampoh",
+                "linkType": "LinkedIn"
+            }
+        ],
         "questionAnswers": [],
         "categories": []
     },
@@ -1049,7 +1793,13 @@
             }
         ],
         "isTopSpeaker": false,
-        "links": [],
+        "links": [
+            {
+                "title": "LinkedIn",
+                "url": "https:\/\/www.linkedin.com\/in\/payal-g\/",
+                "linkType": "LinkedIn"
+            }
+        ],
         "questionAnswers": [],
         "categories": []
     },
@@ -1076,7 +1826,28 @@
             }
         ],
         "isTopSpeaker": false,
-        "links": [],
+        "links": [
+            {
+                "title": "X (Twitter)",
+                "url": "https:\/\/twitter.com\/pranav_gc\/",
+                "linkType": "Twitter"
+            },
+            {
+                "title": "LinkedIn",
+                "url": "https:\/\/www.linkedin.com\/in\/pranavgc\/",
+                "linkType": "LinkedIn"
+            },
+            {
+                "title": "Blog",
+                "url": "https:\/\/www.pranavguptachummun.com\/",
+                "linkType": "Blog"
+            },
+            {
+                "title": "Sessionize",
+                "url": "https:\/\/sessionize.com\/pranav-gupta-chummun",
+                "linkType": "Sessionize"
+            }
+        ],
         "questionAnswers": [],
         "categories": []
     },
@@ -1095,7 +1866,28 @@
             }
         ],
         "isTopSpeaker": false,
-        "links": [],
+        "links": [
+            {
+                "title": "Twitter",
+                "url": "https:\/\/twitter.com\/zcoldplayer",
+                "linkType": "Twitter"
+            },
+            {
+                "title": "LinkedIn",
+                "url": "https:\/\/www.linkedin.com\/in\/pritvi-jheengut-15589213\/",
+                "linkType": "LinkedIn"
+            },
+            {
+                "title": "Blog",
+                "url": "http:\/\/zcoldplayer.blogspot.com",
+                "linkType": "Blog"
+            },
+            {
+                "title": "Sessionize",
+                "url": "https:\/\/sessionize.com\/jheengut",
+                "linkType": "Sessionize"
+            }
+        ],
         "questionAnswers": [],
         "categories": []
     },
@@ -1114,7 +1906,18 @@
             }
         ],
         "isTopSpeaker": false,
-        "links": [],
+        "links": [
+            {
+                "title": "LinkedIn",
+                "url": "https:\/\/www.linkedin.com\/in\/dhaneshwursingh-purdaseea-742a57123\/",
+                "linkType": "LinkedIn"
+            },
+            {
+                "title": "Sessionize",
+                "url": "https:\/\/sessionize.com\/purdaseea-dhaneshwursingh",
+                "linkType": "Sessionize"
+            }
+        ],
         "questionAnswers": [],
         "categories": []
     },
@@ -1133,7 +1936,28 @@
             }
         ],
         "isTopSpeaker": false,
-        "links": [],
+        "links": [
+            {
+                "title": "LinkedIn",
+                "url": "https:\/\/www.linkedin.com\/in\/rajendra-ballgobin-17027777\/",
+                "linkType": "LinkedIn"
+            },
+            {
+                "title": "Facebook",
+                "url": "https:\/\/www.facebook.com\/",
+                "linkType": "Facebook"
+            },
+            {
+                "title": "Instagram",
+                "url": "https:\/\/www.instagram.com\/",
+                "linkType": "Instagram"
+            },
+            {
+                "title": "Sessionize",
+                "url": "https:\/\/sessionize.com\/rajendra-ballgobin",
+                "linkType": "Sessionize"
+            }
+        ],
         "questionAnswers": [],
         "categories": []
     },
@@ -1194,6 +2018,31 @@
             }
         ],
         "isTopSpeaker": false,
+        "links": [
+            {
+                "title": "Sessionize",
+                "url": "https:\/\/sessionize.com\/rishiabee",
+                "linkType": "Sessionize"
+            }
+        ],
+        "questionAnswers": [],
+        "categories": []
+    },
+    {
+        "id": "544069ee-1a67-4532-8cf9-887c13945e69",
+        "firstName": "Rivesh",
+        "lastName": "Kanaram",
+        "fullName": "Rivesh Kanaram",
+        "bio": "Data enthusiast exploring patterns, crafting narratives, and illuminating pathways through the magical world of statistics and visualization.",
+        "tagLine": "Senior Data analyst at Rapp IO",
+        "profilePicture": "927a-400o400o1-TfweePkuyNYc7bK66Qw8qt.png",
+        "sessions": [
+            {
+                "id": 641533,
+                "name": "Dissecting the Digital Deception: Identifying AI-Created Content"
+            }
+        ],
+        "isTopSpeaker": false,
         "links": [],
         "questionAnswers": [],
         "categories": []
@@ -1213,7 +2062,18 @@
             }
         ],
         "isTopSpeaker": false,
-        "links": [],
+        "links": [
+            {
+                "title": "LinkedIn",
+                "url": "https:\/\/www.linkedin.com\/in\/riyaddhuny\/",
+                "linkType": "LinkedIn"
+            },
+            {
+                "title": "Sessionize",
+                "url": "https:\/\/sessionize.com\/dhuny",
+                "linkType": "Sessionize"
+            }
+        ],
         "questionAnswers": [],
         "categories": []
     },
@@ -1232,7 +2092,18 @@
             }
         ],
         "isTopSpeaker": false,
-        "links": [],
+        "links": [
+            {
+                "title": "LinkedIn",
+                "url": "https:\/\/www.linkedin.com\/in\/samanta-luchoo?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+                "linkType": "LinkedIn"
+            },
+            {
+                "title": "Sessionize",
+                "url": "https:\/\/sessionize.com\/samanta-luchoo",
+                "linkType": "Sessionize"
+            }
+        ],
         "questionAnswers": [],
         "categories": []
     },
@@ -1251,7 +2122,13 @@
             }
         ],
         "isTopSpeaker": false,
-        "links": [],
+        "links": [
+            {
+                "title": "LinkedIn",
+                "url": "https:\/\/www.linkedin.com\/in\/sambhav-03b\/",
+                "linkType": "LinkedIn"
+            }
+        ],
         "questionAnswers": [],
         "categories": []
     },
@@ -1265,12 +2142,12 @@
         "profilePicture": "f39e-400o400o1-pp1182tWpDRfuZ9WKcyScp.png",
         "sessions": [
             {
-                "id": 639943,
-                "name": "The Frontend Developer Career Path"
-            },
-            {
                 "id": 702256,
                 "name": "Let's build a web app to monitor power outages in Mauritius, using Nuxt3 + TypeScript + TailwindCSS"
+            },
+            {
+                "id": 639943,
+                "name": "The Frontend Developer Career Path"
             },
             {
                 "id": 639942,
@@ -1278,7 +2155,28 @@
             }
         ],
         "isTopSpeaker": false,
-        "links": [],
+        "links": [
+            {
+                "title": "X (Twitter)",
+                "url": "https:\/\/www.twitter.com\/__sun__",
+                "linkType": "Twitter"
+            },
+            {
+                "title": "LinkedIn",
+                "url": "https:\/\/www.linkedin.com\/in\/sandeepramgolam\/",
+                "linkType": "LinkedIn"
+            },
+            {
+                "title": "Blog",
+                "url": "https:\/\/sandeep.ramgolam.com",
+                "linkType": "Blog"
+            },
+            {
+                "title": "Sessionize",
+                "url": "https:\/\/sessionize.com\/sandeep-ramgolam",
+                "linkType": "Sessionize"
+            }
+        ],
         "questionAnswers": [],
         "categories": []
     },
@@ -1297,7 +2195,13 @@
             }
         ],
         "isTopSpeaker": false,
-        "links": [],
+        "links": [
+            {
+                "title": "LinkedIn",
+                "url": "https:\/\/www.linkedin.com\/in\/sarwadha-daya-b4911b210\/",
+                "linkType": "LinkedIn"
+            }
+        ],
         "questionAnswers": [],
         "categories": []
     },
@@ -1316,7 +2220,23 @@
             }
         ],
         "isTopSpeaker": false,
-        "links": [],
+        "links": [
+            {
+                "title": "Twitter",
+                "url": "https:\/\/twitter.com\/shailavi",
+                "linkType": "Twitter"
+            },
+            {
+                "title": "LinkedIn",
+                "url": "https:\/\/www.linkedin.com\/in\/shailendra-singh-bb9ab58\/",
+                "linkType": "LinkedIn"
+            },
+            {
+                "title": "Sessionize",
+                "url": "https:\/\/sessionize.com\/shailendra-singh",
+                "linkType": "Sessionize"
+            }
+        ],
         "questionAnswers": [],
         "categories": []
     },
@@ -1354,7 +2274,23 @@
             }
         ],
         "isTopSpeaker": false,
-        "links": [],
+        "links": [
+            {
+                "title": "LinkedIn",
+                "url": "https:\/\/www.linkedin.com\/in\/reetooraj-bisram\/",
+                "linkType": "LinkedIn"
+            },
+            {
+                "title": "Blog",
+                "url": "https:\/\/www.sidbisram.com\/",
+                "linkType": "Blog"
+            },
+            {
+                "title": "Sessionize",
+                "url": "https:\/\/sessionize.com\/sid-bisram",
+                "linkType": "Sessionize"
+            }
+        ],
         "questionAnswers": [],
         "categories": []
     },
@@ -1373,7 +2309,18 @@
             }
         ],
         "isTopSpeaker": false,
-        "links": [],
+        "links": [
+            {
+                "title": "Blog",
+                "url": "http:\/\/siven76.wordpress.com",
+                "linkType": "Blog"
+            },
+            {
+                "title": "Sessionize",
+                "url": "https:\/\/sessionize.com\/sirius76",
+                "linkType": "Sessionize"
+            }
+        ],
         "questionAnswers": [],
         "categories": []
     },
@@ -1392,7 +2339,13 @@
             }
         ],
         "isTopSpeaker": false,
-        "links": [],
+        "links": [
+            {
+                "title": "LinkedIn",
+                "url": "https:\/\/www.linkedin.com\/in\/rosun-souhayl-08049277\/",
+                "linkType": "LinkedIn"
+            }
+        ],
         "questionAnswers": [],
         "categories": []
     },
@@ -1411,7 +2364,13 @@
             }
         ],
         "isTopSpeaker": false,
-        "links": [],
+        "links": [
+            {
+                "title": "LinkedIn",
+                "url": "https:\/\/www.linkedin.com\/in\/surajbali-bholanathsingh-phd-44141275\/",
+                "linkType": "LinkedIn"
+            }
+        ],
         "questionAnswers": [],
         "categories": []
     },
@@ -1430,7 +2389,28 @@
             }
         ],
         "isTopSpeaker": false,
-        "links": [],
+        "links": [
+            {
+                "title": "X (Twitter)",
+                "url": "https:\/\/x.com\/_fz3hra",
+                "linkType": "Twitter"
+            },
+            {
+                "title": "LinkedIn",
+                "url": "https:\/\/www.linkedin.com\/in\/faatimah-iz-zaahra-m-0670881a1\/",
+                "linkType": "LinkedIn"
+            },
+            {
+                "title": "Blog",
+                "url": "https:\/\/zaahramujore.com\/",
+                "linkType": "Blog"
+            },
+            {
+                "title": "Sessionize",
+                "url": "https:\/\/sessionize.com\/umme-faatimah-iz-zaahra-mujore",
+                "linkType": "Sessionize"
+            }
+        ],
         "questionAnswers": [],
         "categories": []
     },
@@ -1449,7 +2429,28 @@
             }
         ],
         "isTopSpeaker": false,
-        "links": [],
+        "links": [
+            {
+                "title": "Twitter",
+                "url": "https:\/\/twitter.com\/VanessaChellen",
+                "linkType": "Twitter"
+            },
+            {
+                "title": "LinkedIn",
+                "url": "https:\/\/www.linkedin.com\/in\/vanessa-v-chellen-a8ab3125\/",
+                "linkType": "LinkedIn"
+            },
+            {
+                "title": "Blog",
+                "url": "https:\/\/twitter.com\/VanessaChellen",
+                "linkType": "Blog"
+            },
+            {
+                "title": "Sessionize",
+                "url": "https:\/\/sessionize.com\/vanessa",
+                "linkType": "Sessionize"
+            }
+        ],
         "questionAnswers": [],
         "categories": []
     },
@@ -1472,7 +2473,23 @@
             }
         ],
         "isTopSpeaker": false,
-        "links": [],
+        "links": [
+            {
+                "title": "LinkedIn",
+                "url": "https:\/\/www.linkedin.com\/in\/vnamah\/",
+                "linkType": "LinkedIn"
+            },
+            {
+                "title": "Blog",
+                "url": "https:\/\/vnsnippets.github.io",
+                "linkType": "Blog"
+            },
+            {
+                "title": "Sessionize",
+                "url": "https:\/\/sessionize.com\/vnamah",
+                "linkType": "Sessionize"
+            }
+        ],
         "questionAnswers": [],
         "categories": []
     },
@@ -1491,7 +2508,18 @@
             }
         ],
         "isTopSpeaker": false,
-        "links": [],
+        "links": [
+            {
+                "title": "LinkedIn",
+                "url": "https:\/\/www.linkedin.com\/in\/vincent-chu-a14a9020a\/",
+                "linkType": "LinkedIn"
+            },
+            {
+                "title": "Sessionize",
+                "url": "https:\/\/sessionize.com\/vchu",
+                "linkType": "Sessionize"
+            }
+        ],
         "questionAnswers": [],
         "categories": []
     },
@@ -1529,7 +2557,23 @@
             }
         ],
         "isTopSpeaker": false,
-        "links": [],
+        "links": [
+            {
+                "title": "Twitter",
+                "url": "https:\/\/twitter.com\/lovvyrules",
+                "linkType": "Twitter"
+            },
+            {
+                "title": "LinkedIn",
+                "url": "https:\/\/www.linkedin.com\/in\/yuvrajkeenoo\/",
+                "linkType": "LinkedIn"
+            },
+            {
+                "title": "Blog",
+                "url": "https:\/\/lovvy.wordpress.com\/",
+                "linkType": "Blog"
+            }
+        ],
         "questionAnswers": [],
         "categories": []
     },
@@ -1548,7 +2592,23 @@
             }
         ],
         "isTopSpeaker": false,
-        "links": [],
+        "links": [
+            {
+                "title": "Twitter",
+                "url": "https:\/\/twitter.com\/_zfir_",
+                "linkType": "Twitter"
+            },
+            {
+                "title": "LinkedIn",
+                "url": "https:\/\/www.linkedin.com\/in\/zfir\/",
+                "linkType": "LinkedIn"
+            },
+            {
+                "title": "Blog",
+                "url": "https:\/\/zfir.medium.com\/",
+                "linkType": "Blog"
+            }
+        ],
         "questionAnswers": [],
         "categories": []
     }
