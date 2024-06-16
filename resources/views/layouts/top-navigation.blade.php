@@ -23,7 +23,7 @@
                     </a>
                     <a class="p-2 bg-[#E83F3B] transition duration-700 hover:bg-[#BF1F2E] hover:ease-in-out rounded-md uppercase text-sm font-bold font-button font-pixel text-gray-50" href="/speakers">Speakers</a>
                     <a class="hidden p-2 bg-[#E83F3B] transition duration-700 hover:bg-[#BF1F2E] hover:ease-in-out rounded-md uppercase text-sm font-bold font-button font-pixel text-gray-50" href="https://game.mscc.mu/" target="_blank">Dodge Dodo</a>
-                    <a class="hidden ml-1 p-2 bg-[#FAEA48] transition duration-700 hover:bg-[#FAB71F] hover:ease-in-out rounded-md uppercase text-[#BF1F2E] text-sm font-bold font-button font-pixel" href="">Register</a>
+                    <a class="p-2 bg-[#FAEA48] transition duration-700 hover:bg-[#FAB71F] hover:ease-in-out rounded-md uppercase text-[#BF1F2E] text-sm font-bold font-button font-pixel" href="https://devcon2024.e-forms.mu/" target="_blank">Register</a>
                 </div>
 
                 <!-- Mobile Menu Button -->
