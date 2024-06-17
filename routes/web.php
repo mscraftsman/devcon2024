@@ -13,7 +13,7 @@ Route::get('/', function () {
 
 Route::get('/code-of-conduct', function () {
     $title = 'MSCC — Code of Conduct';
-     return view('conduct', compact('title'));
+     return view('code-of-conduct', compact('title'));
 })->name('code-of-conduct');
 
 Route::get('/community', function () {
