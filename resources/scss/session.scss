@@ -1,0 +1,29 @@
+.session__container {
+    .speaker--headshot {
+        .circle-1 {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border: 1px solid rgba(0, 0, 0, 0.2);
+            border-radius: 50px;
+            width: 75px;
+            height: 75px;
+
+            .circle-2 {
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                border: 1px dashed rgba(0, 0, 0, 0.2);
+                border-radius: 65px;
+                width: 65px;
+                height: 65px;
+
+                img {
+                    border-radius: 65px;
+                    width: 55px;
+                    height: 55px;
+                }
+            }
+        }
+    }
+}

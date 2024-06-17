@@ -17,6 +17,7 @@
         "vite": "^5.0.0"
     },
     "dependencies": {
-        "@midudev/tailwind-animations": "^0.0.7"
+        "@midudev/tailwind-animations": "^0.0.7",
+        "sass": "^1.77.5"
     }
 }
