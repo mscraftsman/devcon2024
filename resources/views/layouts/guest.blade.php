@@ -103,6 +103,14 @@
 				content="{{ asset('images/favicon/mstile-310x310.png') }}"
 			/>
 
+            <meta name="description" content="Developers Conference 2024 — the largest gathering of software craftsman, web devs, sysadmins, designers, testers and the younger generation of aspiring professionals."/>
+            <meta property="og:site_name" content="conference.mscc.mu"/>
+            <meta property="og:type" content="article"/>
+            <meta property="og:title" content="conference.mscc.mu"/>
+            <meta property="og:description" content="Developers Conference 2024 — the largest gathering of software craftsman, web devs, sysadmins, designers, testers and the younger generation of aspiring professionals."/>
+            <meta property="og:url" content="https://conference.mscc.mu"/>
+            <meta property="og:image" content="https://conference.mscc.mu/images/cover.png"/>
+
         <!-- Scripts -->
         @vite(['resources/css/app.css', 'resources/scss/app.scss', 'resources/js/app.js'])
 
