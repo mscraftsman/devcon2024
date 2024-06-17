@@ -162,10 +162,15 @@
 
         <div class="registration--block">
           <div class="session__wrapper px-4 py-3 ml-20 mt-20 rounded-md bg-slate-100 block">
-            <div class="tile_start text-sm text-slate-500 mb-1 font-medium">
-              As from 08:30
-            </div>
-            <h3 class="font-bold text-md mb-2 text-purple ">Registration</h3>
+                <div class="tile_start text-sm text-slate-500 mb-1 font-medium">
+                    <template x-if="selectedOption === 'saturday'">
+                        <span>08:30 — 15:00</span>
+                    </template>
+                    <template x-if="selectedOption !== 'saturday'">
+                        <span>08:30 — 16:00</span>
+                    </template>
+                </div>
+            <h3 class="font-bold text-md mb-2 text-purple">Registration</h3>
           </div>
         </div>
 
@@ -300,10 +305,10 @@
           <h3 class="text-center uppercase font-astronomus text-1xl sm:text-2xl text-purple mb-2">Networking hour sponsored by</h3>
           <div class="sponsor--logo-wrapper">
             <a href="https://www.spoonconsulting.com/s/" target="_blank" class="inline grid place-items-center">
-              <img class="sponsor--logo h-28 py-6" src="{{ asset('images/sponsors/spoonconsulting.png') }}" />
+              <img class="h-30 py-4 md:py-6" src="{{ asset('images/sponsors/spoonconsulting.png') }}" />
             </a>
           </div>
-          <h3 class="text-center uppercase font-astronomus text-1xl sm:text-2xl text-slate-500 mt-6">17:30 to 20:00</h3>
+          <h3 class="text-center uppercase font-astronomus text-xl sm:text-2xl text-slate-500 mt-6">17:30 to 20:00</h3>
         </div>
       </section>
     </section>
