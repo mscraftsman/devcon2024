@@ -11,9 +11,9 @@
 
     <section class="mt-10 max-w-7xl px-2 mx-auto" >
       <div class="days__container grid grid-cols-3 gap-2">
+        <div class="date uppercase text-slate-300 text-center">18 July</div>
+        <div class="date uppercase text-slate-300 text-center">19 July</div>
         <div class="date uppercase text-slate-300 text-center">20 July</div>
-        <div class="date uppercase text-slate-300 text-center">21 July</div>
-        <div class="date uppercase text-slate-300 text-center">22 July</div>
       </div>
     </section>
 
