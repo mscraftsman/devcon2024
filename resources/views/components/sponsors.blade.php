@@ -86,7 +86,7 @@
                     <img src="/images/sponsors/klanik.png" class="h-20 lg:h-32 hover:scale-105 transition-all duration-500" />
                 </a>
                 <a href="https://cloud.mu" target="_blank">
-                    <img src="/images/sponsors/cloud-mu.png" class="h-10 lg:h-[60px] hover:scale-105 transition-all duration-500" />
+                    <img src="/images/sponsors/cloud-mu.png" class="h-10 lg:h-[52px] hover:scale-105 transition-all duration-500" />
                 </a>
             </div>
         </div>
