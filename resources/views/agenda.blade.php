@@ -1,7 +1,7 @@
 <x-guest-layout>
   <div class="page--agenda" x-data="{ selectedOption: 'thursday' }">
 
-    <section class="bg-slate-100">
+    <section>
       <section class="pt-5 pb-10 max-w-4xl px-3 mb-7 mx-auto ">
         <h2 class="text-center font-astronomus font-bold uppercase font-dm text-purple pt-5">Tropical Tech Revolution Unveiled</h2>
         <h1 class="text-center mt-1 text-gray-700 font-astronomus uppercase font-bold mb-1 text-4xl sm:text-6xl ">Agenda</h1>
@@ -139,7 +139,7 @@
       </div>
     </section>
     <section class="mt-10 max-w-7xl px-2 mx-auto flex">
-      
+
       <div class="sessions__column">
 
         <div class="tracks__container grid grid-cols-5 gap-2 mb-10 ml-20 h-12" id="rooms-bar">
