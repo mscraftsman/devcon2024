@@ -50,14 +50,14 @@
                         @endphp
 
                         @if ($sessionCount > 1)
-                            <div class="mt-4 font-bold text-lg text-left">Sessions:</div>
+                            <div class="mt-4 font-bold text-md text-left">Sessions:</div>
                         @else
-                            <div class="mt-4 font-bold text-lg text-left">Session:</div>
+                            <div class="mt-4 font-bold text-md text-left">Session:</div>
                         @endif
 
                         <div class="mt-1 text-md text-left font-bold leading-normal text-gray-800 flex flex-col gap-1">
                             @foreach ($s['sessions'] as $session)
-                                <div>{{ $session['name'] }}</div>
+                                <a class="font-black text-lg hover:text-gray-500 transition-all duration-600" href="/agenda/{{ $session['id'] }}">{{ $session['name'] }}</a>
                             @endforeach
                         </div>
                     </figcaption>
