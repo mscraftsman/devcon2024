@@ -23,7 +23,7 @@
                     </a>
                     <a class="p-2 bg-[#E83F3B] transition duration-700 hover:bg-[#BF1F2E] hover:ease-in-out rounded-md uppercase text-sm font-bold font-button font-pixel text-gray-50" href="/speakers">Speakers</a>
                     <a class="p-2 bg-[#E83F3B] transition duration-700 hover:bg-[#BF1F2E] hover:ease-in-out rounded-md uppercase text-sm font-bold font-button font-pixel text-gray-50" href="/agenda">Agenda</a>
-                    <a class="p-2 bg-[#E83F3B] transition duration-700 hover:bg-[#BF1F2E] hover:ease-in-out rounded-md uppercase text-sm font-bold font-button font-pixel text-gray-50" href="/dodododge" target="_blank">Dodo Dodge</a>
+                    <a class="hidden p-2 bg-[#E83F3B] transition duration-700 hover:bg-[#BF1F2E] hover:ease-in-out rounded-md uppercase text-sm font-bold font-button font-pixel text-gray-50" href="/dodododge" target="_blank">Dodo Dodge</a>
                     <a class="p-2 bg-[#FAEA48] transition duration-700 hover:bg-[#FAB71F] hover:ease-in-out rounded-md uppercase text-[#BF1F2E] text-sm font-bold font-button font-pixel" href="https://devcon2024.e-forms.mu/" target="_blank">Register</a>
                 </div>
 
@@ -51,7 +51,7 @@
                     <div class="mt-4 pb-4 flex flex-col gap-2">
                         <a class="p-2 bg-[#E83F3B] transition duration-700 hover:bg-[#BF1F2E] hover:ease-in-out rounded-md uppercase text-sm font-bold font-button font-pixel text-gray-50 text-center" href="/speakers">Speakers</a>
                         <a class="p-2 bg-[#E83F3B] transition duration-700 hover:bg-[#BF1F2E] hover:ease-in-out rounded-md uppercase text-sm font-bold font-button font-pixel text-gray-50 text-center" href="/agenda">Agenda</a>
-                        <a class="p-2 bg-[#E83F3B] transition duration-700 hover:bg-[#BF1F2E] hover:ease-in-out rounded-md uppercase text-sm font-bold font-button font-pixel text-gray-50 text-center" href="/dodododge" target="_blank">Dodge Dodo</a>
+                        <a class="hidden p-2 bg-[#E83F3B] transition duration-700 hover:bg-[#BF1F2E] hover:ease-in-out rounded-md uppercase text-sm font-bold font-button font-pixel text-gray-50 text-center" href="/dodododge" target="_blank">Dodge Dodo</a>
                         <a class="p-2 bg-[#FAEA48] transition duration-700 hover:bg-[#FAB71F] hover:ease-in-out rounded-md uppercase text-[#BF1F2E] text-sm font-bold font-button font-pixel text-center" href="https://devcon2024.e-forms.mu/" target="_blank">Register</a>
 
                         <div class="mt-4 mx-auto flex flex-row gap-3 items-center fill-gray-50 hover:fill-gray-200">
