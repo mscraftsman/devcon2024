@@ -18,7 +18,7 @@ Route::get('/code-of-conduct', function () {
 
 Route::get('/community', function () {
     $title = 'MSCC — Community';
-    return view('conduct', compact('title'));
+    return view('community', compact('title'));
 })->name('community');
 
 Route::get('/speakers', [SpeakersController::class, 'index'])->name('speakers');
