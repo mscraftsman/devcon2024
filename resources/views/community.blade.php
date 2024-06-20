@@ -31,5 +31,11 @@
             <h2 class="text-xl font-pixel">openSUSE Mauritius</h2>
             <p class="mt-2">A small club of openSUSE & SLE users/enthusiasts on the island. We manage the <a href="https://mirror.cloud.mu" class="underline underline-offset-4 decoration-2 hover:decoration-red-600">Linux mirrors</a> in Mauritius for a few popular distros. Meet us at DevCon 2024 to know more about our activities.</p>
         </div>
+
+        <div class="mt-4 p-4 bg-indigo-200 rounded-md">
+            <h2 class="text-xl font-pixel">.NET User Group Mauritius</h2>
+            <p class="mt-2">We are a group organising community-driven activities dedicated to promoting technology and learning among professionals and students. Our mission is to create an environment where technology enthusiasts can discover new innovations, learn from the industry experts and connect with peers who share a passion for technology.</p>
+            <p class="mt-4">Our preferred medium for learning is Microsoft technologies encompassing .NET, Microsoft Azure, Power Platform and more, but in the spirit of being technology agnostic, everyone is welcome to join the experience!</p>
+        </div>
     </div>
 </x-guest-layout>
