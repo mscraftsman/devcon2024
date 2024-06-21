@@ -38,15 +38,15 @@
             <p class="mt-4">Our preferred medium for learning is Microsoft technologies encompassing .NET, Microsoft Azure, Power Platform and more, but in the spirit of being technology agnostic, everyone is welcome to join the experience!</p>
         </div>
 
-        <div class="mt-4 p-4 bg-indigo-200 rounded-md">
+        <div class="mt-4 p-4 bg-yellow-100 rounded-md">
             <h2 class="text-xl font-pixel">Python Mauritius Usergroup</h2>
             <p class="mt-2">
-                The <a href="https://www.pymug.com/"  target="_blank">Python Mauritius User Group (pymug)</a> is the local Python user group of Mauritius.<br> 
-                Our aim is to provide opportunities to everybody to upskill their level of Python and to ease industry-adoption of Python-related technologies.<br> 
+                The <a href="https://www.pymug.com/"  target="_blank">Python Mauritius User Group (pymug)</a> is the local Python user group of Mauritius.<br>
+                Our aim is to provide opportunities to everybody to upskill their level of Python and to ease industry-adoption of Python-related technologies.<br>
                 Read a nice <a href="https://www.mscc.mu/python-mauritius-usergroup-pymug/" target="_blank">overview of the User Group</a> on the MSCC blog. <br>
                 To sum it up, we care about Python education.<br>
                 <br>
-                The Pymug organises year-round events, topic days, meetups, from scratch sessions as well as university topic coverage.<br> 
+                The Pymug organises year-round events, topic days, meetups, from scratch sessions as well as university topic coverage.<br>
                 Have a look at our 2019 or 2020 end of year reports. Looking forward to meet you 🪼.<br>
             </p>
             <p class="mt-4">
