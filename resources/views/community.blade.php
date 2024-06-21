@@ -41,9 +41,9 @@
         <div class="mt-4 p-4 bg-yellow-100 rounded-md">
             <h2 class="text-xl font-pixel">Python Mauritius Usergroup</h2>
             <p class="mt-2">
-                The <a href="https://www.pymug.com/"  target="_blank">Python Mauritius User Group (pymug)</a> is the local Python user group of Mauritius.<br>
+                The <a href="https://www.pymug.com/"  target="_blank" class="underline underline-offset-4 decoration-2 hover:decoration-red-600">Python Mauritius User Group (pymug)</a> is the local Python user group of Mauritius.<br>
                 Our aim is to provide opportunities to everybody to upskill their level of Python and to ease industry-adoption of Python-related technologies.<br>
-                Read a nice <a href="https://www.mscc.mu/python-mauritius-usergroup-pymug/" target="_blank">overview of the User Group</a> on the MSCC blog. <br>
+                Read a nice <a href="https://www.mscc.mu/python-mauritius-usergroup-pymug/" target="_blank" class="underline underline-offset-4 decoration-2 hover:decoration-red-600">overview of the User Group</a> on the MSCC blog. <br>
                 To sum it up, we care about Python education.<br>
                 <br>
                 The Pymug organises year-round events, topic days, meetups, from scratch sessions as well as university topic coverage.<br>
@@ -52,9 +52,9 @@
             <p class="mt-4">
                 Meet us at the following DevCon sessions:<br>
                 Friday, 19 July<br>
-                13:00 — <a href="https://conference.mscc.mu/agenda/631049"  target="_blank">Celery Served Fresh: A Deep Dive into Asynchronous Task Processing with Python Celery</a>, by Kherin Bundhoo<br>
-                14:00 — <a href="https://conference.mscc.mu/agenda/641494"  target="_blank">Web scraping 101 with Python</a>, by Sid Reetooraj<br>
-                15:00 — <a href="https://conference.mscc.mu/agenda/706098"  target="_blank">Introduction to Retrieval Augmented Generation (RAG) with Python</a>, by Dominique Theodore<br>
+                13:00 — <a href="https://conference.mscc.mu/agenda/631049"  target="_blank" class="underline underline-offset-4 decoration-2 hover:decoration-red-600">Celery Served Fresh: A Deep Dive into Asynchronous Task Processing with Python Celery</a>, by Kherin Bundhoo<br>
+                14:00 — <a href="https://conference.mscc.mu/agenda/641494"  target="_blank" class="underline underline-offset-4 decoration-2 hover:decoration-red-600">Web scraping 101 with Python</a>, by Sid Reetooraj<br>
+                15:00 — <a href="https://conference.mscc.mu/agenda/706098"  target="_blank" class="underline underline-offset-4 decoration-2 hover:decoration-red-600">Introduction to Retrieval Augmented Generation (RAG) with Python</a>, by Dominique Theodore<br>
             </p>
         </div>
     </div>
