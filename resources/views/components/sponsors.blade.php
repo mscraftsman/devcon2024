@@ -86,7 +86,7 @@
                     <img src="/images/sponsors/klanik.png" class="h-20 lg:h-32 hover:scale-105 transition-all duration-500" />
                 </a>
                 <a href="https://cloud.mu" target="_blank">
-                    <img src="/images/sponsors/cloud-mu.png" class="h-10 lg:h-[52px] hover:scale-105 transition-all duration-500" />
+                    <img src="/images/sponsors/cloud-mu.svg" class="h-16 lg:h-[92px] hover:scale-105 transition-all duration-500" />
                 </a>
             </div>
         </div>
@@ -178,7 +178,7 @@
         <div class="mt-8 lg:mt-16 max-w-4xl mx-auto grid place-items-center">
             <div class="flex flex-col lg:flex-row gap-10 items-center">
                 <a href="https://cloud.mu" target="_blank">
-                    <img src="/images/sponsors/cloud-mu.png" class="h-10 lg:h-12 hover:scale-105 transition-all duration-500" />
+                    <img src="/images/sponsors/cloud-mu.svg" class="h-16 lg:h-[92px] hover:scale-105 transition-all duration-500" />
                 </a>
             </div>
         </div>
