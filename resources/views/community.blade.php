@@ -3,12 +3,8 @@
         <p class="text-sm uppercase text-center font-pixel text-yellow-500">Communication & Exchange with others</p>
         <h1 class="text-4xl text-center font-pixel">Community</h1>
 
-        <p class="mt-4">
-            Take the chance to exchange with other attendees, speakers and partners, have some interesting conversations about software development, latest information gained during one of the presentations and let others know about your ups & downs in your projects.
-        </p>
-
-        <p class="mt-4">
-            Come and enjoy this vibrant atmosphere full of technology & activities!
+        <p class="mt-4 mb-6 md:mb-8">
+            The Mauritius Software Craftsmanship Community (MSCC) is proud to be a vibrant and diverse gathering of technology enthusiasts, professionals, and learners. Our mission is to foster a culture of collaboration, learning, and innovation in the Mauritian tech scene. Here, you'll find information about the various active communities and user groups that make up our dynamic ecosystem.
         </p>
 
         <div class="mt-4 p-4 bg-blue-300 rounded-md">
