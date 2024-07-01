@@ -203,6 +203,15 @@
 
             <div class="flex flex-col gap-3 items-center text-center">
                 <div>
+                    <img src="/images/team/fawwaaz.jpg" class="h-32 rounded-full drop-shadow-xl" />
+                </div>
+                <div class="flex flex-col items-center gap-2">
+                    <p class="font-bold text-xl">Fawwaaz Koodruth</p>
+                </div>
+            </div>
+
+            <div class="flex flex-col gap-3 items-center text-center">
+                <div>
                     <img src="/images/team/girish.png" class="h-32 rounded-full drop-shadow-xl" />
                 </div>
                 <div class="flex flex-col items-center gap-2">
