@@ -5,6 +5,7 @@
         <div class="mt-3 lg:mt-4 max-w-6xl mx-auto flex flex-col lg:flex-row justify-between gap-4 lg:gap-8 font-pixel text-md lg:text-lg">
             <a href="/code-of-conduct" class="px-3 py-2 text-[#FAB71F] bg-gray-800 hover:bg-[#E83F3B] rounded-md text-center">Code of Conduct</a>
             <div x-on:click="openModal = true" class="px-3 py-2 text-[#FAB71F] bg-gray-800 hover:bg-[#E83F3B] rounded-md text-center cursor-pointer">Become a Sponsor</div>
+            <a href="/team" class="px-3 py-2 text-[#FAB71F] bg-gray-800 hover:bg-[#E83F3B] rounded-md text-center">Team</a>
             <a href="/community" class="px-3 py-2 text-[#FAB71F] bg-gray-800 hover:bg-[#E83F3B] rounded-md text-center">Community</a>
         </div>
     </div>
