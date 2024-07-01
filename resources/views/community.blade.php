@@ -8,11 +8,7 @@
         </p>
 
         <p class="mt-4">
-            Our Partners are here for existing & new talents for either recruitment or internship or simply for a chit chat. Make the most out of it! Our Happy Hour is just the right moment to maybe make a new friend, seal some deals in a more relaxed atmosphere. Think about it.
-        </p>
-
-        <p class="mt-4">
-            But above all, come and enjoy this vibrant atmosphere full of technology & activities!
+            Come and enjoy this vibrant atmosphere full of technology & activities!
         </p>
 
         <div class="mt-4 p-4 bg-blue-300 rounded-md">
