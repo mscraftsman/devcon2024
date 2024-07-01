@@ -21,6 +21,11 @@ Route::get('/community', function () {
     return view('community', compact('title'));
 })->name('community');
 
+Route::get('/team', function () {
+    $title = 'MSCC — Team';
+    return view('team', compact('title'));
+})->name('team');
+
 Route::get('/speakers', [SpeakersController::class, 'index'])->name('speakers');
 Route::get('/speaker/{id}', [SpeakerController::class, 'searchById'])->name('speaker');
 
