@@ -49,5 +49,26 @@
                 15:00 — <a href="https://conference.mscc.mu/agenda/706098"  target="_blank" class="underline underline-offset-4 decoration-2 hover:decoration-red-600">Introduction to Retrieval Augmented Generation (RAG) with Python</a>, by Dominique Theodore<br>
             </p>
         </div>
+
+        <div class="mt-4 p-4 bg-teal-300 rounded-md flex flex-col gap-4 relative">
+            <h2 class="text-xl font-pixel">Front-End Coders Mauritius <a class="underline underline-offset-4 decoration-2 hover:decoration-teal-600" target="_blank" href="https://frontend.mu">frontend.mu</a></h2>
+            <p>A community around frontend, tech, and development in general based in Mauritius. We organize monthly meetups free for anyone interested to attend, contribute and speak at. Our mission is to improve the interest and consideration for the front-end developer role on the island and beyond.
+            </p>
+            <h3 class="text-lg font-pixel">Upcoming Workshop at DevCon2024:</h3>
+            <p>
+                <a class="underline underline-offset-4 decoration-2 hover:decoration-teal-600" href="https://conference.mscc.mu/agenda/702256">Date & Time — Friday morning, 09:00 AM - 10:45 AM</a><br>
+                Location — PACMAN room<br>
+                Topic — Building a <a class="underline underline-offset-4 decoration-2 hover:decoration-teal-600" target="_blank" href="https://nuxt.com/">Nuxt 3</a> + <a class="underline underline-offset-4 decoration-2 hover:decoration-teal-600" target="_blank" href="https://tailwindcss.com">TailwindCSS</a> web application to monitor power outages in Mauritius.<br>
+                Details & RSVP — <a class="underline underline-offset-4 decoration-2 hover:decoration-teal-600" target="_blank" href="https://frontend.mu/meetup/56">Workshop Information</a><br>
+                Description — A hands-on workshop where participants will build a web app to monitor power outages in Mauritius using Nuxt 3 and TailwindCSS. Attendees can bring their laptops to code along or simply enjoy the session.<br>
+            </p>
+
+            <h3 class="text-lg font-pixel">Recommended for workshop:</h3>
+            <p>
+                Bring your own device (laptop) <br>
+                A GitHub account <br>
+                Google Chrome installed <br>
+            </p>
+        </div>
     </div>
 </x-guest-layout>
