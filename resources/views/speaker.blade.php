@@ -57,7 +57,7 @@
 
                         <div class="mt-1 text-md text-left font-bold leading-normal text-gray-800 flex flex-col gap-1">
                             @foreach ($speakerSessions as $session)
-                                <div class="flex justify-between sm:flex-row flex-col sm:my-1 my-4">
+                                <div class="flex justify-between lg:flex-row flex-col lg:my-2 my-3">
                                     <a class="font-black text-lg hover:text-gray-500 transition-all duration-600 max-w-xl" href="/agenda/{{ $session['id'] }}">{{ $session['title'] }}</a>
                                     <div class="flex text-gray-600">
                                         <span class="mr-2">{{ $session['room'] }}</span>
