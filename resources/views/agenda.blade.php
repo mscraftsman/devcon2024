@@ -302,7 +302,7 @@
     <section class="sponsors">
       <section class="pt-2 max-w-4xl px-3 mb-10 mx-auto">
         <div class="sponsor__section mt-10" x-show="selectedOption == 'friday'">
-          <h3 class="text-center uppercase font-astronomus text-1xl sm:text-2xl text-purple mb-2">Networking hour sponsored by</h3>
+          <h3 class="text-center uppercase font-astronomus text-1xl sm:text-2xl text-purple mb-2">Networking hour (Invitation Only) sponsored by</h3>
           <div class="sponsor--logo-wrapper">
             <a href="https://www.spoonconsulting.com/s/" target="_blank" class="inline grid place-items-center">
               <img class="h-30 py-4 md:py-6" src="{{ asset('images/sponsors/spoonconsulting.png') }}" />
