@@ -1,5 +1,5 @@
 <div x-data="{ openModal: false }">
-    <div class="lg:-mb-28 grid place-items-center">
+    <div class="relative lg:-mb-28 grid place-items-center">
         <img src="/images/mscc-logo-dark.svg" class="h-20" />
         <div class="px-4 lg:px-0 py-2 text-center text-md lg:text-lg font-pixel uppercase">Mauritius Software Craftsmanship Community</div>
         <div class="mt-3 lg:mt-4 max-w-6xl mx-auto flex flex-col lg:flex-row justify-between gap-4 lg:gap-8 font-pixel text-md lg:text-lg">
